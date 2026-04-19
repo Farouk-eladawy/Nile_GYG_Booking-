@@ -526,8 +526,23 @@ class AirtableManager:
                                     # Convert to sorted strings for comparison to ignore order
                                     if sorted([str(x) for x in list_old]) == sorted([str(x) for x in list_new]):
                                         continue
+                                    else:
+                                        self.logger.debug(f"Mirror mismatch on {k} (List): {list_old} != {list_new}")
+                                        is_identical = False
+                                        break
                                 except Exception:
                                     pass
+
+                            # Handle strings that look like semicolon separated lists (like Add - Ons text)
+                            if k == "Add - Ons":
+                                addons_old = sorted([x.strip() for x in str_old.split(';')]) if str_old else []
+                                addons_new = sorted([x.strip() for x in str_new.split(';')]) if str_new else []
+                                if addons_old == addons_new:
+                                    continue
+                                else:
+                                    self.logger.debug(f"Mirror mismatch on {k} (String List): {addons_old} != {addons_new}")
+                                    is_identical = False
+                                    break
 
                             # Special handling for dates (compare only the first 10 chars YYYY-MM-DD if applicable)
                             if k in ["Date Trip", "Real Date Trip"] and len(str_old) >= 10 and len(str_new) >= 10:
@@ -549,7 +564,7 @@ class AirtableManager:
                                     
                             if str_new != str_old:
                                 is_identical = False
-                                self.logger.debug(f"Mirror mismatch on {k}: '{str_old}' != '{str_new}'")
+                                self.logger.debug(f"Mirror mismatch on {k}: Old='{str_old}' ({type(old_val)}) != New='{str_new}' ({type(new_val)})")
                                 break
                                 
                         if is_identical:
