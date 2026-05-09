@@ -1,26 +1,10 @@
-2026/05/09-09:02:38.069 970 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/05/09-09:06:24.381 970 Level-0 table #74235: started
-2026/05/09-09:06:24.387 970 Level-0 table #74235: 10834 bytes OK
-2026/05/09-09:06:24.388 970 Delete type=0 #74233
-2026/05/09-09:12:32.225 974 Level-0 table #74237: started
-2026/05/09-09:12:32.230 974 Level-0 table #74237: 12476 bytes OK
-2026/05/09-09:12:32.231 974 Delete type=0 #74234
-2026/05/09-09:14:07.163 970 Level-0 table #74239: started
-2026/05/09-09:14:07.178 970 Level-0 table #74239: 570287 bytes OK
-2026/05/09-09:14:07.179 970 Delete type=0 #74236
-2026/05/09-09:19:18.944 974 Level-0 table #74241: started
-2026/05/09-09:19:18.949 974 Level-0 table #74241: 11640 bytes OK
-2026/05/09-09:19:18.951 974 Delete type=0 #74238
-2026/05/09-09:19:18.951 976 Compacting 4@0 + 3@1 files
-2026/05/09-09:19:18.994 976 Generated table #74242@0: 54945 keys, 2135452 bytes
-2026/05/09-09:19:19.036 976 Generated table #74243@0: 75452 keys, 2150153 bytes
-2026/05/09-09:19:19.060 976 Generated table #74244@0: 52123 keys, 1486329 bytes
-2026/05/09-09:19:19.060 976 Compacted 4@0 + 3@1 files => 5771934 bytes
-2026/05/09-09:19:19.061 976 compacted to: files[ 0 5 26 0 0 0 0 ]
-2026/05/09-09:19:19.061 976 Delete type=2 #74237
-2026/05/09-09:19:19.061 976 Delete type=2 #74239
-2026/05/09-09:19:19.061 976 Delete type=2 #74235
-2026/05/09-09:19:19.061 976 Delete type=2 #74241
-2026/05/09-09:19:19.061 976 Delete type=2 #74229
-2026/05/09-09:19:19.061 976 Delete type=2 #74231
-2026/05/09-09:19:19.062 976 Delete type=2 #74230
+2026/05/09-10:05:24.844 972 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/05/09-10:09:05.835 972 Level-0 table #74248: started
+2026/05/09-10:09:05.837 972 Level-0 table #74248: 10140 bytes OK
+2026/05/09-10:09:05.838 972 Delete type=0 #74246
+2026/05/09-10:10:29.901 976 Level-0 table #74250: started
+2026/05/09-10:10:29.912 976 Level-0 table #74250: 568580 bytes OK
+2026/05/09-10:10:29.913 976 Delete type=0 #74247
+2026/05/09-10:13:40.396 976 Level-0 table #74252: started
+2026/05/09-10:13:40.401 976 Level-0 table #74252: 10083 bytes OK
+2026/05/09-10:13:40.402 976 Delete type=0 #74249
