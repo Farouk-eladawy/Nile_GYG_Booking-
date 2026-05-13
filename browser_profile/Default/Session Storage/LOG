@@ -1,7 +1,24 @@
-2026/05/13-17:42:57.922 933 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/05/13-17:46:30.500 933 Level-0 table #74917: started
-2026/05/13-17:46:30.504 933 Level-0 table #74917: 11042 bytes OK
-2026/05/13-17:46:30.505 933 Delete type=0 #74915
-2026/05/13-17:50:18.065 933 Level-0 table #74919: started
-2026/05/13-17:50:18.069 933 Level-0 table #74919: 11724 bytes OK
-2026/05/13-17:50:18.072 933 Delete type=0 #74916
+2026/05/13-18:45:29.347 9e2 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/05/13-18:49:41.479 9e6 Level-0 table #74923: started
+2026/05/13-18:49:41.483 9e6 Level-0 table #74923: 11841 bytes OK
+2026/05/13-18:49:41.484 9e6 Delete type=0 #74921
+2026/05/13-18:50:31.418 9e2 Level-0 table #74925: started
+2026/05/13-18:50:31.434 9e2 Level-0 table #74925: 570676 bytes OK
+2026/05/13-18:50:31.435 9e2 Delete type=0 #74922
+2026/05/13-18:50:31.436 9e2 Compacting 4@0 + 3@1 files
+2026/05/13-18:50:31.476 9e2 Generated table #74926@0: 35561 keys, 2122407 bytes
+2026/05/13-18:50:31.518 9e2 Generated table #74927@0: 75424 keys, 2151115 bytes
+2026/05/13-18:50:31.550 9e2 Generated table #74928@0: 75411 keys, 2149304 bytes
+2026/05/13-18:50:31.554 9e2 Generated table #74929@0: 5985 keys, 170741 bytes
+2026/05/13-18:50:31.554 9e2 Compacted 4@0 + 3@1 files => 6593567 bytes
+2026/05/13-18:50:31.554 9e2 compacted to: files[ 0 5 30 0 0 0 0 ]
+2026/05/13-18:50:31.554 9e2 Delete type=2 #74917
+2026/05/13-18:50:31.555 9e2 Delete type=2 #74925
+2026/05/13-18:50:31.555 9e2 Delete type=2 #74911
+2026/05/13-18:50:31.555 9e2 Delete type=2 #74923
+2026/05/13-18:50:31.555 9e2 Delete type=2 #74919
+2026/05/13-18:50:31.555 9e2 Delete type=2 #74912
+2026/05/13-18:50:31.555 9e2 Delete type=2 #74913
+2026/05/13-18:54:06.809 9e6 Level-0 table #74931: started
+2026/05/13-18:54:06.814 9e6 Level-0 table #74931: 11680 bytes OK
+2026/05/13-18:54:06.816 9e6 Delete type=0 #74924
