@@ -1,7 +1,24 @@
-2026/05/13-12:28:44.679 97a Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/05/13-12:32:31.320 97e Level-0 table #74872: started
-2026/05/13-12:32:31.325 97e Level-0 table #74872: 11164 bytes OK
-2026/05/13-12:32:31.326 97e Delete type=0 #74870
-2026/05/13-12:36:07.804 97a Level-0 table #74874: started
-2026/05/13-12:36:07.807 97a Level-0 table #74874: 11259 bytes OK
-2026/05/13-12:36:07.808 97a Delete type=0 #74871
+2026/05/13-12:55:39.970 977 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/05/13-12:59:08.190 977 Level-0 table #74878: started
+2026/05/13-12:59:08.192 977 Level-0 table #74878: 10341 bytes OK
+2026/05/13-12:59:08.193 977 Delete type=0 #74876
+2026/05/13-13:00:31.012 97c Level-0 table #74880: started
+2026/05/13-13:00:31.036 97c Level-0 table #74880: 571477 bytes OK
+2026/05/13-13:00:31.038 97c Delete type=0 #74877
+2026/05/13-13:00:31.039 97c Compacting 4@0 + 3@1 files
+2026/05/13-13:00:31.084 97c Generated table #74881@0: 55400 keys, 2136551 bytes
+2026/05/13-13:00:31.127 97c Generated table #74882@0: 75461 keys, 2150875 bytes
+2026/05/13-13:00:31.153 97c Generated table #74883@0: 60117 keys, 1713634 bytes
+2026/05/13-13:00:31.154 97c Compacted 4@0 + 3@1 files => 6001060 bytes
+2026/05/13-13:00:31.154 97c compacted to: files[ 0 5 29 0 0 0 0 ]
+2026/05/13-13:00:31.155 97c Delete type=2 #74868
+2026/05/13-13:00:31.155 97c Delete type=2 #74874
+2026/05/13-13:00:31.155 97c Delete type=2 #74880
+2026/05/13-13:00:31.155 97c Delete type=2 #74866
+2026/05/13-13:00:31.155 97c Delete type=2 #74867
+2026/05/13-13:00:31.155 97c Delete type=2 #74872
+2026/05/13-13:00:31.155 97c Delete type=2 #74878
+2026/05/13-13:00:31.156 97c Moved #74495 to level-2 2260706 bytes OK: files[ 0 4 30 0 0 0 0 ]
+2026/05/13-13:03:47.086 97b Level-0 table #74885: started
+2026/05/13-13:03:47.093 97b Level-0 table #74885: 10371 bytes OK
+2026/05/13-13:03:47.094 97b Delete type=0 #74879
