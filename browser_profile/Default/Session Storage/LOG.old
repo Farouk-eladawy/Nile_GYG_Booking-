@@ -1,28 +1,7 @@
-2026/05/16-10:51:26.986 c00 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/05/16-10:55:03.038 c00 Level-0 table #75386: started
-2026/05/16-10:55:03.039 c00 Level-0 table #75386: 11127 bytes OK
-2026/05/16-10:55:03.040 c00 Delete type=0 #75384
-2026/05/16-10:56:04.526 c04 Level-0 table #75388: started
-2026/05/16-10:56:04.544 c04 Level-0 table #75388: 571516 bytes OK
-2026/05/16-10:56:04.546 c04 Delete type=0 #75385
-2026/05/16-11:03:17.665 c04 Level-0 table #75390: started
-2026/05/16-11:03:17.680 c04 Level-0 table #75390: 575710 bytes OK
-2026/05/16-11:03:17.682 c04 Delete type=0 #75387
-2026/05/16-11:03:17.683 c04 Compacting 4@0 + 4@1 files
-2026/05/16-11:03:17.722 c04 Generated table #75391@0: 5409 keys, 2333764 bytes
-2026/05/16-11:03:17.763 c04 Generated table #75392@0: 75351 keys, 2150908 bytes
-2026/05/16-11:03:17.797 c04 Generated table #75393@0: 75366 keys, 2150869 bytes
-2026/05/16-11:03:17.817 c04 Generated table #75394@0: 44960 keys, 1281952 bytes
-2026/05/16-11:03:17.817 c04 Compacted 4@0 + 4@1 files => 7917493 bytes
-2026/05/16-11:03:17.818 c04 compacted to: files[ 0 5 31 0 0 0 0 ]
-2026/05/16-11:03:17.818 c04 Delete type=2 #75377
-2026/05/16-11:03:17.818 c04 Delete type=2 #75388
-2026/05/16-11:03:17.818 c04 Delete type=2 #75380
-2026/05/16-11:03:17.818 c04 Delete type=2 #75382
-2026/05/16-11:03:17.818 c04 Delete type=2 #75378
-2026/05/16-11:03:17.818 c04 Delete type=2 #75390
-2026/05/16-11:03:17.818 c04 Delete type=2 #75379
-2026/05/16-11:03:17.818 c04 Delete type=2 #75386
-2026/05/16-11:08:20.433 c04 Level-0 table #75396: started
-2026/05/16-11:08:20.444 c04 Level-0 table #75396: 577832 bytes OK
-2026/05/16-11:08:20.446 c04 Delete type=0 #75389
+2026/05/16-11:38:37.138 983 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/05/16-11:42:33.177 983 Level-0 table #75400: started
+2026/05/16-11:42:33.186 983 Level-0 table #75400: 12120 bytes OK
+2026/05/16-11:42:33.187 983 Delete type=0 #75398
+2026/05/16-11:46:01.857 983 Level-0 table #75402: started
+2026/05/16-11:46:01.858 983 Level-0 table #75402: 11322 bytes OK
+2026/05/16-11:46:01.859 983 Delete type=0 #75399
