@@ -1,22 +1,10 @@
-2026/05/20-20:19:30.862 928 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/05/20-20:22:57.351 928 Level-0 table #76372: started
-2026/05/20-20:22:57.355 928 Level-0 table #76372: 10583 bytes OK
-2026/05/20-20:22:57.356 928 Delete type=0 #76370
-2026/05/20-20:26:39.767 92c Level-0 table #76374: started
-2026/05/20-20:26:39.768 92c Level-0 table #76374: 9885 bytes OK
-2026/05/20-20:26:39.769 92c Delete type=0 #76371
-2026/05/20-20:26:39.769 92c Compacting 4@0 + 4@1 files
-2026/05/20-20:26:39.807 92c Generated table #76375@0: 14141 keys, 2109114 bytes
-2026/05/20-20:26:39.859 92c Generated table #76376@0: 75368 keys, 2149028 bytes
-2026/05/20-20:26:39.927 92c Generated table #76377@0: 75313 keys, 2149609 bytes
-2026/05/20-20:26:39.955 92c Generated table #76378@0: 40847 keys, 1166422 bytes
-2026/05/20-20:26:39.955 92c Compacted 4@0 + 4@1 files => 7574173 bytes
-2026/05/20-20:26:39.956 92c compacted to: files[ 0 5 36 0 0 0 0 ]
-2026/05/20-20:26:39.957 92c Delete type=2 #76366
-2026/05/20-20:26:39.957 92c Delete type=2 #76372
-2026/05/20-20:26:39.957 92c Delete type=2 #76363
-2026/05/20-20:26:39.957 92c Delete type=2 #76361
-2026/05/20-20:26:39.957 92c Delete type=2 #76374
-2026/05/20-20:26:39.957 92c Delete type=2 #76364
-2026/05/20-20:26:39.957 92c Delete type=2 #76368
-2026/05/20-20:26:39.957 92c Delete type=2 #76362
+2026/05/20-20:46:23.238 973 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/05/20-20:50:36.896 977 Level-0 table #76382: started
+2026/05/20-20:50:36.906 977 Level-0 table #76382: 11260 bytes OK
+2026/05/20-20:50:36.907 977 Delete type=0 #76380
+2026/05/20-20:51:20.362 973 Level-0 table #76384: started
+2026/05/20-20:51:20.376 973 Level-0 table #76384: 569292 bytes OK
+2026/05/20-20:51:20.379 973 Delete type=0 #76381
+2026/05/20-20:55:08.509 973 Level-0 table #76386: started
+2026/05/20-20:55:08.515 973 Level-0 table #76386: 11849 bytes OK
+2026/05/20-20:55:08.516 973 Delete type=0 #76383
