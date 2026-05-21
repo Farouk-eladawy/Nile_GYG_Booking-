@@ -1,4 +1,34 @@
-2026/05/21-06:47:40.001 975 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/05/21-06:56:40.484 979 Level-0 table #7257: started
-2026/05/21-06:56:40.489 979 Level-0 table #7257: 16546 bytes OK
-2026/05/21-06:56:40.492 979 Delete type=0 #7255
+2026/05/21-07:51:08.879 92a Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/05/21-07:58:57.808 92a Level-0 table #7261: started
+2026/05/21-07:58:57.812 92a Level-0 table #7261: 16976 bytes OK
+2026/05/21-07:58:57.814 92a Delete type=0 #7259
+2026/05/21-07:58:57.814 92a Compacting 4@0 + 1@1 files
+2026/05/21-07:58:57.818 92a Generated table #7262@0: 792 keys, 31155 bytes
+2026/05/21-07:58:57.818 92a Compacted 4@0 + 1@1 files => 31155 bytes
+2026/05/21-07:58:57.818 92a compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/21-07:58:57.818 92a Delete type=2 #7257
+2026/05/21-07:58:57.818 92a Delete type=2 #7249
+2026/05/21-07:58:57.819 92a Delete type=2 #7261
+2026/05/21-07:58:57.819 92a Delete type=2 #7245
+2026/05/21-07:58:57.819 92a Delete type=2 #7253
+2026/05/21-08:33:17.963 92a Level-0 table #7264: started
+2026/05/21-08:33:17.967 92a Level-0 table #7264: 16767 bytes OK
+2026/05/21-08:33:17.968 92a Delete type=0 #7260
+2026/05/21-08:34:52.673 92e Level-0 table #7266: started
+2026/05/21-08:34:52.677 92e Level-0 table #7266: 16905 bytes OK
+2026/05/21-08:34:52.678 92e Delete type=0 #7263
+2026/05/21-08:36:13.431 92a Level-0 table #7268: started
+2026/05/21-08:36:13.435 92a Level-0 table #7268: 14847 bytes OK
+2026/05/21-08:36:13.436 92a Delete type=0 #7265
+2026/05/21-08:39:43.909 92a Level-0 table #7270: started
+2026/05/21-08:39:43.915 92a Level-0 table #7270: 15852 bytes OK
+2026/05/21-08:39:43.916 92a Delete type=0 #7267
+2026/05/21-08:39:43.916 92a Compacting 4@0 + 1@1 files
+2026/05/21-08:39:43.918 92a Generated table #7271@0: 792 keys, 31157 bytes
+2026/05/21-08:39:43.918 92a Compacted 4@0 + 1@1 files => 31157 bytes
+2026/05/21-08:39:43.919 92a compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/21-08:39:43.919 92a Delete type=2 #7266
+2026/05/21-08:39:43.919 92a Delete type=2 #7264
+2026/05/21-08:39:43.919 92a Delete type=2 #7262
+2026/05/21-08:39:43.919 92a Delete type=2 #7268
+2026/05/21-08:39:43.919 92a Delete type=2 #7270
