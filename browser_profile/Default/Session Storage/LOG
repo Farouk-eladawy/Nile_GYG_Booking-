@@ -1,7 +1,28 @@
-2026/05/22-12:06:49.711 961 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/05/22-12:10:48.030 961 Level-0 table #76652: started
-2026/05/22-12:10:48.035 961 Level-0 table #76652: 11707 bytes OK
-2026/05/22-12:10:48.036 961 Delete type=0 #76650
-2026/05/22-12:14:17.416 965 Level-0 table #76654: started
-2026/05/22-12:14:17.422 965 Level-0 table #76654: 11073 bytes OK
-2026/05/22-12:14:17.424 965 Delete type=0 #76651
+2026/05/22-13:09:28.473 9a4 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/05/22-13:13:16.186 9a8 Level-0 table #76658: started
+2026/05/22-13:13:16.190 9a8 Level-0 table #76658: 11670 bytes OK
+2026/05/22-13:13:16.192 9a8 Delete type=0 #76656
+2026/05/22-13:16:28.045 9a8 Level-0 table #76660: started
+2026/05/22-13:16:28.047 9a8 Level-0 table #76660: 12744 bytes OK
+2026/05/22-13:16:28.048 9a8 Delete type=0 #76657
+2026/05/22-13:16:28.048 9a8 Compacting 4@0 + 4@1 files
+2026/05/22-13:16:28.081 9a8 Generated table #76661@0: 13999 keys, 2107967 bytes
+2026/05/22-13:16:28.125 9a8 Generated table #76662@0: 75458 keys, 2150408 bytes
+2026/05/22-13:16:28.162 9a8 Generated table #76663@0: 75321 keys, 2149324 bytes
+2026/05/22-13:16:28.181 9a8 Generated table #76664@0: 44200 keys, 1262418 bytes
+2026/05/22-13:16:28.181 9a8 Compacted 4@0 + 4@1 files => 7670117 bytes
+2026/05/22-13:16:28.182 9a8 compacted to: files[ 0 5 38 0 0 0 0 ]
+2026/05/22-13:16:28.183 9a8 Delete type=2 #76647
+2026/05/22-13:16:28.183 9a8 Delete type=2 #76654
+2026/05/22-13:16:28.183 9a8 Delete type=2 #76660
+2026/05/22-13:16:28.183 9a8 Delete type=2 #76648
+2026/05/22-13:16:28.183 9a8 Delete type=2 #76645
+2026/05/22-13:16:28.183 9a8 Delete type=2 #76646
+2026/05/22-13:16:28.183 9a8 Delete type=2 #76658
+2026/05/22-13:16:28.183 9a8 Delete type=2 #76652
+2026/05/22-13:24:41.926 9a8 Level-0 table #76666: started
+2026/05/22-13:24:41.933 9a8 Level-0 table #76666: 11360 bytes OK
+2026/05/22-13:24:41.934 9a8 Delete type=0 #76659
+2026/05/22-13:30:11.165 9a8 Level-0 table #76668: started
+2026/05/22-13:30:11.169 9a8 Level-0 table #76668: 11074 bytes OK
+2026/05/22-13:30:11.171 9a8 Delete type=0 #76665
