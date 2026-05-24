@@ -1,22 +1,10 @@
-2026/05/23-23:43:46.360 9d0 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/05/23-23:48:07.612 9d0 Level-0 table #76940: started
-2026/05/23-23:48:07.617 9d0 Level-0 table #76940: 11714 bytes OK
-2026/05/23-23:48:07.619 9d0 Delete type=0 #76938
-2026/05/23-23:51:54.970 9d4 Level-0 table #76942: started
-2026/05/23-23:51:54.977 9d4 Level-0 table #76942: 10999 bytes OK
-2026/05/23-23:51:54.980 9d4 Delete type=0 #76939
-2026/05/23-23:51:54.981 9d4 Compacting 4@0 + 4@1 files
-2026/05/23-23:51:55.030 9d4 Generated table #76943@0: 14054 keys, 2107596 bytes
-2026/05/23-23:51:55.077 9d4 Generated table #76944@0: 75267 keys, 2149146 bytes
-2026/05/23-23:51:55.131 9d4 Generated table #76945@0: 75257 keys, 2149213 bytes
-2026/05/23-23:51:55.161 9d4 Generated table #76946@0: 47727 keys, 1363574 bytes
-2026/05/23-23:51:55.161 9d4 Compacted 4@0 + 4@1 files => 7769529 bytes
-2026/05/23-23:51:55.162 9d4 compacted to: files[ 0 5 40 0 0 0 0 ]
-2026/05/23-23:51:55.162 9d4 Delete type=2 #76942
-2026/05/23-23:51:55.162 9d4 Delete type=2 #76930
-2026/05/23-23:51:55.162 9d4 Delete type=2 #76931
-2026/05/23-23:51:55.163 9d4 Delete type=2 #76936
-2026/05/23-23:51:55.163 9d4 Delete type=2 #76929
-2026/05/23-23:51:55.163 9d4 Delete type=2 #76940
-2026/05/23-23:51:55.163 9d4 Delete type=2 #76932
-2026/05/23-23:51:55.163 9d4 Delete type=2 #76934
+2026/05/23-23:55:57.498 985 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/05/23-23:59:15.870 985 Level-0 table #76950: started
+2026/05/23-23:59:15.875 985 Level-0 table #76950: 10179 bytes OK
+2026/05/23-23:59:15.877 985 Delete type=0 #76948
+2026/05/24-00:00:26.698 985 Level-0 table #76952: started
+2026/05/24-00:00:26.713 985 Level-0 table #76952: 571446 bytes OK
+2026/05/24-00:00:26.714 985 Delete type=0 #76949
+2026/05/24-00:03:35.356 985 Level-0 table #76954: started
+2026/05/24-00:03:35.361 985 Level-0 table #76954: 10193 bytes OK
+2026/05/24-00:03:35.362 985 Delete type=0 #76951
