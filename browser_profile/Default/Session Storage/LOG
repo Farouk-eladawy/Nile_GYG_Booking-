@@ -1,10 +1,22 @@
-2026/05/24-09:09:04.735 96f Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/05/24-09:12:48.598 973 Level-0 table #77084: started
-2026/05/24-09:12:48.600 973 Level-0 table #77084: 11881 bytes OK
-2026/05/24-09:12:48.601 973 Delete type=0 #77082
-2026/05/24-09:20:18.933 974 Level-0 table #77086: started
-2026/05/24-09:20:18.940 974 Level-0 table #77086: 12860 bytes OK
-2026/05/24-09:20:18.941 974 Delete type=0 #77083
-2026/05/24-09:28:55.832 973 Level-0 table #77088: started
-2026/05/24-09:28:55.838 973 Level-0 table #77088: 13095 bytes OK
-2026/05/24-09:28:55.841 973 Delete type=0 #77085
+2026/05/24-09:46:55.917 92a Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/05/24-09:50:46.326 92e Level-0 table #77092: started
+2026/05/24-09:50:46.331 92e Level-0 table #77092: 11839 bytes OK
+2026/05/24-09:50:46.332 92e Delete type=0 #77090
+2026/05/24-09:50:46.333 92a Compacting 4@0 + 4@1 files
+2026/05/24-09:50:46.378 92a Generated table #77093@0: 54885 keys, 2136352 bytes
+2026/05/24-09:50:46.459 92a Generated table #77094@0: 75249 keys, 2149251 bytes
+2026/05/24-09:50:46.492 92a Generated table #77095@0: 75325 keys, 2150126 bytes
+2026/05/24-09:50:46.496 92a Generated table #77096@0: 8472 keys, 242446 bytes
+2026/05/24-09:50:46.496 92a Compacted 4@0 + 4@1 files => 6678175 bytes
+2026/05/24-09:50:46.496 92a compacted to: files[ 0 5 41 0 0 0 0 ]
+2026/05/24-09:50:46.497 92a Delete type=2 #77088
+2026/05/24-09:50:46.497 92a Delete type=2 #77084
+2026/05/24-09:50:46.497 92a Delete type=2 #77080
+2026/05/24-09:50:46.497 92a Delete type=2 #77092
+2026/05/24-09:50:46.497 92a Delete type=2 #77086
+2026/05/24-09:50:46.497 92a Delete type=2 #77078
+2026/05/24-09:50:46.497 92a Delete type=2 #77077
+2026/05/24-09:50:46.497 92a Delete type=2 #77079
+2026/05/24-09:54:14.720 92a Level-0 table #77098: started
+2026/05/24-09:54:14.724 92a Level-0 table #77098: 11309 bytes OK
+2026/05/24-09:54:14.725 92a Delete type=0 #77091
