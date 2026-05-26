@@ -1,7 +1,25 @@
-2026/05/26-14:48:30.965 971 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/05/26-14:52:33.460 971 Level-0 table #77630: started
-2026/05/26-14:52:33.465 971 Level-0 table #77630: 10997 bytes OK
-2026/05/26-14:52:33.467 971 Delete type=0 #77628
-2026/05/26-14:56:12.799 971 Level-0 table #77632: started
-2026/05/26-14:56:12.803 971 Level-0 table #77632: 12102 bytes OK
-2026/05/26-14:56:12.804 971 Delete type=0 #77629
+2026/05/26-15:39:06.115 96c Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/05/26-15:42:57.842 96c Level-0 table #77636: started
+2026/05/26-15:42:57.844 96c Level-0 table #77636: 11040 bytes OK
+2026/05/26-15:42:57.845 96c Delete type=0 #77634
+2026/05/26-15:46:38.462 970 Level-0 table #77638: started
+2026/05/26-15:46:38.465 970 Level-0 table #77638: 12030 bytes OK
+2026/05/26-15:46:38.466 970 Delete type=0 #77635
+2026/05/26-15:46:38.466 970 Compacting 4@0 + 4@1 files
+2026/05/26-15:46:38.492 970 Generated table #77639@0: 14167 keys, 2108183 bytes
+2026/05/26-15:46:38.518 970 Generated table #77640@0: 75327 keys, 2149151 bytes
+2026/05/26-15:46:38.544 970 Generated table #77641@0: 75312 keys, 2150964 bytes
+2026/05/26-15:46:38.564 970 Generated table #77642@0: 54935 keys, 1568273 bytes
+2026/05/26-15:46:38.564 970 Compacted 4@0 + 4@1 files => 7976571 bytes
+2026/05/26-15:46:38.564 970 compacted to: files[ 0 5 43 0 0 0 0 ]
+2026/05/26-15:46:38.565 970 Delete type=2 #77626
+2026/05/26-15:46:38.565 970 Delete type=2 #77638
+2026/05/26-15:46:38.565 970 Delete type=2 #77630
+2026/05/26-15:46:38.565 970 Delete type=2 #77636
+2026/05/26-15:46:38.565 970 Delete type=2 #77625
+2026/05/26-15:46:38.565 970 Delete type=2 #77632
+2026/05/26-15:46:38.565 970 Delete type=2 #77623
+2026/05/26-15:46:38.565 970 Delete type=2 #77624
+2026/05/26-16:00:14.404 96c Level-0 table #77644: started
+2026/05/26-16:00:14.408 96c Level-0 table #77644: 13152 bytes OK
+2026/05/26-16:00:14.410 96c Delete type=0 #77637
