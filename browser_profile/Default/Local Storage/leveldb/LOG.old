@@ -1,4 +1,28 @@
-2026/05/28-12:23:51.103 967 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/05/28-12:30:51.645 963 Level-0 table #8574: started
-2026/05/28-12:30:51.646 963 Level-0 table #8574: 19060 bytes OK
-2026/05/28-12:30:51.646 963 Delete type=0 #8572
+2026/05/28-12:39:49.374 960 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/05/28-12:47:50.513 95f Level-0 table #8578: started
+2026/05/28-12:47:50.514 95f Level-0 table #8578: 23390 bytes OK
+2026/05/28-12:47:50.515 95f Delete type=0 #8576
+2026/05/28-12:50:50.513 95f Level-0 table #8580: started
+2026/05/28-12:50:50.515 95f Level-0 table #8580: 22086 bytes OK
+2026/05/28-12:50:50.516 95f Delete type=0 #8577
+2026/05/28-13:23:59.079 95f Level-0 table #8582: started
+2026/05/28-13:23:59.082 95f Level-0 table #8582: 22463 bytes OK
+2026/05/28-13:23:59.083 95f Delete type=0 #8579
+2026/05/28-13:23:59.083 95f Compacting 4@0 + 1@1 files
+2026/05/28-13:23:59.084 95f Generated table #8583@0: 1261 keys, 40456 bytes
+2026/05/28-13:23:59.084 95f Compacted 4@0 + 1@1 files => 40456 bytes
+2026/05/28-13:23:59.085 95f compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/28-13:23:59.085 95f Delete type=2 #8578
+2026/05/28-13:23:59.085 95f Delete type=2 #8570
+2026/05/28-13:23:59.085 95f Delete type=2 #8574
+2026/05/28-13:23:59.085 95f Delete type=2 #8582
+2026/05/28-13:23:59.085 95f Delete type=2 #8580
+2026/05/28-13:25:14.182 95f Level-0 table #8585: started
+2026/05/28-13:25:14.185 95f Level-0 table #8585: 19478 bytes OK
+2026/05/28-13:25:14.186 95f Delete type=0 #8581
+2026/05/28-13:26:50.514 95f Level-0 table #8587: started
+2026/05/28-13:26:50.515 95f Level-0 table #8587: 21245 bytes OK
+2026/05/28-13:26:50.515 95f Delete type=0 #8584
+2026/05/28-13:31:59.262 95f Level-0 table #8589: started
+2026/05/28-13:31:59.271 95f Level-0 table #8589: 22466 bytes OK
+2026/05/28-13:31:59.274 95f Delete type=0 #8586
