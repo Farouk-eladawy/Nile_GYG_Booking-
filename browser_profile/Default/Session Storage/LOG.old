@@ -1,22 +1,10 @@
-2026/05/29-00:43:29.071 925 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/05/29-00:47:41.637 925 Level-0 table #78309: started
-2026/05/29-00:47:41.642 925 Level-0 table #78309: 11624 bytes OK
-2026/05/29-00:47:41.644 925 Delete type=0 #78307
-2026/05/29-00:51:27.019 929 Level-0 table #78311: started
-2026/05/29-00:51:27.024 929 Level-0 table #78311: 11389 bytes OK
-2026/05/29-00:51:27.030 929 Delete type=0 #78308
-2026/05/29-00:51:27.031 929 Compacting 4@0 + 4@1 files
-2026/05/29-00:51:27.067 929 Generated table #78312@0: 13802 keys, 2108345 bytes
-2026/05/29-00:51:27.107 929 Generated table #78313@0: 75231 keys, 2149165 bytes
-2026/05/29-00:51:27.139 929 Generated table #78314@0: 75331 keys, 2150156 bytes
-2026/05/29-00:51:27.166 929 Generated table #78315@0: 61386 keys, 1753070 bytes
-2026/05/29-00:51:27.166 929 Compacted 4@0 + 4@1 files => 8160736 bytes
-2026/05/29-00:51:27.166 929 compacted to: files[ 0 5 47 1 0 0 0 ]
-2026/05/29-00:51:27.167 929 Delete type=2 #78300
-2026/05/29-00:51:27.167 929 Delete type=2 #78305
-2026/05/29-00:51:27.167 929 Delete type=2 #78301
-2026/05/29-00:51:27.167 929 Delete type=2 #78299
-2026/05/29-00:51:27.167 929 Delete type=2 #78309
-2026/05/29-00:51:27.167 929 Delete type=2 #78303
-2026/05/29-00:51:27.167 929 Delete type=2 #78311
-2026/05/29-00:51:27.167 929 Delete type=2 #78298
+2026/05/29-01:13:33.970 a06 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/05/29-01:16:33.376 a0a Level-0 table #78319: started
+2026/05/29-01:16:33.385 a0a Level-0 table #78319: 13179 bytes OK
+2026/05/29-01:16:33.386 a0a Delete type=0 #78317
+2026/05/29-01:19:20.352 a0a Level-0 table #78321: started
+2026/05/29-01:19:20.361 a0a Level-0 table #78321: 13025 bytes OK
+2026/05/29-01:19:20.363 a0a Delete type=0 #78318
+2026/05/29-01:22:28.030 a0b Level-0 table #78323: started
+2026/05/29-01:22:28.038 a0b Level-0 table #78323: 13841 bytes OK
+2026/05/29-01:22:28.040 a0b Delete type=0 #78320
