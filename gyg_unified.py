@@ -616,6 +616,20 @@ class AirtableManager:
                                 is_identical = False
                                 self.logger.debug(f"Mirror mismatch on {k}: Old='{str_old}' ({type(old_val)}) != New='{str_new}' ({type(new_val)})")
                                 
+                        # Cross-field check to protect manual edits
+                        if "Real Date Trip" in fields and "Real Date Trip" not in changed_fields:
+                            if "Date Trip" in changed_fields:
+                                del changed_fields["Date Trip"]
+                                self.logger.info(f"Protecting manual edit on 'Date Trip' for {booking.get('booking_nr')}")
+                                
+                        if "Real Product Name" in fields and "Real Product Name" not in changed_fields:
+                            if "trip Name" in changed_fields:
+                                del changed_fields["trip Name"]
+                                self.logger.info(f"Protecting manual edit on 'trip Name' for {booking.get('booking_nr')}")
+                                
+                        if len(changed_fields) == 0:
+                            is_identical = True
+
                         if is_identical:
                             self.logger.info(f"Skipping Main Base update for {booking.get('booking_nr')} - Matches Mirror Base perfectly (No new changes from GYG).")
                             return {"success": True, "record_id": m_rid, "skipped": True}
@@ -3002,13 +3016,13 @@ def _parse_date_text(s: Optional[str]) -> Optional[str]:
     else:
         h = 12 if h == 12 else h + 12
     try:
-        # If GYG says 20:30, we want it to display EXACTLY as 20:30 in Airtable.
-        # Since Airtable field "Date Trip" is configured to show "Local Time" (EEST/UTC+3 or UTC+2),
-        # the most foolproof way to bypass all Airtable timezone conversions is to format the date
-        # as a raw ISO string without ANY timezone indicator (no 'Z', no offset).
-        # This forces Airtable to treat it as "floating local time" and display it exactly as string.
-        dt = datetime(int(year), mi, int(day), h, int(mm))
-        return dt.strftime('%Y-%m-%dT%H:%M:00')
+        from zoneinfo import ZoneInfo
+        # Localize GYG time to Africa/Cairo, then convert to UTC and append 'Z'
+        # This prevents Airtable API from misinterpreting floating times and causing delta loops.
+        dt_naive = datetime(int(year), mi, int(day), h, int(mm))
+        dt_cairo = dt_naive.replace(tzinfo=ZoneInfo("Africa/Cairo"))
+        dt_utc = dt_cairo.astimezone(ZoneInfo("UTC"))
+        return dt_utc.strftime('%Y-%m-%dT%H:%M:00.000Z')
     except Exception:
         return None
 
