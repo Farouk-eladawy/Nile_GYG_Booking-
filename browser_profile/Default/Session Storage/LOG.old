@@ -1,10 +1,30 @@
-2026/05/30-19:05:31.172 965 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/05/30-19:09:11.565 965 Level-0 table #78670: started
-2026/05/30-19:09:11.572 965 Level-0 table #78670: 11768 bytes OK
-2026/05/30-19:09:11.573 965 Delete type=0 #78668
-2026/05/30-19:09:53.944 969 Level-0 table #78672: started
-2026/05/30-19:09:53.956 969 Level-0 table #78672: 573669 bytes OK
-2026/05/30-19:09:53.957 969 Delete type=0 #78669
-2026/05/30-19:13:49.193 965 Level-0 table #78674: started
-2026/05/30-19:13:49.200 965 Level-0 table #78674: 12537 bytes OK
-2026/05/30-19:13:49.203 965 Delete type=0 #78671
+2026/05/30-19:48:45.136 942 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/05/30-19:52:21.330 942 Level-0 table #78678: started
+2026/05/30-19:52:21.334 942 Level-0 table #78678: 11057 bytes OK
+2026/05/30-19:52:21.337 942 Delete type=0 #78676
+2026/05/30-19:52:21.337 942 Compacting 4@0 + 4@1 files
+2026/05/30-19:52:21.380 942 Generated table #78679@0: 54539 keys, 2135792 bytes
+2026/05/30-19:52:21.421 942 Generated table #78680@0: 75283 keys, 2150920 bytes
+2026/05/30-19:52:21.455 942 Generated table #78681@0: 75268 keys, 2149288 bytes
+2026/05/30-19:52:21.466 942 Generated table #78682@0: 24960 keys, 712799 bytes
+2026/05/30-19:52:21.466 942 Compacted 4@0 + 4@1 files => 7148799 bytes
+2026/05/30-19:52:21.467 942 compacted to: files[ 0 5 47 4 0 0 0 ]
+2026/05/30-19:52:21.467 942 Delete type=2 #78666
+2026/05/30-19:52:21.467 942 Delete type=2 #78678
+2026/05/30-19:52:21.467 942 Delete type=2 #78663
+2026/05/30-19:52:21.467 942 Delete type=2 #78665
+2026/05/30-19:52:21.467 942 Delete type=2 #78670
+2026/05/30-19:52:21.467 942 Delete type=2 #78672
+2026/05/30-19:52:21.467 942 Delete type=2 #78664
+2026/05/30-19:52:21.467 942 Delete type=2 #78674
+2026/05/30-19:53:11.882 946 Level-0 table #78684: started
+2026/05/30-19:53:11.893 946 Level-0 table #78684: 574250 bytes OK
+2026/05/30-19:53:11.895 946 Delete type=0 #78677
+2026/05/30-19:59:52.109 946 Level-0 table #78686: started
+2026/05/30-19:59:52.113 946 Level-0 table #78686: 14823 bytes OK
+2026/05/30-19:59:52.114 946 Delete type=0 #78683
+2026/05/30-20:06:49.342 942 Level-0 table #78688: started
+2026/05/30-20:06:49.348 942 Level-0 table #78688: 15990 bytes OK
+2026/05/30-20:06:49.350 942 Delete type=0 #78685
+2026/05/30-20:09:45.809 946 Level-0 table #78690: started
+2026/05/30-20:09:45.811 946 Level-0 table #78690: 10731 bytes OK
