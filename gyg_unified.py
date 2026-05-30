@@ -159,21 +159,6 @@ class BookingsDatabase:
             else:
                 s_new = normalize_val(v_new)
                 s_old = normalize_val(v_old)
-                
-                # Special handling for arrays/lists like add_ons that are stored as strings
-                if k == "add_ons":
-                    import re
-                    addons_old = sorted([x.strip() for x in s_old.replace(',', ';').split(';')]) if s_old else []
-                    addons_new = sorted([x.strip() for x in s_new.replace(',', ';').split(';')]) if s_new else []
-                    addons_old = sorted([re.sub(r'^\d+\s*x\s*', '', x) for x in addons_old if x])
-                    addons_new = sorted([re.sub(r'^\d+\s*x\s*', '', x) for x in addons_new if x])
-                    if addons_old == addons_new:
-                        continue
-                        
-                if k == "date_trip":
-                    if s_old[:16] == s_new[:16]:
-                        continue
-                        
                 if s_new != s_old:
                     try:
                         f1 = float(s_new)
@@ -384,10 +369,7 @@ class AirtableManager:
                             except Exception:
                                 pass
                                 
-                        if k in ["Date Trip", "Real Date Trip"] and len(str_old) >= 16 and len(str_new) >= 16:
-                            if str_old[:16] == str_new[:16]:
-                                continue
-                        elif k in ["Date Trip", "Real Date Trip"] and len(str_old) >= 10 and len(str_new) >= 10:
+                        if k in ["Date Trip", "Real Date Trip"] and len(str_old) >= 10 and len(str_new) >= 10:
                             if str_old[:10] == str_new[:10]:
                                 continue
                                 
@@ -415,8 +397,6 @@ class AirtableManager:
                 else:
                     self.logger.info(f"Creating record in Mirror Base for {booking_nr}")
                     requests.post(self.mirror_api_url, headers=headers, json={"fields": fields, "typecast": True}, timeout=30)
-            else:
-                self.logger.error(f"Failed to fetch Mirror Base for {booking_nr} during sync. Status Code: {mirror_find.status_code}. Response: {mirror_find.text}")
         except Exception as e:
             self.logger.warning(f"Failed to sync to mirror base for {booking_nr}: {e}")
 
@@ -511,13 +491,6 @@ class AirtableManager:
             # We skip the main base update to preserve manual edits in the main base.
             if self.mirror_api_url:
                 mirror_find = requests.get(self.mirror_api_url, headers=headers, params=params, timeout=30)
-                
-                if mirror_find.status_code == 429:
-                    self.logger.warning(f"Rate limit hit when checking Mirror Base for {booking.get('booking_nr')}. Waiting 2 seconds.")
-                    import time
-                    time.sleep(2)
-                    mirror_find = requests.get(self.mirror_api_url, headers=headers, params=params, timeout=30)
-                    
                 if mirror_find.status_code == 200:
                     m_data = mirror_find.json() or {}
                     m_records = m_data.get("records") or []
@@ -527,7 +500,6 @@ class AirtableManager:
                         
                         # Compare incoming fields with mirror base fields
                         is_identical = True
-                        changed_fields = {}
                         for k, v in fields.items():
                             old_val = existing_m_record.get(k)
                             new_val = v
@@ -554,106 +526,36 @@ class AirtableManager:
                                     # Convert to sorted strings for comparison to ignore order
                                     if sorted([str(x) for x in list_old]) == sorted([str(x) for x in list_new]):
                                         continue
-                                    else:
-                                        self.logger.debug(f"Mirror mismatch on {k} (List): {list_old} != {list_new}")
-                                        changed_fields[k] = new_val
-                                        is_identical = False
-                                        continue
                                 except Exception:
                                     pass
 
-                            # Handle strings that look like semicolon or comma separated lists (like Add - Ons text)
-                            if k == "Add - Ons":
-                                # Sometimes separated by ';' and sometimes by ',' depending on the source
-                                addons_old = sorted([x.strip() for x in str_old.replace(',', ';').split(';')]) if str_old else []
-                                addons_new = sorted([x.strip() for x in str_new.replace(',', ';').split(';')]) if str_new else []
-                                
-                                # Clean up common prefix like '2 x ' or '1 x ' before comparison
-                                import re
-                                addons_old = sorted([re.sub(r'^\d+\s*x\s*', '', x) for x in addons_old if x])
-                                addons_new = sorted([re.sub(r'^\d+\s*x\s*', '', x) for x in addons_new if x])
-                                
-                                if addons_old == addons_new:
-                                    continue
-                                else:
-                                    self.logger.debug(f"Mirror mismatch on {k} (String List): {addons_old} != {addons_new}")
-                                    changed_fields[k] = new_val
-                                    is_identical = False
-                                    continue
-
                             # Special handling for dates (compare only the first 10 chars YYYY-MM-DD if applicable)
-                            if k in ["Date Trip", "Real Date Trip"] and len(str_old) >= 16 and len(str_new) >= 16:
-                                # Sometimes Airtable appends 'Z' to floating times in the API response
-                                # We only want to compare the actual numbers YYYY-MM-DDTHH:MM
-                                str_old_time = str_old[:16]
-                                str_new_time = str_new[:16]
-                                if str_old_time == str_new_time:
-                                    continue
-                                else:
-                                    changed_fields[k] = new_val
-                                    is_identical = False
-                                    self.logger.debug(f"Mirror mismatch on {k} (Date/Time): {str_old_time} != {str_new_time}")
-                                    continue
-                            elif k in ["Date Trip", "Real Date Trip"] and len(str_old) >= 10 and len(str_new) >= 10:
-                                # Fallback to Date only comparison if time is missing
+                            if k in ["Date Trip", "Real Date Trip"] and len(str_old) >= 10 and len(str_new) >= 10:
                                 if str_old[:10] == str_new[:10]:
                                     continue
-                                else:
-                                    changed_fields[k] = new_val
-                                    is_identical = False
-                                    self.logger.debug(f"Mirror mismatch on {k} (Date): {str_old[:10]} != {str_new[:10]}")
-                                    continue
-                                    
-                            # Special handling for floats/numbers (even if they are strings)
-                            is_num_new = False
-                            is_num_old = False
-                            f_new = 0.0
-                            f_old = 0.0
-                            
-                            try:
-                                if str_new != "":
-                                    f_new = float(str_new)
-                                    is_num_new = True
-                            except ValueError:
-                                pass
-                                
-                            try:
-                                if str_old != "":
-                                    f_old = float(str_old)
-                                    is_num_old = True
-                            except ValueError:
-                                pass
 
-                            if is_num_new and is_num_old:
-                                if abs(f_old - f_new) > 0.001:
-                                    changed_fields[k] = new_val
-                                    is_identical = False
-                                    self.logger.debug(f"Mirror mismatch on {k}: {f_old} != {f_new}")
-                                continue
-                            elif is_num_new != is_num_old and (str_new != "" and str_old != ""):
-                                # One is a number, the other is not (e.g. string with text)
-                                pass # Fallback to string comparison
+                            # Special handling for floats/numbers
+                            if isinstance(new_val, (int, float)) or (isinstance(old_val, (int, float)) and old_val != ""):
+                                try:
+                                    f_old = float(old_val) if old_val != "" else 0.0
+                                    f_new = float(new_val)
+                                    if abs(f_old - f_new) > 0.001:
+                                        is_identical = False
+                                        self.logger.debug(f"Mirror mismatch on {k}: {f_old} != {f_new}")
+                                        break
+                                    continue
+                                except ValueError:
+                                    pass # Fallback to string comparison
                                     
                             if str_new != str_old:
-                                # We only consider it a mismatch if it's not a missing value issue
-                                changed_fields[k] = new_val
                                 is_identical = False
-                                self.logger.debug(f"Mirror mismatch on {k}: Old='{str_old}' ({type(old_val)}) != New='{str_new}' ({type(new_val)})")
+                                self.logger.debug(f"Mirror mismatch on {k}: '{str_old}' != '{str_new}'")
+                                break
                                 
                         if is_identical:
                             self.logger.info(f"Skipping Main Base update for {booking.get('booking_nr')} - Matches Mirror Base perfectly (No new changes from GYG).")
+                            # Even though we skipped Airtable, we return success so local DB is marked synced
                             return {"success": True, "record_id": m_rid, "skipped": True}
-                        else:
-                            for f_forced in force_update_fields:
-                                if f_forced in fields:
-                                    changed_fields[f_forced] = fields[f_forced]
-                            
-                            self.logger.info(f"Delta detected for {booking.get('booking_nr')}. Only updating changed fields: {list(changed_fields.keys())}")
-                            fields = changed_fields
-                    else:
-                        self.logger.info(f"Record {booking.get('booking_nr')} not found in Mirror Base. Proceeding with full update.")
-                else:
-                    self.logger.error(f"Failed to fetch Mirror Base for {booking.get('booking_nr')}. Status Code: {mirror_find.status_code}. Response: {mirror_find.text}")
             # ----------------------------------
 
             
@@ -1568,14 +1470,14 @@ class GYGUnifiedSystem:
                         t_lower = t.lower()
                         
                         # Match participant counts
-                        # Match number at start of string: "2 Adults..." -> 2
-                        nm = re.search(r'^(\d+)', t)
+                        nm_start = re.search(r'^\s*(\d+)', t)
+                        nm = nm_start or re.search(r'(\d+)', t)
                         if nm:
                             v = int(nm.group(1))
+                            starts_with_num = bool(nm_start)
                             
-                            # Filter out unreasonable counts (e.g. 100 adults) which likely come from add-on prices (e.g. "100.00")
-                            # If the number is > 50, it's almost certainly a price or code, not a person count
-                            if v > 50:
+                            # Filter out unreasonable counts which likely come from add-on prices
+                            if v > 50 or (v >= 10 and not starts_with_num):
                                 # Treat as add-on, not participant
                                 is_participant = False
                             else:
@@ -1598,7 +1500,7 @@ class GYGUnifiedSystem:
                         # Example Add-on: "TutAnghAmoon Tomb entry fee: Adult - €100.00"
                         # Standard line usually starts with number then type.
                         
-                        if nm and v <= 50 and 'total:' not in t_lower and any(k in t_lower for k in ['adult', 'student', 'child', 'infant', 'youth']):
+                        if nm and (v <= 50 and not (v >= 10 and not starts_with_num)) and 'total:' not in t_lower and any(k in t_lower for k in ['adult', 'student', 'child', 'infant', 'youth', 'people', 'person']):
                              is_participant = True
                         
                         if not is_participant and t and 'total:' not in t_lower:
@@ -1757,16 +1659,15 @@ class GYGUnifiedSystem:
                     
                     # Check for participants
                     # Improved logic: Try start of line first (Standard GYG format: "5 Adults")
-                    nm = re.search(r'^(\d+)', t)
-                    if not nm:
-                         # Fallback: Try to find any number (Old method)
-                         nm = re.search(r'(\d+)', t)
+                    nm_start = re.search(r'^\s*(\d+)', t)
+                    nm = nm_start or re.search(r'(\d+)', t)
+                    starts_with_num = bool(nm_start)
 
                     v = int(nm.group(1)) if nm else 0
                     
                     # Safety: Ignore numbers > 50 (likely prices, ages, or percentages)
-                    # Also ignore if it's the price of an add-on (e.g. €20.00)
-                    if v > 50 or (v >= 10 and not re.search(r'^\s*\d+', t)): 
+                    # New Safety Check: if v >= 10 and it didn't start with a number, reject
+                    if v > 50 or (v >= 10 and not starts_with_num):
                         v = 0
                     
                     is_participant = False
@@ -1777,10 +1678,7 @@ class GYGUnifiedSystem:
                     if v > 0:
                         if 'total:' in tl:
                              is_participant = False # Ignore total lines
-                        elif 'adult' in tl: 
-                            # If we already set adults from another line, don't overwrite it unless we're combining
-                            if adt == 0: adt = v
-                            is_participant = True
+                        elif 'adult' in tl: adt = v; is_participant = True
                         elif 'student' in tl: std = v; is_participant = True
                         elif 'children' in tl or 'child' in tl: chd = v; is_participant = True
                         elif 'infant' in tl: inf = v; is_participant = True
@@ -1788,23 +1686,12 @@ class GYGUnifiedSystem:
                         
                         # Fix for "Total: 4 people" confusion
                         elif ('people' in tl or 'person' in tl):
-                             pass # Handled below
-                        
-                        if not is_participant and ('people' in tl or 'person' in tl) and 'total:' not in tl:
-                             if adt == 0: adt = v
-                             is_participant = True
-                             
-                        # Prevent extracting price (e.g. €20.00) as participant count of 20
-                        # Usually participant counts are at the START of the string, e.g. "2 Adults"
-                        # If the regex found the number but it's not at the very beginning, and it's a large number, reject it
-                        if is_participant and not re.search(r'^\s*\d+', t) and v >= 10:
-                             is_participant = False
-                             if 'adult' in tl: adt = 0
-                             elif 'student' in tl: std = 0
-                             elif 'children' in tl or 'child' in tl: chd = 0
-                             elif 'infant' in tl: inf = 0
-                             elif 'youth' in tl: youth = 0
-                             elif ('people' in tl or 'person' in tl) and 'total:' not in tl: adt = 0
+                             # Only use generic "people" if it's NOT a total line (already handled above)
+                             # But wait, the user says "Total: 4 people" appears at the end.
+                             # We should generally ignore "people" if it comes from a "Total" line.
+                             # The check 'total:' in tl handles that.
+                             # What if it's just "4 people"? Then treat as Adult.
+                             adt = v; is_participant = True
                     
                     # If not a standard participant, treat as add-on
                     if not is_participant and t and 'total:' not in tl:
@@ -2261,11 +2148,8 @@ class GYGUnifiedSystem:
         if previous_record:
             old_date = str(previous_record.get("date_trip")) if previous_record.get("date_trip") else None
             new_date = str(booking.get("date_trip")) if booking.get("date_trip") else None
-            # Only force update if the actual date has changed in DB
             if old_date and new_date and old_date != new_date:
                 force_update_fields.append("Date Trip")
-                # When Date Trip changes, also force update Real Date Trip
-                force_update_fields.append("Real Date Trip")
 
             old_trip_name = previous_record.get("trip_name")
             new_trip_name = booking.get("trip_name")
@@ -2978,16 +2862,6 @@ def _norm_region(s: Optional[str]) -> Optional[str]:
     return None
 
 def extract_region(trip_name: Optional[str], option_selected: Optional[str], card_text: str) -> Optional[str]:
-    # Specific overrides as requested
-    des_overrides = {
-        "Sahl Hasheesh Elite Beach Dive & Coral Reef Experience": "Hurghada",
-        "Marsa Mubarak Sea Turtles Trip with Optional Diving": "Marsa Alam"
-    }
-    
-    trip_name_clean = (trip_name or "").strip()
-    if trip_name_clean in des_overrides:
-        return des_overrides[trip_name_clean]
-
     if trip_name and ":" in trip_name:
         r = trip_name.split(":", 1)[0].strip()
         n = _norm_region(r)
@@ -3026,13 +2900,12 @@ def _parse_date_text(s: Optional[str]) -> Optional[str]:
     else:
         h = 12 if h == 12 else h + 12
     try:
-        # If GYG says 20:30, we want it to display EXACTLY as 20:30 in Airtable.
-        # Since Airtable field "Date Trip" is configured to show "Local Time" (EEST/UTC+3 or UTC+2),
-        # the most foolproof way to bypass all Airtable timezone conversions is to format the date
-        # as a raw ISO string without ANY timezone indicator (no 'Z', no offset).
-        # This forces Airtable to treat it as "floating local time" and display it exactly as string.
-        dt = datetime(int(year), mi, int(day), h, int(mm))
-        return dt.strftime('%Y-%m-%dT%H:%M:00')
+        from zoneinfo import ZoneInfo
+        from datetime import timezone
+        cairo_tz = ZoneInfo('Africa/Cairo')
+        dt_local = datetime(int(year), mi, int(day), h, int(mm), tzinfo=cairo_tz)
+        dt_utc = dt_local.astimezone(timezone.utc)
+        return dt_utc.strftime('%Y-%m-%dT%H:%M:%S.000Z')
     except Exception:
         return None
 
