@@ -1,22 +1,13 @@
-2026/06/01-13:39:20.567 974 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/06/01-13:45:20.981 974 Level-0 table #9328: started
-2026/06/01-13:45:20.985 974 Level-0 table #9328: 21291 bytes OK
-2026/06/01-13:45:20.986 974 Delete type=0 #9326
-2026/06/01-13:45:20.987 978 Compacting 4@0 + 1@1 files
-2026/06/01-13:45:20.991 978 Generated table #9329@0: 1521 keys, 45940 bytes
-2026/06/01-13:45:20.991 978 Compacted 4@0 + 1@1 files => 45940 bytes
-2026/06/01-13:45:20.991 978 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/06/01-13:45:20.992 978 Delete type=2 #9328
-2026/06/01-13:45:20.992 978 Delete type=2 #9324
-2026/06/01-13:45:20.992 978 Delete type=2 #9320
-2026/06/01-13:45:20.992 978 Delete type=2 #9316
-2026/06/01-13:45:20.992 978 Delete type=2 #9314
-2026/06/01-13:48:20.981 978 Level-0 table #9331: started
-2026/06/01-13:48:20.982 978 Level-0 table #9331: 23467 bytes OK
-2026/06/01-13:48:20.983 978 Delete type=0 #9327
-2026/06/01-13:51:20.981 978 Level-0 table #9333: started
-2026/06/01-13:51:20.985 978 Level-0 table #9333: 23978 bytes OK
-2026/06/01-13:51:20.985 978 Delete type=0 #9330
-2026/06/01-13:57:20.981 978 Level-0 table #9335: started
-2026/06/01-13:57:20.982 978 Level-0 table #9335: 20733 bytes OK
-2026/06/01-13:57:20.983 978 Delete type=0 #9332
+2026/06/01-14:53:24.865 953 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/06/01-15:00:25.457 952 Level-0 table #9339: started
+2026/06/01-15:00:25.460 952 Level-0 table #9339: 21642 bytes OK
+2026/06/01-15:00:25.461 952 Delete type=0 #9337
+2026/06/01-15:00:25.461 952 Compacting 4@0 + 1@1 files
+2026/06/01-15:00:25.463 952 Generated table #9340@0: 1523 keys, 45968 bytes
+2026/06/01-15:00:25.463 952 Compacted 4@0 + 1@1 files => 45968 bytes
+2026/06/01-15:00:25.464 952 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/06/01-15:00:25.464 952 Delete type=2 #9329
+2026/06/01-15:00:25.464 952 Delete type=2 #9335
+2026/06/01-15:00:25.464 952 Delete type=2 #9331
+2026/06/01-15:00:25.464 952 Delete type=2 #9339
+2026/06/01-15:00:25.464 952 Delete type=2 #9333
