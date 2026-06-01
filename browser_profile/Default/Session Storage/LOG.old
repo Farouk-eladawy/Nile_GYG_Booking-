@@ -1,10 +1,23 @@
-2026/05/31-22:52:37.715 970 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/05/31-22:56:13.170 970 Level-0 table #78958: started
-2026/05/31-22:56:13.178 970 Level-0 table #78958: 11910 bytes OK
-2026/05/31-22:56:13.180 970 Delete type=0 #78956
-2026/05/31-22:56:54.729 975 Level-0 table #78960: started
-2026/05/31-22:56:54.746 975 Level-0 table #78960: 573491 bytes OK
-2026/05/31-22:56:54.748 975 Delete type=0 #78957
-2026/05/31-23:03:40.641 970 Level-0 table #78962: started
-2026/05/31-23:03:40.648 970 Level-0 table #78962: 13875 bytes OK
-2026/05/31-23:03:40.649 970 Delete type=0 #78959
+2026/05/31-23:20:52.034 96c Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/05/31-23:25:08.019 96c Level-0 table #78966: started
+2026/05/31-23:25:08.038 96c Level-0 table #78966: 573970 bytes OK
+2026/05/31-23:25:08.040 96c Delete type=0 #78964
+2026/05/31-23:25:08.040 96c Compacting 4@0 + 4@1 files
+2026/05/31-23:25:08.071 96c Generated table #78967@0: 26 keys, 2287253 bytes
+2026/05/31-23:25:08.108 96c Generated table #78968@0: 75247 keys, 2149979 bytes
+2026/05/31-23:25:08.145 96c Generated table #78969@0: 75246 keys, 2148868 bytes
+2026/05/31-23:25:08.176 96c Generated table #78970@0: 75265 keys, 2149516 bytes
+2026/05/31-23:25:08.179 96c Generated table #78971@0: 7539 keys, 215430 bytes
+2026/05/31-23:25:08.179 96c Compacted 4@0 + 4@1 files => 8951046 bytes
+2026/05/31-23:25:08.180 96c compacted to: files[ 0 5 47 7 0 0 0 ]
+2026/05/31-23:25:08.181 96c Delete type=2 #78952
+2026/05/31-23:25:08.181 96c Delete type=2 #78960
+2026/05/31-23:25:08.181 96c Delete type=2 #78954
+2026/05/31-23:25:08.181 96c Delete type=2 #78953
+2026/05/31-23:25:08.181 96c Delete type=2 #78966
+2026/05/31-23:25:08.181 96c Delete type=2 #78958
+2026/05/31-23:25:08.181 96c Delete type=2 #78951
+2026/05/31-23:25:08.181 96c Delete type=2 #78962
+2026/06/01-00:11:19.956 970 Level-0 table #78973: started
+2026/06/01-00:11:19.964 970 Level-0 table #78973: 14283 bytes OK
+2026/06/01-00:11:19.965 970 Delete type=0 #78965
