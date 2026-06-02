@@ -1,22 +1,10 @@
-2026/06/02-07:47:40.850 991 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/06/02-07:51:27.848 995 Level-0 table #79261: started
-2026/06/02-07:51:27.854 995 Level-0 table #79261: 11898 bytes OK
-2026/06/02-07:51:27.858 995 Delete type=0 #79259
-2026/06/02-07:54:37.564 991 Level-0 table #79263: started
-2026/06/02-07:54:37.569 991 Level-0 table #79263: 11738 bytes OK
-2026/06/02-07:54:37.572 991 Delete type=0 #79260
-2026/06/02-07:54:37.573 995 Compacting 4@0 + 4@1 files
-2026/06/02-07:54:37.609 995 Generated table #79264@0: 34157 keys, 2121673 bytes
-2026/06/02-07:54:37.653 995 Generated table #79265@0: 75208 keys, 2149601 bytes
-2026/06/02-07:54:37.691 995 Generated table #79266@0: 75240 keys, 2149829 bytes
-2026/06/02-07:54:37.726 995 Generated table #79267@0: 52410 keys, 1496052 bytes
-2026/06/02-07:54:37.726 995 Compacted 4@0 + 4@1 files => 7917155 bytes
-2026/06/02-07:54:37.726 995 compacted to: files[ 0 5 47 8 0 0 0 ]
-2026/06/02-07:54:37.727 995 Delete type=2 #79261
-2026/06/02-07:54:37.727 995 Delete type=2 #79251
-2026/06/02-07:54:37.727 995 Delete type=2 #79250
-2026/06/02-07:54:37.727 995 Delete type=2 #79249
-2026/06/02-07:54:37.727 995 Delete type=2 #79248
-2026/06/02-07:54:37.727 995 Delete type=2 #79255
-2026/06/02-07:54:37.727 995 Delete type=2 #79263
-2026/06/02-07:54:37.727 995 Delete type=2 #79257
+2026/06/02-08:08:45.511 928 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/06/02-08:12:29.858 92d Level-0 table #79271: started
+2026/06/02-08:12:29.870 92d Level-0 table #79271: 11413 bytes OK
+2026/06/02-08:12:29.872 92d Delete type=0 #79269
+2026/06/02-08:15:43.089 92c Level-0 table #79273: started
+2026/06/02-08:15:43.092 92c Level-0 table #79273: 11648 bytes OK
+2026/06/02-08:15:43.094 92c Delete type=0 #79270
+2026/06/02-08:22:12.626 928 Level-0 table #79275: started
+2026/06/02-08:22:12.636 928 Level-0 table #79275: 16715 bytes OK
+2026/06/02-08:22:12.637 928 Delete type=0 #79272
