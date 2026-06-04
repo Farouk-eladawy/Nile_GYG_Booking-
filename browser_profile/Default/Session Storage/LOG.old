@@ -1,7 +1,27 @@
-2026/06/04-16:49:43.730 977 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/06/04-16:53:40.453 97b Level-0 table #79746: started
-2026/06/04-16:53:40.459 97b Level-0 table #79746: 9397 bytes OK
-2026/06/04-16:53:40.461 97b Delete type=0 #79744
-2026/06/04-17:02:36.977 97b Level-0 table #79748: started
-2026/06/04-17:02:36.986 97b Level-0 table #79748: 12830 bytes OK
-2026/06/04-17:02:36.987 97b Delete type=0 #79745
+2026/06/04-17:22:24.724 8a3 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/06/04-17:26:07.817 8a3 Level-0 table #79752: started
+2026/06/04-17:26:07.829 8a3 Level-0 table #79752: 9755 bytes OK
+2026/06/04-17:26:07.830 8a3 Delete type=0 #79750
+2026/06/04-17:33:19.453 8a3 Level-0 table #79754: started
+2026/06/04-17:33:19.459 8a3 Level-0 table #79754: 13694 bytes OK
+2026/06/04-17:33:19.460 8a3 Delete type=0 #79751
+2026/06/04-17:33:19.460 8a3 Compacting 4@0 + 5@1 files
+2026/06/04-17:33:19.530 8a3 Generated table #79755@0: 13488 keys, 2107052 bytes
+2026/06/04-17:33:19.584 8a3 Generated table #79756@0: 75256 keys, 2150626 bytes
+2026/06/04-17:33:19.631 8a3 Generated table #79757@0: 75356 keys, 2150540 bytes
+2026/06/04-17:33:19.672 8a3 Generated table #79758@0: 75267 keys, 2149632 bytes
+2026/06/04-17:33:19.674 8a3 Generated table #79759@0: 3898 keys, 112122 bytes
+2026/06/04-17:33:19.674 8a3 Compacted 4@0 + 5@1 files => 8669972 bytes
+2026/06/04-17:33:19.675 8a3 compacted to: files[ 0 5 47 11 0 0 0 ]
+2026/06/04-17:33:19.676 8a3 Delete type=2 #79748
+2026/06/04-17:33:19.676 8a3 Delete type=2 #79738
+2026/06/04-17:33:19.676 8a3 Delete type=2 #79746
+2026/06/04-17:33:19.676 8a3 Delete type=2 #79752
+2026/06/04-17:33:19.676 8a3 Delete type=2 #79740
+2026/06/04-17:33:19.676 8a3 Delete type=2 #79742
+2026/06/04-17:33:19.676 8a3 Delete type=2 #79739
+2026/06/04-17:33:19.676 8a3 Delete type=2 #79741
+2026/06/04-17:33:19.676 8a3 Delete type=2 #79754
+2026/06/04-17:36:52.913 8a7 Level-0 table #79761: started
+2026/06/04-17:36:53.010 8a7 Level-0 table #79761: 575150 bytes OK
+2026/06/04-17:36:53.012 8a7 Delete type=0 #79753
