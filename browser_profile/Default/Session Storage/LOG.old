@@ -1,7 +1,24 @@
-2026/06/05-21:37:46.572 984 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/06/05-21:41:28.914 988 Level-0 table #79990: started
-2026/06/05-21:41:28.920 988 Level-0 table #79990: 9740 bytes OK
-2026/06/05-21:41:28.922 988 Delete type=0 #79988
-2026/06/05-21:44:57.985 988 Level-0 table #79992: started
-2026/06/05-21:44:57.986 988 Level-0 table #79992: 11659 bytes OK
-2026/06/05-21:44:57.988 988 Delete type=0 #79989
+2026/06/05-22:22:08.641 96c Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/06/05-22:26:04.799 970 Level-0 table #79996: started
+2026/06/05-22:26:04.801 970 Level-0 table #79996: 9412 bytes OK
+2026/06/05-22:26:04.803 970 Delete type=0 #79994
+2026/06/05-22:31:11.262 970 Level-0 table #79998: started
+2026/06/05-22:31:11.267 970 Level-0 table #79998: 12493 bytes OK
+2026/06/05-22:31:11.269 970 Delete type=0 #79995
+2026/06/05-22:31:11.269 96c Compacting 4@0 + 4@1 files
+2026/06/05-22:31:11.309 96c Generated table #79999@0: 33796 keys, 2121499 bytes
+2026/06/05-22:31:11.355 96c Generated table #80000@0: 75241 keys, 2149230 bytes
+2026/06/05-22:31:11.404 96c Generated table #80001@0: 75325 keys, 2149724 bytes
+2026/06/05-22:31:11.439 96c Generated table #80002@0: 62108 keys, 1774170 bytes
+2026/06/05-22:31:11.440 96c Compacted 4@0 + 4@1 files => 8194623 bytes
+2026/06/05-22:31:11.440 96c compacted to: files[ 0 5 47 11 0 0 0 ]
+2026/06/05-22:31:11.441 96c Delete type=2 #79998
+2026/06/05-22:31:11.441 96c Delete type=2 #79990
+2026/06/05-22:31:11.441 96c Delete type=2 #79983
+2026/06/05-22:31:11.441 96c Delete type=2 #79985
+2026/06/05-22:31:11.442 96c Delete type=2 #79992
+2026/06/05-22:31:11.442 96c Delete type=2 #79996
+2026/06/05-22:31:11.442 96c Delete type=2 #79984
+2026/06/05-22:31:11.442 96c Delete type=2 #79986
+2026/06/05-22:31:11.444 96c Moved #79772 to level-2 2293253 bytes OK: files[ 0 4 48 11 0 0 0 ]
+2026/06/05-22:31:11.444 96c Moved #68887 to level-3 2168512 bytes OK: files[ 0 4 47 12 0 0 0 ]
