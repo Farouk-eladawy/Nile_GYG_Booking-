@@ -1,22 +1,13 @@
-2026/06/06-20:30:31.310 97b Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/06/06-20:36:31.828 97a Level-0 table #10446: started
-2026/06/06-20:36:31.832 97a Level-0 table #10446: 20133 bytes OK
-2026/06/06-20:36:31.833 97a Delete type=0 #10444
-2026/06/06-20:36:31.833 97a Compacting 4@0 + 1@1 files
-2026/06/06-20:36:31.835 97a Generated table #10447@0: 1865 keys, 52656 bytes
-2026/06/06-20:36:31.835 97a Compacted 4@0 + 1@1 files => 52656 bytes
-2026/06/06-20:36:31.835 97a compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/06/06-20:36:31.835 97a Delete type=2 #10434
-2026/06/06-20:36:31.835 97a Delete type=2 #10446
-2026/06/06-20:36:31.835 97a Delete type=2 #10432
-2026/06/06-20:36:31.835 97a Delete type=2 #10438
-2026/06/06-20:36:31.835 97a Delete type=2 #10442
-2026/06/06-20:38:31.829 97a Level-0 table #10449: started
-2026/06/06-20:38:31.830 97a Level-0 table #10449: 24269 bytes OK
-2026/06/06-20:38:31.831 97a Delete type=0 #10445
-2026/06/06-20:45:31.828 97a Level-0 table #10451: started
-2026/06/06-20:45:31.834 97a Level-0 table #10451: 23421 bytes OK
-2026/06/06-20:45:31.834 97a Delete type=0 #10448
-2026/06/06-20:49:31.828 97a Level-0 table #10453: started
-2026/06/06-20:49:31.830 97a Level-0 table #10453: 23376 bytes OK
-2026/06/06-20:49:31.830 97a Delete type=0 #10450
+2026/06/06-21:44:19.886 962 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/06/06-21:50:53.033 962 Level-0 table #10457: started
+2026/06/06-21:50:53.035 962 Level-0 table #10457: 24536 bytes OK
+2026/06/06-21:50:53.036 962 Delete type=0 #10455
+2026/06/06-21:50:53.036 966 Compacting 4@0 + 1@1 files
+2026/06/06-21:50:53.040 966 Generated table #10458@0: 1867 keys, 52765 bytes
+2026/06/06-21:50:53.040 966 Compacted 4@0 + 1@1 files => 52765 bytes
+2026/06/06-21:50:53.040 966 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/06/06-21:50:53.041 966 Delete type=2 #10457
+2026/06/06-21:50:53.041 966 Delete type=2 #10449
+2026/06/06-21:50:53.041 966 Delete type=2 #10447
+2026/06/06-21:50:53.041 966 Delete type=2 #10451
+2026/06/06-21:50:53.041 966 Delete type=2 #10453
