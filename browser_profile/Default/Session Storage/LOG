@@ -1,7 +1,24 @@
-2026/06/07-18:37:22.989 93c Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/06/07-18:41:32.957 941 Level-0 table #80561: started
-2026/06/07-18:41:32.964 941 Level-0 table #80561: 9603 bytes OK
-2026/06/07-18:41:32.966 941 Delete type=0 #80559
-2026/06/07-18:45:04.033 940 Level-0 table #80563: started
-2026/06/07-18:45:04.034 940 Level-0 table #80563: 11444 bytes OK
-2026/06/07-18:45:04.035 940 Delete type=0 #80560
+2026/06/07-19:52:25.995 a0d Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/06/07-20:04:32.926 a0d Level-0 table #80567: started
+2026/06/07-20:04:32.932 a0d Level-0 table #80567: 11856 bytes OK
+2026/06/07-20:04:32.933 a0d Delete type=0 #80565
+2026/06/07-20:07:23.519 a0d Level-0 table #80569: started
+2026/06/07-20:07:23.532 a0d Level-0 table #80569: 577983 bytes OK
+2026/06/07-20:07:23.534 a0d Delete type=0 #80566
+2026/06/07-20:07:23.534 a0d Compacting 4@0 + 4@1 files
+2026/06/07-20:07:23.569 a0d Generated table #80570@0: 34124 keys, 2122848 bytes
+2026/06/07-20:07:23.607 a0d Generated table #80571@0: 75262 keys, 2149674 bytes
+2026/06/07-20:07:23.642 a0d Generated table #80572@0: 75280 keys, 2149254 bytes
+2026/06/07-20:07:23.672 a0d Generated table #80573@0: 67545 keys, 1929297 bytes
+2026/06/07-20:07:23.672 a0d Compacted 4@0 + 4@1 files => 8351073 bytes
+2026/06/07-20:07:23.672 a0d compacted to: files[ 0 5 47 15 0 0 0 ]
+2026/06/07-20:07:23.673 a0d Delete type=2 #80557
+2026/06/07-20:07:23.673 a0d Delete type=2 #80556
+2026/06/07-20:07:23.673 a0d Delete type=2 #80567
+2026/06/07-20:07:23.673 a0d Delete type=2 #80554
+2026/06/07-20:07:23.673 a0d Delete type=2 #80569
+2026/06/07-20:07:23.673 a0d Delete type=2 #80563
+2026/06/07-20:07:23.673 a0d Delete type=2 #80561
+2026/06/07-20:07:23.673 a0d Delete type=2 #80555
+2026/06/07-20:07:23.674 a0d Moved #80489 to level-2 2290288 bytes OK: files[ 0 4 48 15 0 0 0 ]
+2026/06/07-20:07:23.675 a0d Moved #72082 to level-3 2204842 bytes OK: files[ 0 4 47 16 0 0 0 ]

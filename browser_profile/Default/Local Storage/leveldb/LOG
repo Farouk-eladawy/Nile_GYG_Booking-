@@ -1,13 +1,22 @@
-2026/06/07-18:37:22.547 940 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/06/07-18:43:22.974 940 Level-0 table #10635: started
-2026/06/07-18:43:22.983 940 Level-0 table #10635: 20072 bytes OK
-2026/06/07-18:43:22.984 940 Delete type=0 #10633
-2026/06/07-18:43:22.985 940 Compacting 4@0 + 1@1 files
-2026/06/07-18:43:22.988 940 Generated table #10636@0: 1919 keys, 53465 bytes
-2026/06/07-18:43:22.988 940 Compacted 4@0 + 1@1 files => 53465 bytes
-2026/06/07-18:43:22.988 940 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/06/07-18:43:22.988 940 Delete type=2 #10623
-2026/06/07-18:43:22.989 940 Delete type=2 #10635
-2026/06/07-18:43:22.989 940 Delete type=2 #10631
-2026/06/07-18:43:22.989 940 Delete type=2 #10627
-2026/06/07-18:43:22.989 940 Delete type=2 #10621
+2026/06/07-19:52:25.557 a0d Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/06/07-19:59:02.295 a12 Level-0 table #10640: started
+2026/06/07-19:59:02.300 a12 Level-0 table #10640: 24655 bytes OK
+2026/06/07-19:59:02.301 a12 Delete type=0 #10638
+2026/06/07-20:00:21.491 a11 Level-0 table #10642: started
+2026/06/07-20:00:21.495 a11 Level-0 table #10642: 24366 bytes OK
+2026/06/07-20:00:21.496 a11 Delete type=0 #10639
+2026/06/07-20:05:25.982 a11 Level-0 table #10644: started
+2026/06/07-20:05:25.986 a11 Level-0 table #10644: 22744 bytes OK
+2026/06/07-20:05:25.987 a11 Delete type=0 #10641
+2026/06/07-20:12:25.982 a11 Level-0 table #10646: started
+2026/06/07-20:12:25.987 a11 Level-0 table #10646: 22213 bytes OK
+2026/06/07-20:12:25.987 a11 Delete type=0 #10643
+2026/06/07-20:12:25.987 a11 Compacting 4@0 + 1@1 files
+2026/06/07-20:12:25.989 a11 Generated table #10647@0: 1921 keys, 53575 bytes
+2026/06/07-20:12:25.989 a11 Compacted 4@0 + 1@1 files => 53575 bytes
+2026/06/07-20:12:25.989 a11 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/06/07-20:12:25.990 a11 Delete type=2 #10644
+2026/06/07-20:12:25.990 a11 Delete type=2 #10640
+2026/06/07-20:12:25.990 a11 Delete type=2 #10642
+2026/06/07-20:12:25.990 a11 Delete type=2 #10646
+2026/06/07-20:12:25.990 a11 Delete type=2 #10636
