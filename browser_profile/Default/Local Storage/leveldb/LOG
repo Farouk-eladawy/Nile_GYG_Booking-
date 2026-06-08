@@ -1,24 +1,8 @@
-2026/06/08-10:19:11.058 96f Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/06/08-10:25:24.621 96f Level-0 table #10759: started
-2026/06/08-10:25:24.623 96f Level-0 table #10759: 24913 bytes OK
-2026/06/08-10:25:24.625 96f Delete type=0 #10757
-2026/06/08-10:28:43.342 96f Level-0 table #10761: started
-2026/06/08-10:28:43.345 96f Level-0 table #10761: 22347 bytes OK
-2026/06/08-10:28:43.345 96f Delete type=0 #10758
-2026/06/08-10:30:04.046 973 Level-0 table #10763: started
-2026/06/08-10:30:04.049 973 Level-0 table #10763: 22671 bytes OK
-2026/06/08-10:30:04.050 973 Delete type=0 #10760
-2026/06/08-10:35:11.595 973 Level-0 table #10765: started
-2026/06/08-10:35:11.596 973 Level-0 table #10765: 23670 bytes OK
-2026/06/08-10:35:11.597 973 Delete type=0 #10762
-2026/06/08-10:35:11.597 973 Compacting 4@0 + 1@1 files
-2026/06/08-10:35:11.599 973 Generated table #10766@0: 1959 keys, 54489 bytes
-2026/06/08-10:35:11.599 973 Compacted 4@0 + 1@1 files => 54489 bytes
-2026/06/08-10:35:11.599 973 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/06/08-10:35:11.599 973 Delete type=2 #10765
-2026/06/08-10:35:11.599 973 Delete type=2 #10759
-2026/06/08-10:35:11.599 973 Delete type=2 #10763
-2026/06/08-10:35:11.599 973 Delete type=2 #10761
-2026/06/08-10:35:11.599 973 Delete type=2 #10755
-2026/06/08-10:41:44.134 974 Level-0 table #10768: started
-2026/06/08-10:41:44.138 974 Level-0 table #10768: 22189 bytes OK
+2026/06/08-11:21:59.588 969 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/06/08-11:21:59.613 969 Delete type=2 #10768
+2026/06/08-11:28:46.999 965 Level-0 table #10770: started
+2026/06/08-11:28:47.002 965 Level-0 table #10770: 24721 bytes OK
+2026/06/08-11:28:47.003 965 Delete type=0 #10768
+2026/06/08-11:31:00.184 969 Level-0 table #10772: started
+2026/06/08-11:31:00.189 969 Level-0 table #10772: 24762 bytes OK
+2026/06/08-11:31:00.190 969 Delete type=0 #10769
