@@ -1,7 +1,28 @@
-2026/06/09-03:04:54.717 96d Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/06/09-03:08:41.729 96d Level-0 table #80739: started
-2026/06/09-03:08:41.735 96d Level-0 table #80739: 10071 bytes OK
-2026/06/09-03:08:41.738 96d Delete type=0 #80737
-2026/06/09-03:12:05.895 971 Level-0 table #80741: started
-2026/06/09-03:12:05.902 971 Level-0 table #80741: 9919 bytes OK
-2026/06/09-03:12:05.903 971 Delete type=0 #80738
+2026/06/09-03:49:44.889 896 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/06/09-03:53:23.230 89a Level-0 table #80745: started
+2026/06/09-03:53:23.236 89a Level-0 table #80745: 9799 bytes OK
+2026/06/09-03:53:23.238 89a Delete type=0 #80743
+2026/06/09-03:53:23.238 89a Compacting 4@0 + 4@1 files
+2026/06/09-03:53:23.270 89a Generated table #80746@0: 75042 keys, 2149508 bytes
+2026/06/09-03:53:23.299 89a Generated table #80747@0: 75229 keys, 2149179 bytes
+2026/06/09-03:53:23.329 89a Generated table #80748@0: 75282 keys, 2150286 bytes
+2026/06/09-03:53:23.337 89a Generated table #80749@0: 29018 keys, 828520 bytes
+2026/06/09-03:53:23.337 89a Compacted 4@0 + 4@1 files => 7277493 bytes
+2026/06/09-03:53:23.337 89a compacted to: files[ 0 5 47 16 0 0 0 ]
+2026/06/09-03:53:23.338 89a Delete type=2 #80741
+2026/06/09-03:53:23.338 89a Delete type=2 #80745
+2026/06/09-03:53:23.338 89a Delete type=2 #80730
+2026/06/09-03:53:23.338 89a Delete type=2 #80733
+2026/06/09-03:53:23.338 89a Delete type=2 #80731
+2026/06/09-03:53:23.338 89a Delete type=2 #80739
+2026/06/09-03:53:23.338 89a Delete type=2 #80732
+2026/06/09-03:53:23.338 89a Delete type=2 #80735
+2026/06/09-04:00:22.134 89a Level-0 table #80751: started
+2026/06/09-04:00:22.136 89a Level-0 table #80751: 13256 bytes OK
+2026/06/09-04:00:22.160 89a Delete type=0 #80744
+2026/06/09-04:05:39.490 896 Level-0 table #80753: started
+2026/06/09-04:05:39.495 896 Level-0 table #80753: 11505 bytes OK
+2026/06/09-04:05:39.497 896 Delete type=0 #80750
+2026/06/09-04:09:02.637 89a Level-0 table #80755: started
+2026/06/09-04:09:02.638 89a Level-0 table #80755: 11633 bytes OK
+2026/06/09-04:09:02.642 89a Delete type=0 #80752
