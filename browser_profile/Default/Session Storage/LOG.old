@@ -1,7 +1,24 @@
-2026/06/11-17:53:41.718 97b Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/06/11-18:05:02.585 97b Level-0 table #81270: started
-2026/06/11-18:05:02.586 97b Level-0 table #81270: 11553 bytes OK
-2026/06/11-18:05:02.588 97b Delete type=0 #81268
-2026/06/11-18:07:28.671 97b Level-0 table #81272: started
-2026/06/11-18:07:28.682 97b Level-0 table #81272: 579011 bytes OK
-2026/06/11-18:07:28.684 97b Delete type=0 #81269
+2026/06/11-18:39:19.993 8c9 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/06/11-18:43:05.946 8c9 Level-0 table #81276: started
+2026/06/11-18:43:05.952 8c9 Level-0 table #81276: 9752 bytes OK
+2026/06/11-18:43:05.953 8c9 Delete type=0 #81274
+2026/06/11-18:46:15.786 8cd Level-0 table #81278: started
+2026/06/11-18:46:15.826 8cd Level-0 table #81278: 10733 bytes OK
+2026/06/11-18:46:15.879 8cd Delete type=0 #81275
+2026/06/11-18:46:15.880 8cd Compacting 4@0 + 5@1 files
+2026/06/11-18:46:15.898 8cd Generated table #81279@0: 13528 keys, 2106973 bytes
+2026/06/11-18:46:15.922 8cd Generated table #81280@0: 75307 keys, 2150803 bytes
+2026/06/11-18:46:15.953 8cd Generated table #81281@0: 75304 keys, 2150497 bytes
+2026/06/11-18:46:16.083 8cd Generated table #81282@0: 75338 keys, 2149458 bytes
+2026/06/11-18:46:16.090 8cd Generated table #81283@0: 22072 keys, 631213 bytes
+2026/06/11-18:46:16.090 8cd Compacted 4@0 + 5@1 files => 9188944 bytes
+2026/06/11-18:46:16.136 8cd compacted to: files[ 0 5 47 21 0 0 0 ]
+2026/06/11-18:46:16.137 8cd Delete type=2 #81270
+2026/06/11-18:46:16.137 8cd Delete type=2 #81276
+2026/06/11-18:46:16.137 8cd Delete type=2 #81278
+2026/06/11-18:46:16.137 8cd Delete type=2 #81266
+2026/06/11-18:46:16.137 8cd Delete type=2 #81263
+2026/06/11-18:46:16.137 8cd Delete type=2 #81264
+2026/06/11-18:46:16.137 8cd Delete type=2 #81262
+2026/06/11-18:46:16.137 8cd Delete type=2 #81265
+2026/06/11-18:46:16.137 8cd Delete type=2 #81272
