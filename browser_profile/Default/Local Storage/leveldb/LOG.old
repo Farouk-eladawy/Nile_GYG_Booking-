@@ -1,28 +1,4 @@
-2026/06/13-06:21:23.656 943 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/06/13-06:27:24.446 941 Level-0 table #11765: started
-2026/06/13-06:27:24.450 941 Level-0 table #11765: 21037 bytes OK
-2026/06/13-06:27:24.451 941 Delete type=0 #11763
-2026/06/13-06:28:39.710 942 Level-0 table #11767: started
-2026/06/13-06:28:39.711 942 Level-0 table #11767: 22504 bytes OK
-2026/06/13-06:28:39.713 942 Delete type=0 #11764
-2026/06/13-07:01:15.783 941 Level-0 table #11769: started
-2026/06/13-07:01:15.787 941 Level-0 table #11769: 21966 bytes OK
-2026/06/13-07:01:15.788 941 Delete type=0 #11766
-2026/06/13-07:03:50.193 941 Level-0 table #11771: started
-2026/06/13-07:03:50.199 941 Level-0 table #11771: 22083 bytes OK
-2026/06/13-07:03:50.199 941 Delete type=0 #11768
-2026/06/13-07:03:50.199 941 Compacting 4@0 + 1@1 files
-2026/06/13-07:03:50.202 941 Generated table #11772@0: 2263 keys, 59000 bytes
-2026/06/13-07:03:50.202 941 Compacted 4@0 + 1@1 files => 59000 bytes
-2026/06/13-07:03:50.202 941 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/06/13-07:03:50.203 941 Delete type=2 #11771
-2026/06/13-07:03:50.203 941 Delete type=2 #11765
-2026/06/13-07:03:50.203 941 Delete type=2 #11761
-2026/06/13-07:03:50.203 941 Delete type=2 #11767
-2026/06/13-07:03:50.203 941 Delete type=2 #11769
-2026/06/13-07:04:47.530 941 Level-0 table #11774: started
-2026/06/13-07:04:47.535 941 Level-0 table #11774: 20328 bytes OK
-2026/06/13-07:04:47.535 941 Delete type=0 #11770
-2026/06/13-07:08:24.446 941 Level-0 table #11776: started
-2026/06/13-07:08:24.450 941 Level-0 table #11776: 22873 bytes OK
-2026/06/13-07:08:24.451 941 Delete type=0 #11773
+2026/06/13-07:35:12.306 981 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/06/13-07:42:13.022 97f Level-0 table #11780: started
+2026/06/13-07:42:13.028 97f Level-0 table #11780: 23081 bytes OK
+2026/06/13-07:42:13.029 97f Delete type=0 #11778
