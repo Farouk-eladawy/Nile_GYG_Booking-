@@ -1,25 +1,7 @@
-2026/06/14-02:02:21.129 979 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/06/14-02:06:06.195 979 Level-0 table #81685: started
-2026/06/14-02:06:06.202 979 Level-0 table #81685: 9933 bytes OK
-2026/06/14-02:06:06.205 979 Delete type=0 #81683
-2026/06/14-02:14:37.317 97d Level-0 table #81687: started
-2026/06/14-02:14:37.323 97d Level-0 table #81687: 10712 bytes OK
-2026/06/14-02:14:37.325 97d Delete type=0 #81684
-2026/06/14-02:14:37.325 97d Compacting 4@0 + 4@1 files
-2026/06/14-02:14:37.373 97d Generated table #81688@0: 75153 keys, 2148961 bytes
-2026/06/14-02:14:37.416 97d Generated table #81689@0: 75306 keys, 2150176 bytes
-2026/06/14-02:14:37.448 97d Generated table #81690@0: 75275 keys, 2148894 bytes
-2026/06/14-02:14:37.466 97d Generated table #81691@0: 40911 keys, 1168360 bytes
-2026/06/14-02:14:37.466 97d Compacted 4@0 + 4@1 files => 7616391 bytes
-2026/06/14-02:14:37.467 97d compacted to: files[ 0 5 47 26 0 0 0 ]
-2026/06/14-02:14:37.468 97d Delete type=2 #81685
-2026/06/14-02:14:37.468 97d Delete type=2 #81672
-2026/06/14-02:14:37.468 97d Delete type=2 #81674
-2026/06/14-02:14:37.468 97d Delete type=2 #81681
-2026/06/14-02:14:37.468 97d Delete type=2 #81679
-2026/06/14-02:14:37.468 97d Delete type=2 #81675
-2026/06/14-02:14:37.468 97d Delete type=2 #81687
-2026/06/14-02:14:37.468 97d Delete type=2 #81673
-2026/06/14-02:20:52.675 979 Level-0 table #81693: started
-2026/06/14-02:20:52.681 979 Level-0 table #81693: 12673 bytes OK
-2026/06/14-02:20:52.682 979 Delete type=0 #81686
+2026/06/14-02:24:36.264 968 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/06/14-02:28:08.642 96c Level-0 table #81697: started
+2026/06/14-02:28:08.651 96c Level-0 table #81697: 9791 bytes OK
+2026/06/14-02:28:08.653 96c Delete type=0 #81695
+2026/06/14-02:30:16.091 96d Level-0 table #81699: started
+2026/06/14-02:30:16.109 96d Level-0 table #81699: 579269 bytes OK
+2026/06/14-02:30:16.111 96d Delete type=0 #81696
