@@ -1,13 +1,31 @@
-2026/06/16-15:38:16.395 97e Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/06/16-15:44:16.993 979 Level-0 table #12444: started
-2026/06/16-15:44:16.999 979 Level-0 table #12444: 20615 bytes OK
-2026/06/16-15:44:17.000 979 Delete type=0 #12442
-2026/06/16-15:44:17.000 979 Compacting 4@0 + 1@1 files
-2026/06/16-15:44:17.002 979 Generated table #12445@0: 2477 keys, 62194 bytes
-2026/06/16-15:44:17.002 979 Compacted 4@0 + 1@1 files => 62194 bytes
-2026/06/16-15:44:17.002 979 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/06/16-15:44:17.002 979 Delete type=2 #12444
-2026/06/16-15:44:17.002 979 Delete type=2 #12428
-2026/06/16-15:44:17.002 979 Delete type=2 #12440
-2026/06/16-15:44:17.003 979 Delete type=2 #12432
-2026/06/16-15:44:17.003 979 Delete type=2 #12436
+2026/06/16-16:10:57.270 9b3 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/06/16-16:15:59.408 9b7 Level-0 table #12449: started
+2026/06/16-16:15:59.411 9b7 Level-0 table #12449: 20742 bytes OK
+2026/06/16-16:15:59.412 9b7 Delete type=0 #12447
+2026/06/16-16:19:05.431 9ba Level-0 table #12451: started
+2026/06/16-16:19:05.437 9ba Level-0 table #12451: 23002 bytes OK
+2026/06/16-16:19:05.437 9ba Delete type=0 #12448
+2026/06/16-16:53:55.143 9b7 Level-0 table #12453: started
+2026/06/16-16:53:55.146 9b7 Level-0 table #12453: 22365 bytes OK
+2026/06/16-16:53:55.147 9b7 Delete type=0 #12450
+2026/06/16-16:54:57.328 9b7 Level-0 table #12455: started
+2026/06/16-16:54:57.333 9b7 Level-0 table #12455: 20546 bytes OK
+2026/06/16-16:54:57.333 9b7 Delete type=0 #12452
+2026/06/16-16:54:57.333 9b7 Compacting 4@0 + 1@1 files
+2026/06/16-16:54:57.336 9b7 Generated table #12456@0: 2479 keys, 62313 bytes
+2026/06/16-16:54:57.336 9b7 Compacted 4@0 + 1@1 files => 62313 bytes
+2026/06/16-16:54:57.336 9b7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/06/16-16:54:57.337 9b7 Delete type=2 #12449
+2026/06/16-16:54:57.337 9b7 Delete type=2 #12453
+2026/06/16-16:54:57.337 9b7 Delete type=2 #12455
+2026/06/16-16:54:57.337 9b7 Delete type=2 #12451
+2026/06/16-16:54:57.337 9b7 Delete type=2 #12445
+2026/06/16-16:55:56.742 9b7 Level-0 table #12458: started
+2026/06/16-16:55:56.746 9b7 Level-0 table #12458: 20712 bytes OK
+2026/06/16-16:55:56.747 9b7 Delete type=0 #12454
+2026/06/16-16:56:58.416 9b7 Level-0 table #12460: started
+2026/06/16-16:56:58.420 9b7 Level-0 table #12460: 20317 bytes OK
+2026/06/16-16:56:58.420 9b7 Delete type=0 #12457
+2026/06/16-17:00:38.096 9b3 Level-0 table #12462: started
+2026/06/16-17:00:38.102 9b3 Level-0 table #12462: 21726 bytes OK
+2026/06/16-17:00:38.104 9b3 Delete type=0 #12459
