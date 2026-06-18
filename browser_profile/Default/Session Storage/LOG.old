@@ -1,26 +1,4 @@
-2026/06/18-05:49:22.096 967 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/06/18-05:53:02.743 96b Level-0 table #82492: started
-2026/06/18-05:53:02.748 96b Level-0 table #82492: 9789 bytes OK
-2026/06/18-05:53:02.751 96b Delete type=0 #82490
-2026/06/18-05:55:02.533 967 Level-0 table #82494: started
-2026/06/18-05:55:02.553 967 Level-0 table #82494: 579875 bytes OK
-2026/06/18-05:55:02.555 967 Delete type=0 #82491
-2026/06/18-05:55:02.556 967 Compacting 4@0 + 5@1 files
-2026/06/18-05:55:02.593 967 Generated table #82495@0: 22 keys, 2297946 bytes
-2026/06/18-05:55:02.657 967 Generated table #82496@0: 54604 keys, 2135077 bytes
-2026/06/18-05:55:02.697 967 Generated table #82497@0: 75303 keys, 2150351 bytes
-2026/06/18-05:55:02.732 967 Generated table #82498@0: 75276 keys, 2149602 bytes
-2026/06/18-05:55:02.763 967 Generated table #82499@0: 71440 keys, 2038671 bytes
-2026/06/18-05:55:02.763 967 Compacted 4@0 + 5@1 files => 10771647 bytes
-2026/06/18-05:55:02.764 967 compacted to: files[ 0 5 46 39 0 0 0 ]
-2026/06/18-05:55:02.765 967 Delete type=2 #82480
-2026/06/18-05:55:02.765 967 Delete type=2 #82494
-2026/06/18-05:55:02.765 967 Delete type=2 #82478
-2026/06/18-05:55:02.765 967 Delete type=2 #82488
-2026/06/18-05:55:02.765 967 Delete type=2 #82481
-2026/06/18-05:55:02.765 967 Delete type=2 #82486
-2026/06/18-05:55:02.765 967 Delete type=2 #82479
-2026/06/18-05:55:02.765 967 Delete type=2 #82492
-2026/06/18-05:55:02.765 967 Delete type=2 #82482
-2026/06/18-05:55:02.766 967 Moved #82495 to level-2 2297946 bytes OK: files[ 0 4 47 39 0 0 0 ]
-2026/06/18-05:55:02.767 967 Moved #77305 to level-3 2279437 bytes OK: files[ 0 4 46 40 0 0 0 ]
+2026/06/18-06:54:55.906 968 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/06/18-07:00:34.682 96c Level-0 table #82503: started
+2026/06/18-07:00:34.695 96c Level-0 table #82503: 579458 bytes OK
+2026/06/18-07:00:34.697 96c Delete type=0 #82501
