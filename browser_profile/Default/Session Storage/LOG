@@ -1,7 +1,24 @@
-2026/06/19-16:19:00.665 994 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/06/19-16:22:39.447 998 Level-0 table #82759: started
-2026/06/19-16:22:39.451 998 Level-0 table #82759: 9772 bytes OK
-2026/06/19-16:22:39.454 998 Delete type=0 #82757
-2026/06/19-16:24:39.533 998 Level-0 table #82761: started
-2026/06/19-16:24:39.551 998 Level-0 table #82761: 583416 bytes OK
-2026/06/19-16:24:39.553 998 Delete type=0 #82758
+2026/06/19-17:27:50.969 979 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/06/19-17:31:44.948 979 Level-0 table #82765: started
+2026/06/19-17:31:44.950 979 Level-0 table #82765: 9812 bytes OK
+2026/06/19-17:31:44.951 979 Delete type=0 #82763
+2026/06/19-17:33:43.985 97d Level-0 table #82767: started
+2026/06/19-17:33:44.005 97d Level-0 table #82767: 583868 bytes OK
+2026/06/19-17:33:44.007 97d Delete type=0 #82764
+2026/06/19-17:33:44.008 97d Compacting 4@0 + 5@1 files
+2026/06/19-17:33:44.039 97d Generated table #82768@0: 22 keys, 2309334 bytes
+2026/06/19-17:33:44.079 97d Generated table #82769@0: 75168 keys, 2149480 bytes
+2026/06/19-17:33:44.114 97d Generated table #82770@0: 75243 keys, 2149939 bytes
+2026/06/19-17:33:44.145 97d Generated table #82771@0: 75265 keys, 2149990 bytes
+2026/06/19-17:33:44.168 97d Generated table #82772@0: 54126 keys, 1544747 bytes
+2026/06/19-17:33:44.168 97d Compacted 4@0 + 5@1 files => 10303490 bytes
+2026/06/19-17:33:44.168 97d compacted to: files[ 0 5 46 46 0 0 0 ]
+2026/06/19-17:33:44.169 97d Delete type=2 #82765
+2026/06/19-17:33:44.169 97d Delete type=2 #82755
+2026/06/19-17:33:44.169 97d Delete type=2 #82753
+2026/06/19-17:33:44.169 97d Delete type=2 #82767
+2026/06/19-17:33:44.169 97d Delete type=2 #82754
+2026/06/19-17:33:44.169 97d Delete type=2 #82752
+2026/06/19-17:33:44.169 97d Delete type=2 #82751
+2026/06/19-17:33:44.170 97d Delete type=2 #82759
+2026/06/19-17:33:44.170 97d Delete type=2 #82761
