@@ -1,24 +1,7 @@
-2026/06/20-19:37:18.358 966 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/06/20-19:40:56.861 96a Level-0 table #83008: started
-2026/06/20-19:40:56.865 96a Level-0 table #83008: 9828 bytes OK
-2026/06/20-19:40:56.870 96a Delete type=0 #83006
-2026/06/20-19:44:14.719 966 Level-0 table #83010: started
-2026/06/20-19:44:14.725 966 Level-0 table #83010: 9914 bytes OK
-2026/06/20-19:44:14.728 966 Delete type=0 #83007
-2026/06/20-19:44:14.728 966 Compacting 4@0 + 5@1 files
-2026/06/20-19:44:14.764 966 Generated table #83011@0: 33610 keys, 2120716 bytes
-2026/06/20-19:44:14.809 966 Generated table #83012@0: 75284 keys, 2149676 bytes
-2026/06/20-19:44:14.843 966 Generated table #83013@0: 75336 keys, 2148934 bytes
-2026/06/20-19:44:14.874 966 Generated table #83014@0: 75340 keys, 2150437 bytes
-2026/06/20-19:44:14.884 966 Generated table #83015@0: 22908 keys, 655190 bytes
-2026/06/20-19:44:14.884 966 Compacted 4@0 + 5@1 files => 9224953 bytes
-2026/06/20-19:44:14.885 966 compacted to: files[ 0 5 46 50 0 0 0 ]
-2026/06/20-19:44:14.886 966 Delete type=2 #83004
-2026/06/20-19:44:14.886 966 Delete type=2 #82995
-2026/06/20-19:44:14.886 966 Delete type=2 #83002
-2026/06/20-19:44:14.886 966 Delete type=2 #82996
-2026/06/20-19:44:14.886 966 Delete type=2 #83010
-2026/06/20-19:44:14.886 966 Delete type=2 #82997
-2026/06/20-19:44:14.886 966 Delete type=2 #82994
-2026/06/20-19:44:14.886 966 Delete type=2 #83008
-2026/06/20-19:44:14.886 966 Delete type=2 #82998
+2026/06/20-20:36:07.986 968 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/06/20-20:40:11.626 96c Level-0 table #83019: started
+2026/06/20-20:40:11.634 96c Level-0 table #83019: 9509 bytes OK
+2026/06/20-20:40:11.635 96c Delete type=0 #83017
+2026/06/20-20:43:53.660 972 Level-0 table #83021: started
+2026/06/20-20:43:53.662 972 Level-0 table #83021: 9431 bytes OK
+2026/06/20-20:43:53.665 972 Delete type=0 #83018
