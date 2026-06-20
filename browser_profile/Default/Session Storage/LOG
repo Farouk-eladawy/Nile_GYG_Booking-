@@ -1,24 +1,7 @@
-2026/06/20-18:34:28.162 96e Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/06/20-18:38:16.200 96e Level-0 table #82991: started
-2026/06/20-18:38:16.206 96e Level-0 table #82991: 10120 bytes OK
-2026/06/20-18:38:16.208 96e Delete type=0 #82989
-2026/06/20-18:41:40.699 96e Level-0 table #82993: started
-2026/06/20-18:41:40.706 96e Level-0 table #82993: 10182 bytes OK
-2026/06/20-18:41:40.708 96e Delete type=0 #82990
-2026/06/20-18:41:40.709 96e Compacting 4@0 + 5@1 files
-2026/06/20-18:41:40.747 96e Generated table #82994@0: 33648 keys, 2120572 bytes
-2026/06/20-18:41:40.791 96e Generated table #82995@0: 75254 keys, 2149156 bytes
-2026/06/20-18:41:40.826 96e Generated table #82996@0: 75248 keys, 2148680 bytes
-2026/06/20-18:41:40.859 96e Generated table #82997@0: 75298 keys, 2150425 bytes
-2026/06/20-18:41:40.869 96e Generated table #82998@0: 22840 keys, 652533 bytes
-2026/06/20-18:41:40.869 96e Compacted 4@0 + 5@1 files => 9221366 bytes
-2026/06/20-18:41:40.870 96e compacted to: files[ 0 5 46 50 0 0 0 ]
-2026/06/20-18:41:40.870 96e Delete type=2 #82993
-2026/06/20-18:41:40.871 96e Delete type=2 #82978
-2026/06/20-18:41:40.871 96e Delete type=2 #82979
-2026/06/20-18:41:40.871 96e Delete type=2 #82977
-2026/06/20-18:41:40.871 96e Delete type=2 #82985
-2026/06/20-18:41:40.871 96e Delete type=2 #82987
-2026/06/20-18:41:40.871 96e Delete type=2 #82991
-2026/06/20-18:41:40.871 96e Delete type=2 #82981
-2026/06/20-18:41:40.871 96e Delete type=2 #82980
+2026/06/20-19:22:22.420 96a Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/06/20-19:26:01.786 96e Level-0 table #83002: started
+2026/06/20-19:26:01.790 96e Level-0 table #83002: 9549 bytes OK
+2026/06/20-19:26:01.792 96e Delete type=0 #83000
+2026/06/20-19:29:11.656 96e Level-0 table #83004: started
+2026/06/20-19:29:11.658 96e Level-0 table #83004: 11300 bytes OK
+2026/06/20-19:29:11.660 96e Delete type=0 #83001
