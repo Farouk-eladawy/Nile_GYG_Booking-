@@ -1,24 +1,7 @@
-2026/06/20-09:32:21.712 979 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/06/20-09:36:08.168 979 Level-0 table #82890: started
-2026/06/20-09:36:08.174 979 Level-0 table #82890: 9513 bytes OK
-2026/06/20-09:36:08.177 979 Delete type=0 #82888
-2026/06/20-09:36:08.177 979 Compacting 4@0 + 5@1 files
-2026/06/20-09:36:08.212 979 Generated table #82891@0: 31 keys, 2313894 bytes
-2026/06/20-09:36:08.258 979 Generated table #82892@0: 75207 keys, 2149279 bytes
-2026/06/20-09:36:08.291 979 Generated table #82893@0: 75322 keys, 2149927 bytes
-2026/06/20-09:36:08.324 979 Generated table #82894@0: 75367 keys, 2150585 bytes
-2026/06/20-09:36:08.349 979 Generated table #82895@0: 55211 keys, 1577053 bytes
-2026/06/20-09:36:08.349 979 Compacted 4@0 + 5@1 files => 10340738 bytes
-2026/06/20-09:36:08.350 979 compacted to: files[ 0 5 46 48 0 0 0 ]
-2026/06/20-09:36:08.351 979 Delete type=2 #82873
-2026/06/20-09:36:08.351 979 Delete type=2 #82875
-2026/06/20-09:36:08.351 979 Delete type=2 #82872
-2026/06/20-09:36:08.351 979 Delete type=2 #82876
-2026/06/20-09:36:08.351 979 Delete type=2 #82890
-2026/06/20-09:36:08.351 979 Delete type=2 #82874
-2026/06/20-09:36:08.351 979 Delete type=2 #82884
-2026/06/20-09:36:08.351 979 Delete type=2 #82886
-2026/06/20-09:36:08.351 979 Delete type=2 #82880
-2026/06/20-09:39:32.943 97d Level-0 table #82897: started
-2026/06/20-09:39:32.949 97d Level-0 table #82897: 10790 bytes OK
-2026/06/20-09:39:32.952 97d Delete type=0 #82889
+2026/06/20-10:12:18.447 97a Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/06/20-10:16:18.888 97a Level-0 table #82901: started
+2026/06/20-10:16:18.894 97a Level-0 table #82901: 9379 bytes OK
+2026/06/20-10:16:18.896 97a Delete type=0 #82899
+2026/06/20-10:19:38.587 97a Level-0 table #82903: started
+2026/06/20-10:19:38.590 97a Level-0 table #82903: 10461 bytes OK
+2026/06/20-10:19:38.593 97a Delete type=0 #82900
