@@ -1,7 +1,25 @@
-2026/06/22-11:23:55.281 987 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/06/22-11:27:40.448 987 Level-0 table #83324: started
-2026/06/22-11:27:40.455 987 Level-0 table #83324: 9768 bytes OK
-2026/06/22-11:27:40.458 987 Delete type=0 #83322
-2026/06/22-11:29:41.966 98b Level-0 table #83326: started
-2026/06/22-11:29:41.978 98b Level-0 table #83326: 585297 bytes OK
-2026/06/22-11:29:41.980 98b Delete type=0 #83323
+2026/06/22-11:59:10.690 99d Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/06/22-12:03:19.420 9a1 Level-0 table #83330: started
+2026/06/22-12:03:19.428 9a1 Level-0 table #83330: 9361 bytes OK
+2026/06/22-12:03:19.431 9a1 Delete type=0 #83328
+2026/06/22-12:07:06.119 9a1 Level-0 table #83332: started
+2026/06/22-12:07:06.121 9a1 Level-0 table #83332: 10903 bytes OK
+2026/06/22-12:07:06.123 9a1 Delete type=0 #83329
+2026/06/22-12:07:06.123 9a1 Compacting 4@0 + 4@1 files
+2026/06/22-12:07:06.164 9a1 Generated table #83333@0: 54417 keys, 2134514 bytes
+2026/06/22-12:07:06.209 9a1 Generated table #83334@0: 75275 keys, 2148706 bytes
+2026/06/22-12:07:06.243 9a1 Generated table #83335@0: 75274 keys, 2149866 bytes
+2026/06/22-12:07:06.274 9a1 Generated table #83336@0: 75286 keys, 2150230 bytes
+2026/06/22-12:07:06.277 9a1 Generated table #83337@0: 5711 keys, 163605 bytes
+2026/06/22-12:07:06.277 9a1 Compacted 4@0 + 4@1 files => 8746921 bytes
+2026/06/22-12:07:06.278 9a1 compacted to: files[ 0 6 46 55 0 0 0 ]
+2026/06/22-12:07:06.279 9a1 Delete type=2 #83332
+2026/06/22-12:07:06.279 9a1 Delete type=2 #83320
+2026/06/22-12:07:06.279 9a1 Delete type=2 #83326
+2026/06/22-12:07:06.279 9a1 Delete type=2 #83330
+2026/06/22-12:07:06.279 9a1 Delete type=2 #83324
+2026/06/22-12:07:06.279 9a1 Delete type=2 #83319
+2026/06/22-12:07:06.279 9a1 Delete type=2 #83317
+2026/06/22-12:07:06.279 9a1 Delete type=2 #83318
+2026/06/22-12:07:06.281 9a1 Moved #83316 to level-2 2318942 bytes OK: files[ 0 5 47 55 0 0 0 ]
+2026/06/22-12:07:06.281 9a1 Moved #79772 to level-3 2293253 bytes OK: files[ 0 5 46 56 0 0 0 ]
