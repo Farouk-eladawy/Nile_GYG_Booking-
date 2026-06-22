@@ -1,7 +1,26 @@
-2026/06/22-17:40:57.666 969 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/06/22-17:44:59.781 96d Level-0 table #83375: started
-2026/06/22-17:44:59.788 96d Level-0 table #83375: 9764 bytes OK
-2026/06/22-17:44:59.790 96d Delete type=0 #83373
-2026/06/22-17:47:11.676 969 Level-0 table #83377: started
-2026/06/22-17:47:11.693 969 Level-0 table #83377: 586326 bytes OK
-2026/06/22-17:47:11.695 969 Delete type=0 #83374
+2026/06/22-18:08:56.156 92a Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/06/22-18:12:46.330 92e Level-0 table #83381: started
+2026/06/22-18:12:46.334 92e Level-0 table #83381: 9774 bytes OK
+2026/06/22-18:12:46.336 92e Delete type=0 #83379
+2026/06/22-18:16:14.267 92a Level-0 table #83383: started
+2026/06/22-18:16:14.270 92a Level-0 table #83383: 9636 bytes OK
+2026/06/22-18:16:14.272 92a Delete type=0 #83380
+2026/06/22-18:16:14.272 92a Compacting 4@0 + 5@1 files
+2026/06/22-18:16:14.305 92a Generated table #83384@0: 30 keys, 2321545 bytes
+2026/06/22-18:16:14.339 92a Generated table #83385@0: 75199 keys, 2149151 bytes
+2026/06/22-18:16:14.369 92a Generated table #83386@0: 75269 keys, 2149280 bytes
+2026/06/22-18:16:14.396 92a Generated table #83387@0: 75306 keys, 2148633 bytes
+2026/06/22-18:16:14.421 92a Generated table #83388@0: 60695 keys, 1734613 bytes
+2026/06/22-18:16:14.421 92a Compacted 4@0 + 5@1 files => 10503222 bytes
+2026/06/22-18:16:14.421 92a compacted to: files[ 0 5 46 56 0 0 0 ]
+2026/06/22-18:16:14.422 92a Delete type=2 #83383
+2026/06/22-18:16:14.422 92a Delete type=2 #83381
+2026/06/22-18:16:14.422 92a Delete type=2 #83368
+2026/06/22-18:16:14.422 92a Delete type=2 #83375
+2026/06/22-18:16:14.422 92a Delete type=2 #83377
+2026/06/22-18:16:14.422 92a Delete type=2 #83371
+2026/06/22-18:16:14.422 92a Delete type=2 #83367
+2026/06/22-18:16:14.422 92a Delete type=2 #83370
+2026/06/22-18:16:14.422 92a Delete type=2 #83369
+2026/06/22-18:16:14.423 92a Moved #83384 to level-2 2321545 bytes OK: files[ 0 4 47 56 0 0 0 ]
+2026/06/22-18:16:14.424 92a Moved #80112 to level-3 2305549 bytes OK: files[ 0 4 46 57 0 0 0 ]
