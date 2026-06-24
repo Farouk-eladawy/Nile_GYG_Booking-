@@ -1,26 +1,7 @@
-2026/06/24-16:47:51.454 96d Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/06/24-16:51:58.651 971 Level-0 table #83714: started
-2026/06/24-16:51:58.657 971 Level-0 table #83714: 9893 bytes OK
-2026/06/24-16:51:58.660 971 Delete type=0 #83712
-2026/06/24-16:51:58.660 971 Compacting 4@0 + 5@1 files
-2026/06/24-16:51:58.693 971 Generated table #83715@0: 16 keys, 2308333 bytes
-2026/06/24-16:51:58.734 971 Generated table #83716@0: 75205 keys, 2150302 bytes
-2026/06/24-16:51:58.771 971 Generated table #83717@0: 75272 keys, 2148575 bytes
-2026/06/24-16:51:58.811 971 Generated table #83718@0: 75302 keys, 2149725 bytes
-2026/06/24-16:51:58.866 971 Generated table #83719@0: 64302 keys, 1834828 bytes
-2026/06/24-16:51:58.866 971 Compacted 4@0 + 5@1 files => 10591763 bytes
-2026/06/24-16:51:58.866 971 compacted to: files[ 0 5 46 61 0 0 0 ]
-2026/06/24-16:51:58.867 971 Delete type=2 #83706
-2026/06/24-16:51:58.867 971 Delete type=2 #83700
-2026/06/24-16:51:58.867 971 Delete type=2 #83697
-2026/06/24-16:51:58.867 971 Delete type=2 #83710
-2026/06/24-16:51:58.867 971 Delete type=2 #83698
-2026/06/24-16:51:58.867 971 Delete type=2 #83699
-2026/06/24-16:51:58.867 971 Delete type=2 #83696
-2026/06/24-16:51:58.868 971 Delete type=2 #83704
-2026/06/24-16:51:58.868 971 Delete type=2 #83714
-2026/06/24-16:51:58.869 971 Moved #83715 to level-2 2308333 bytes OK: files[ 0 4 47 61 0 0 0 ]
-2026/06/24-16:51:58.869 971 Moved #80918 to level-3 2302523 bytes OK: files[ 0 4 46 62 0 0 0 ]
-2026/06/24-16:54:15.468 971 Level-0 table #83721: started
-2026/06/24-16:54:15.486 971 Level-0 table #83721: 577893 bytes OK
-2026/06/24-16:54:15.488 971 Delete type=0 #83713
+2026/06/24-17:50:44.206 966 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/06/24-17:54:47.488 96a Level-0 table #83725: started
+2026/06/24-17:54:47.494 96a Level-0 table #83725: 9630 bytes OK
+2026/06/24-17:54:47.496 96a Delete type=0 #83723
+2026/06/24-17:58:03.703 96a Level-0 table #83727: started
+2026/06/24-17:58:03.707 96a Level-0 table #83727: 11118 bytes OK
+2026/06/24-17:58:03.710 96a Delete type=0 #83724
