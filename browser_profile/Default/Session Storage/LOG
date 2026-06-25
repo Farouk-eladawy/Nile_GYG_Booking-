@@ -1,4 +1,27 @@
-2026/06/25-00:19:07.481 986 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/06/25-00:25:00.461 98b Level-0 table #83784: started
-2026/06/25-00:25:00.481 98b Level-0 table #83784: 576223 bytes OK
-2026/06/25-00:25:00.483 98b Delete type=0 #83782
+2026/06/25-01:10:07.994 8c7 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/06/25-01:13:58.837 8c7 Level-0 table #83788: started
+2026/06/25-01:13:58.845 8c7 Level-0 table #83788: 9670 bytes OK
+2026/06/25-01:13:58.886 8c7 Delete type=0 #83786
+2026/06/25-01:13:58.886 8c7 Compacting 4@0 + 5@1 files
+2026/06/25-01:13:58.925 8c7 Generated table #83789@0: 28 keys, 2283091 bytes
+2026/06/25-01:13:58.957 8c7 Generated table #83790@0: 34385 keys, 2121315 bytes
+2026/06/25-01:13:58.991 8c7 Generated table #83791@0: 75220 keys, 2149825 bytes
+2026/06/25-01:13:59.023 8c7 Generated table #83792@0: 75318 keys, 2150026 bytes
+2026/06/25-01:13:59.054 8c7 Generated table #83793@0: 75268 keys, 2149686 bytes
+2026/06/25-01:13:59.066 8c7 Generated table #83794@0: 30773 keys, 878487 bytes
+2026/06/25-01:13:59.066 8c7 Compacted 4@0 + 5@1 files => 11732430 bytes
+2026/06/25-01:13:59.067 8c7 compacted to: files[ 0 6 46 62 0 0 0 ]
+2026/06/25-01:13:59.068 8c7 Delete type=2 #83780
+2026/06/25-01:13:59.068 8c7 Delete type=2 #83770
+2026/06/25-01:13:59.068 8c7 Delete type=2 #83776
+2026/06/25-01:13:59.068 8c7 Delete type=2 #83769
+2026/06/25-01:13:59.068 8c7 Delete type=2 #83784
+2026/06/25-01:13:59.068 8c7 Delete type=2 #83771
+2026/06/25-01:13:59.068 8c7 Delete type=2 #83772
+2026/06/25-01:13:59.068 8c7 Delete type=2 #83788
+2026/06/25-01:13:59.068 8c7 Delete type=2 #83768
+2026/06/25-01:13:59.069 8c7 Moved #83789 to level-2 2283091 bytes OK: files[ 0 5 47 62 0 0 0 ]
+2026/06/25-01:13:59.070 8c7 Moved #80998 to level-3 2295281 bytes OK: files[ 0 5 46 63 0 0 0 ]
+2026/06/25-01:17:19.428 8cb Level-0 table #83796: started
+2026/06/25-01:17:19.430 8cb Level-0 table #83796: 10981 bytes OK
+2026/06/25-01:17:19.432 8cb Delete type=0 #83787
