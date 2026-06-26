@@ -1,7 +1,24 @@
-2026/06/26-05:25:26.075 97c Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/06/26-05:29:23.608 980 Level-0 table #84020: started
-2026/06/26-05:29:23.609 980 Level-0 table #84020: 9951 bytes OK
-2026/06/26-05:29:23.611 980 Delete type=0 #84018
-2026/06/26-05:32:56.991 980 Level-0 table #84022: started
-2026/06/26-05:32:56.997 980 Level-0 table #84022: 10445 bytes OK
-2026/06/26-05:32:57.000 980 Delete type=0 #84019
+2026/06/26-05:50:29.495 99e Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/06/26-05:54:09.980 9a2 Level-0 table #84026: started
+2026/06/26-05:54:09.985 9a2 Level-0 table #84026: 10070 bytes OK
+2026/06/26-05:54:09.987 9a2 Delete type=0 #84024
+2026/06/26-05:57:25.516 99e Level-0 table #84028: started
+2026/06/26-05:57:25.521 99e Level-0 table #84028: 10431 bytes OK
+2026/06/26-05:57:25.524 99e Delete type=0 #84025
+2026/06/26-05:57:25.524 99e Compacting 4@0 + 5@1 files
+2026/06/26-05:57:25.565 99e Generated table #84029@0: 54723 keys, 2136085 bytes
+2026/06/26-05:57:25.609 99e Generated table #84030@0: 75234 keys, 2150135 bytes
+2026/06/26-05:57:25.640 99e Generated table #84031@0: 75309 keys, 2149512 bytes
+2026/06/26-05:57:25.672 99e Generated table #84032@0: 75280 keys, 2149043 bytes
+2026/06/26-05:57:25.678 99e Generated table #84033@0: 13038 keys, 372484 bytes
+2026/06/26-05:57:25.678 99e Compacted 4@0 + 5@1 files => 8957259 bytes
+2026/06/26-05:57:25.679 99e compacted to: files[ 0 5 46 69 0 0 0 ]
+2026/06/26-05:57:25.680 99e Delete type=2 #84028
+2026/06/26-05:57:25.680 99e Delete type=2 #84014
+2026/06/26-05:57:25.680 99e Delete type=2 #84013
+2026/06/26-05:57:25.680 99e Delete type=2 #84020
+2026/06/26-05:57:25.680 99e Delete type=2 #84022
+2026/06/26-05:57:25.680 99e Delete type=2 #84026
+2026/06/26-05:57:25.680 99e Delete type=2 #84016
+2026/06/26-05:57:25.680 99e Delete type=2 #84012
+2026/06/26-05:57:25.680 99e Delete type=2 #84015
