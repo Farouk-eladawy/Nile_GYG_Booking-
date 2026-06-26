@@ -1,7 +1,24 @@
-2026/06/26-03:19:47.607 981 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/06/26-03:24:01.272 985 Level-0 table #84004: started
-2026/06/26-03:24:01.273 985 Level-0 table #84004: 9777 bytes OK
-2026/06/26-03:24:01.275 985 Delete type=0 #84002
-2026/06/26-03:25:34.381 981 Level-0 table #84006: started
-2026/06/26-03:25:34.398 981 Level-0 table #84006: 574779 bytes OK
-2026/06/26-03:25:34.401 981 Delete type=0 #84003
+2026/06/26-04:22:43.855 9c9 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/06/26-04:29:03.430 9cd Level-0 table #84010: started
+2026/06/26-04:29:03.448 9cd Level-0 table #84010: 574987 bytes OK
+2026/06/26-04:29:03.451 9cd Delete type=0 #84008
+2026/06/26-04:29:03.451 9cd Compacting 4@0 + 5@1 files
+2026/06/26-04:29:03.485 9cd Generated table #84011@0: 19 keys, 2282849 bytes
+2026/06/26-04:29:03.526 9cd Generated table #84012@0: 54804 keys, 2135476 bytes
+2026/06/26-04:29:03.559 9cd Generated table #84013@0: 75278 keys, 2149599 bytes
+2026/06/26-04:29:03.591 9cd Generated table #84014@0: 75303 keys, 2150086 bytes
+2026/06/26-04:29:03.624 9cd Generated table #84015@0: 75266 keys, 2149372 bytes
+2026/06/26-04:29:03.630 9cd Generated table #84016@0: 12746 keys, 364208 bytes
+2026/06/26-04:29:03.630 9cd Compacted 4@0 + 5@1 files => 11231590 bytes
+2026/06/26-04:29:03.630 9cd compacted to: files[ 0 6 46 68 0 0 0 ]
+2026/06/26-04:29:03.631 9cd Delete type=2 #83996
+2026/06/26-04:29:03.631 9cd Delete type=2 #83993
+2026/06/26-04:29:03.631 9cd Delete type=2 #84006
+2026/06/26-04:29:03.631 9cd Delete type=2 #84010
+2026/06/26-04:29:03.631 9cd Delete type=2 #83994
+2026/06/26-04:29:03.631 9cd Delete type=2 #84004
+2026/06/26-04:29:03.631 9cd Delete type=2 #83992
+2026/06/26-04:29:03.631 9cd Delete type=2 #83995
+2026/06/26-04:29:03.631 9cd Delete type=2 #84000
+2026/06/26-04:29:03.633 9cd Moved #84011 to level-2 2282849 bytes OK: files[ 0 5 47 68 0 0 0 ]
+2026/06/26-04:29:03.633 9cd Moved #81536 to level-3 2292188 bytes OK: files[ 0 5 46 69 0 0 0 ]
