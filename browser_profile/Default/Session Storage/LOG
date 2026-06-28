@@ -1,4 +1,26 @@
-2026/06/28-00:19:24.089 91f Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/06/28-00:28:13.702 923 Level-0 table #84328: started
-2026/06/28-00:28:13.713 923 Level-0 table #84328: 573635 bytes OK
-2026/06/28-00:28:13.715 923 Delete type=0 #84326
+2026/06/28-00:57:41.888 988 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/06/28-01:03:06.655 98c Level-0 table #84332: started
+2026/06/28-01:03:06.656 98c Level-0 table #84332: 9880 bytes OK
+2026/06/28-01:03:06.658 98c Delete type=0 #84330
+2026/06/28-01:03:06.658 98c Compacting 4@0 + 5@1 files
+2026/06/28-01:03:06.698 98c Generated table #84333@0: 24 keys, 2277683 bytes
+2026/06/28-01:03:06.751 98c Generated table #84334@0: 75204 keys, 2148869 bytes
+2026/06/28-01:03:06.800 98c Generated table #84335@0: 75259 keys, 2148657 bytes
+2026/06/28-01:03:06.844 98c Generated table #84336@0: 75209 keys, 2148955 bytes
+2026/06/28-01:03:06.894 98c Generated table #84337@0: 71294 keys, 2035394 bytes
+2026/06/28-01:03:06.894 98c Compacted 4@0 + 5@1 files => 10759558 bytes
+2026/06/28-01:03:06.895 98c compacted to: files[ 0 5 46 73 0 0 0 ]
+2026/06/28-01:03:06.896 98c Delete type=2 #84320
+2026/06/28-01:03:06.896 98c Delete type=2 #84328
+2026/06/28-01:03:06.896 98c Delete type=2 #84324
+2026/06/28-01:03:06.896 98c Delete type=2 #84317
+2026/06/28-01:03:06.896 98c Delete type=2 #84314
+2026/06/28-01:03:06.896 98c Delete type=2 #84332
+2026/06/28-01:03:06.896 98c Delete type=2 #84316
+2026/06/28-01:03:06.896 98c Delete type=2 #84315
+2026/06/28-01:03:06.896 98c Delete type=2 #84318
+2026/06/28-01:03:06.898 988 Moved #84333 to level-2 2277683 bytes OK: files[ 0 4 47 73 0 0 0 ]
+2026/06/28-01:03:06.898 988 Moved #81828 to level-3 2290377 bytes OK: files[ 0 4 46 74 0 0 0 ]
+2026/06/28-01:08:05.260 988 Level-0 table #84339: started
+2026/06/28-01:08:05.267 988 Level-0 table #84339: 9932 bytes OK
+2026/06/28-01:08:05.269 988 Delete type=0 #84331
