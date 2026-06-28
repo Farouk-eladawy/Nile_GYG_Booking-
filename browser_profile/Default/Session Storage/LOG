@@ -1,7 +1,23 @@
-2026/06/28-06:35:59.067 8a0 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/06/28-06:40:44.215 8a4 Level-0 table #84378: started
-2026/06/28-06:40:44.221 8a4 Level-0 table #84378: 10783 bytes OK
-2026/06/28-06:40:44.223 8a4 Delete type=0 #84376
-2026/06/28-06:44:45.793 8a4 Level-0 table #84380: started
-2026/06/28-06:44:45.807 8a4 Level-0 table #84380: 577517 bytes OK
-2026/06/28-06:44:45.809 8a4 Delete type=0 #84377
+2026/06/28-07:06:33.095 927 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/06/28-07:15:01.837 92c Level-0 table #84384: started
+2026/06/28-07:15:01.848 92c Level-0 table #84384: 573120 bytes OK
+2026/06/28-07:15:01.850 92c Delete type=0 #84382
+2026/06/28-07:15:01.851 92c Compacting 4@0 + 5@1 files
+2026/06/28-07:15:01.878 92c Generated table #84385@0: 20 keys, 2278665 bytes
+2026/06/28-07:15:01.911 92c Generated table #84386@0: 75231 keys, 2148470 bytes
+2026/06/28-07:15:01.945 92c Generated table #84387@0: 75263 keys, 2148810 bytes
+2026/06/28-07:15:01.977 92c Generated table #84388@0: 75252 keys, 2148805 bytes
+2026/06/28-07:15:02.006 92c Generated table #84389@0: 71834 keys, 2049361 bytes
+2026/06/28-07:15:02.006 92c Compacted 4@0 + 5@1 files => 10774111 bytes
+2026/06/28-07:15:02.007 92c compacted to: files[ 0 5 46 74 0 0 0 ]
+2026/06/28-07:15:02.008 92c Delete type=2 #84370
+2026/06/28-07:15:02.008 92c Delete type=2 #84378
+2026/06/28-07:15:02.008 92c Delete type=2 #84384
+2026/06/28-07:15:02.008 92c Delete type=2 #84374
+2026/06/28-07:15:02.008 92c Delete type=2 #84367
+2026/06/28-07:15:02.008 92c Delete type=2 #84366
+2026/06/28-07:15:02.008 92c Delete type=2 #84368
+2026/06/28-07:15:02.008 92c Delete type=2 #84369
+2026/06/28-07:15:02.008 92c Delete type=2 #84380
+2026/06/28-07:15:02.010 92c Moved #84385 to level-2 2278665 bytes OK: files[ 0 4 47 74 0 0 0 ]
+2026/06/28-07:15:02.011 92c Moved #81880 to level-3 2290978 bytes OK: files[ 0 4 46 75 0 0 0 ]
