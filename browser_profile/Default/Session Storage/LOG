@@ -1,7 +1,24 @@
-2026/06/30-14:26:17.149 978 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/06/30-14:31:43.588 97c Level-0 table #84718: started
-2026/06/30-14:31:43.592 97c Level-0 table #84718: 9346 bytes OK
-2026/06/30-14:31:43.596 97c Delete type=0 #84716
-2026/06/30-14:34:55.022 97d Level-0 table #84720: started
-2026/06/30-14:34:55.047 97d Level-0 table #84720: 574258 bytes OK
-2026/06/30-14:34:55.049 97d Delete type=0 #84717
+2026/06/30-15:05:48.183 972 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/06/30-15:11:18.314 972 Level-0 table #84724: started
+2026/06/30-15:11:18.322 972 Level-0 table #84724: 9400 bytes OK
+2026/06/30-15:11:18.324 972 Delete type=0 #84722
+2026/06/30-15:11:18.325 972 Compacting 4@0 + 5@1 files
+2026/06/30-15:11:18.367 972 Generated table #84725@0: 14033 keys, 2108013 bytes
+2026/06/30-15:11:18.404 972 Generated table #84726@0: 75225 keys, 2148009 bytes
+2026/06/30-15:11:18.441 972 Generated table #84727@0: 75252 keys, 2150115 bytes
+2026/06/30-15:11:18.486 972 Generated table #84728@0: 75291 keys, 2150073 bytes
+2026/06/30-15:11:18.517 972 Generated table #84729@0: 61512 keys, 1754303 bytes
+2026/06/30-15:11:18.517 972 Compacted 4@0 + 5@1 files => 10310513 bytes
+2026/06/30-15:11:18.518 972 compacted to: files[ 0 5 46 81 0 0 0 ]
+2026/06/30-15:11:18.519 972 Delete type=2 #84720
+2026/06/30-15:11:18.519 972 Delete type=2 #84718
+2026/06/30-15:11:18.520 972 Delete type=2 #84710
+2026/06/30-15:11:18.520 972 Delete type=2 #84712
+2026/06/30-15:11:18.520 972 Delete type=2 #84709
+2026/06/30-15:11:18.520 972 Delete type=2 #84711
+2026/06/30-15:11:18.520 972 Delete type=2 #84714
+2026/06/30-15:11:18.520 972 Delete type=2 #84708
+2026/06/30-15:11:18.520 972 Delete type=2 #84724
+2026/06/30-15:14:28.899 976 Level-0 table #84731: started
+2026/06/30-15:14:28.916 976 Level-0 table #84731: 575359 bytes OK
+2026/06/30-15:14:28.919 976 Delete type=0 #84723
