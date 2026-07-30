@@ -1,28 +1,40 @@
-2026/07/30-00:12:29.305 90a Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/07/30-00:17:11.639 90f Level-0 table #85670: started
-2026/07/30-00:17:11.650 90f Level-0 table #85670: 586227 bytes OK
-2026/07/30-00:17:11.653 90f Delete type=0 #85668
-2026/07/30-00:29:38.023 90a Level-0 table #85672: started
-2026/07/30-00:29:38.029 90a Level-0 table #85672: 11722 bytes OK
-2026/07/30-00:29:38.032 90a Delete type=0 #85669
-2026/07/30-00:35:49.233 90e Level-0 table #85674: started
-2026/07/30-00:35:49.240 90e Level-0 table #85674: 11144 bytes OK
-2026/07/30-00:35:49.244 90e Delete type=0 #85671
-2026/07/30-00:35:49.244 90a Compacting 4@0 + 1@1 files
-2026/07/30-00:35:49.266 90a Generated table #85675@0: 2261 keys, 620898 bytes
-2026/07/30-00:35:49.266 90a Compacted 4@0 + 1@1 files => 620898 bytes
-2026/07/30-00:35:49.267 90a compacted to: files[ 0 1 45 86 0 0 0 ]
-2026/07/30-00:35:49.268 90a Delete type=2 #85666
-2026/07/30-00:35:49.268 90a Delete type=2 #85670
-2026/07/30-00:35:49.268 90a Delete type=2 #85674
-2026/07/30-00:35:49.268 90a Delete type=2 #85672
-2026/07/30-00:35:49.268 90a Delete type=2 #85664
-2026/07/30-00:39:38.825 90a Level-0 table #85677: started
-2026/07/30-00:39:38.830 90a Level-0 table #85677: 10542 bytes OK
-2026/07/30-00:39:38.832 90a Delete type=0 #85673
-2026/07/30-00:46:08.401 90e Level-0 table #85679: started
-2026/07/30-00:46:08.403 90e Level-0 table #85679: 10574 bytes OK
-2026/07/30-00:46:08.405 90e Delete type=0 #85676
-2026/07/30-00:51:18.633 90e Level-0 table #85681: started
-2026/07/30-00:51:18.635 90e Level-0 table #85681: 12042 bytes OK
-2026/07/30-00:51:18.638 90e Delete type=0 #85678
+2026/07/30-00:58:46.531 912 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/07/30-01:02:28.106 917 Level-0 table #85685: started
+2026/07/30-01:02:28.115 917 Level-0 table #85685: 9282 bytes OK
+2026/07/30-01:02:28.118 917 Delete type=0 #85683
+2026/07/30-01:02:28.118 917 Compacting 4@0 + 1@1 files
+2026/07/30-01:02:28.133 917 Generated table #85686@0: 2875 keys, 630643 bytes
+2026/07/30-01:02:28.133 917 Compacted 4@0 + 1@1 files => 630643 bytes
+2026/07/30-01:02:28.135 917 compacted to: files[ 0 1 45 86 0 0 0 ]
+2026/07/30-01:02:28.136 917 Delete type=2 #85679
+2026/07/30-01:02:28.136 917 Delete type=2 #85681
+2026/07/30-01:02:28.136 917 Delete type=2 #85685
+2026/07/30-01:02:28.136 917 Delete type=2 #85675
+2026/07/30-01:02:28.136 917 Delete type=2 #85677
+2026/07/30-01:05:40.706 912 Level-0 table #85688: started
+2026/07/30-01:05:40.708 912 Level-0 table #85688: 10119 bytes OK
+2026/07/30-01:05:40.710 912 Delete type=0 #85684
+2026/07/30-01:14:50.256 916 Level-0 table #85690: started
+2026/07/30-01:14:50.266 916 Level-0 table #85690: 13059 bytes OK
+2026/07/30-01:14:50.269 916 Delete type=0 #85687
+2026/07/30-01:17:38.160 916 Level-0 table #85692: started
+2026/07/30-01:17:38.171 916 Level-0 table #85692: 591293 bytes OK
+2026/07/30-01:17:38.174 916 Delete type=0 #85689
+2026/07/30-01:23:05.169 916 Level-0 table #85694: started
+2026/07/30-01:23:05.179 916 Level-0 table #85694: 588796 bytes OK
+2026/07/30-01:23:05.181 916 Delete type=0 #85691
+2026/07/30-01:23:05.182 916 Compacting 4@0 + 1@1 files
+2026/07/30-01:23:05.208 916 Generated table #85695@0: 3367 keys, 1220464 bytes
+2026/07/30-01:23:05.208 916 Compacted 4@0 + 1@1 files => 1220464 bytes
+2026/07/30-01:23:05.209 916 compacted to: files[ 0 1 45 86 0 0 0 ]
+2026/07/30-01:23:05.211 916 Delete type=2 #85688
+2026/07/30-01:23:05.211 916 Delete type=2 #85694
+2026/07/30-01:23:05.211 916 Delete type=2 #85692
+2026/07/30-01:23:05.211 916 Delete type=2 #85690
+2026/07/30-01:23:05.211 916 Delete type=2 #85686
+2026/07/30-01:28:40.627 917 Level-0 table #85697: started
+2026/07/30-01:28:40.642 917 Level-0 table #85697: 586429 bytes OK
+2026/07/30-01:28:40.645 917 Delete type=0 #85693
+2026/07/30-01:33:23.723 916 Level-0 table #85699: started
+2026/07/30-01:33:23.737 916 Level-0 table #85699: 586526 bytes OK
+2026/07/30-01:33:23.739 916 Delete type=0 #85696
