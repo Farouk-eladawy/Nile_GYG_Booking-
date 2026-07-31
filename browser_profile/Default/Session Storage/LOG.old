@@ -1,47 +1,977 @@
-2026/07/31-20:56:37.779 96d Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/07/31-20:59:45.673 96d Level-0 table #87149: started
-2026/07/31-20:59:45.675 96d Level-0 table #87149: 9467 bytes OK
-2026/07/31-20:59:45.678 96d Delete type=0 #87147
-2026/07/31-21:02:52.464 96d Level-0 table #87151: started
-2026/07/31-21:02:52.468 96d Level-0 table #87151: 10329 bytes OK
-2026/07/31-21:02:52.472 96d Delete type=0 #87148
-2026/07/31-21:05:49.790 96d Level-0 table #87153: started
-2026/07/31-21:05:49.795 96d Level-0 table #87153: 12109 bytes OK
-2026/07/31-21:05:49.798 96d Delete type=0 #87150
-2026/07/31-21:05:49.798 96d Compacting 4@0 + 2@1 files
-2026/07/31-21:05:49.833 96d Generated table #87154@0: 12494 keys, 2105769 bytes
-2026/07/31-21:05:49.837 96d Generated table #87155@0: 4559 keys, 130518 bytes
-2026/07/31-21:05:49.837 96d Compacted 4@0 + 2@1 files => 2236287 bytes
-2026/07/31-21:05:49.838 96d compacted to: files[ 0 5 45 88 0 0 0 ]
-2026/07/31-21:05:49.840 96d Delete type=2 #87143
-2026/07/31-21:05:49.840 96d Delete type=2 #87151
-2026/07/31-21:05:49.840 96d Delete type=2 #87145
-2026/07/31-21:05:49.840 96d Delete type=2 #87149
-2026/07/31-21:05:49.840 96d Delete type=2 #87142
-2026/07/31-21:05:49.840 96d Delete type=2 #87153
-2026/07/31-21:10:28.367 971 Level-0 table #87157: started
-2026/07/31-21:10:28.368 971 Level-0 table #87157: 13295 bytes OK
-2026/07/31-21:10:28.370 971 Delete type=0 #87152
-2026/07/31-21:14:34.915 971 Level-0 table #87159: started
-2026/07/31-21:14:34.924 971 Level-0 table #87159: 11742 bytes OK
-2026/07/31-21:14:34.929 971 Delete type=0 #87156
-2026/07/31-21:18:26.252 972 Level-0 table #87161: started
-2026/07/31-21:18:26.254 972 Level-0 table #87161: 11798 bytes OK
-2026/07/31-21:18:26.256 972 Delete type=0 #87158
-2026/07/31-21:21:35.900 971 Level-0 table #87163: started
-2026/07/31-21:21:35.908 971 Level-0 table #87163: 10751 bytes OK
-2026/07/31-21:21:35.912 971 Delete type=0 #87160
-2026/07/31-21:21:35.912 971 Compacting 4@0 + 2@1 files
-2026/07/31-21:21:35.950 971 Generated table #87164@0: 12558 keys, 2106999 bytes
-2026/07/31-21:21:35.953 971 Generated table #87165@0: 4668 keys, 133690 bytes
-2026/07/31-21:21:35.953 971 Compacted 4@0 + 2@1 files => 2240689 bytes
-2026/07/31-21:21:35.954 971 compacted to: files[ 0 5 45 88 0 0 0 ]
-2026/07/31-21:21:35.956 971 Delete type=2 #87159
-2026/07/31-21:21:35.956 971 Delete type=2 #87163
-2026/07/31-21:21:35.956 971 Delete type=2 #87154
-2026/07/31-21:21:35.956 971 Delete type=2 #87161
-2026/07/31-21:21:35.956 971 Delete type=2 #87157
-2026/07/31-21:21:35.956 971 Delete type=2 #87155
-2026/07/31-21:24:46.589 971 Level-0 table #87167: started
-2026/07/31-21:24:46.597 971 Level-0 table #87167: 11344 bytes OK
-2026/07/31-21:24:46.602 971 Delete type=0 #87162
+2026/07/31-21:42:42.481 9db Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/07/31-21:47:22.801 9db Level-0 table #87171: started
+2026/07/31-21:47:22.815 9db Level-0 table #87171: 585763 bytes OK
+2026/07/31-21:47:22.818 9db Delete type=0 #87169
+2026/07/31-21:52:27.110 9df Level-0 table #87173: started
+2026/07/31-21:52:27.131 9df Level-0 table #87173: 592116 bytes OK
+2026/07/31-21:52:27.135 9df Delete type=0 #87170
+2026/07/31-21:58:10.784 9e0 Level-0 table #87175: started
+2026/07/31-21:58:10.786 9e0 Level-0 table #87175: 12622 bytes OK
+2026/07/31-21:58:10.788 9e0 Delete type=0 #87172
+2026/07/31-21:58:10.788 9e0 Compacting 4@0 + 2@1 files
+2026/07/31-21:58:10.830 9e0 Generated table #87176@0: 12446 keys, 2106496 bytes
+2026/07/31-21:58:10.833 9e0 Generated table #87177@0: 4953 keys, 141784 bytes
+2026/07/31-21:58:10.833 9e0 Compacted 4@0 + 2@1 files => 2248280 bytes
+2026/07/31-21:58:10.833 9e0 compacted to: files[ 0 5 45 88 0 0 0 ]
+2026/07/31-21:58:10.834 9e0 Delete type=2 #87171
+2026/07/31-21:58:10.834 9e0 Delete type=2 #87175
+2026/07/31-21:58:10.834 9e0 Delete type=2 #87164
+2026/07/31-21:58:10.834 9e0 Delete type=2 #87173
+2026/07/31-21:58:10.834 9e0 Delete type=2 #87167
+2026/07/31-21:58:10.834 9e0 Delete type=2 #87165
+2026/07/31-21:58:26.479 9df Level-0 table #87179: started
+2026/07/31-21:58:26.500 9df Level-0 table #87179: 584865 bytes OK
+2026/07/31-21:58:26.502 9df Delete type=0 #87174
+2026/07/31-22:03:39.489 9df Level-0 table #87181: started
+2026/07/31-22:03:39.492 9df Level-0 table #87181: 11821 bytes OK
+2026/07/31-22:03:39.494 9df Delete type=0 #87178
+2026/07/31-22:03:59.341 9df Level-0 table #87183: started
+2026/07/31-22:03:59.353 9df Level-0 table #87183: 583863 bytes OK
+2026/07/31-22:03:59.355 9df Delete type=0 #87180
+2026/07/31-22:07:23.932 9df Level-0 table #87185: started
+2026/07/31-22:07:23.948 9df Level-0 table #87185: 1167854 bytes OK
+2026/07/31-22:07:23.951 9df Delete type=0 #87182
+2026/07/31-22:07:23.952 9df Compacting 4@0 + 2@1 files
+2026/07/31-22:07:23.986 9df Generated table #87186@0: 23 keys, 2332791 bytes
+2026/07/31-22:07:24.013 9df Generated table #87187@0: 17430 keys, 1663926 bytes
+2026/07/31-22:07:24.013 9df Compacted 4@0 + 2@1 files => 3996717 bytes
+2026/07/31-22:07:24.013 9df compacted to: files[ 0 5 45 88 0 0 0 ]
+2026/07/31-22:07:24.015 9df Delete type=2 #87181
+2026/07/31-22:07:24.015 9df Delete type=2 #87176
+2026/07/31-22:07:24.015 9df Delete type=2 #87183
+2026/07/31-22:07:24.015 9df Delete type=2 #87185
+2026/07/31-22:07:24.015 9df Delete type=2 #87177
+2026/07/31-22:07:24.015 9df Delete type=2 #87179
+2026/07/31-22:07:24.017 9df Moved #86258 to level-2 2364455 bytes OK: files[ 0 4 46 88 0 0 0 ]
+2026/07/31-22:07:24.017 9df Moved #82732 to level-3 2308086 bytes OK: files[ 0 4 45 89 0 0 0 ]
+2026/07/31-22:07:31.927 9df Level-0 table #87189: started
+2026/07/31-22:07:31.945 9df Level-0 table #87189: 1165290 bytes OK
+2026/07/31-22:07:31.948 9df Delete type=0 #87184
+2026/07/31-22:07:39.991 9df Level-0 table #87191: started
+2026/07/31-22:07:40.009 9df Level-0 table #87191: 1165290 bytes OK
+2026/07/31-22:07:40.012 9df Delete type=0 #87188
+2026/07/31-22:07:47.941 9df Level-0 table #87193: started
+2026/07/31-22:07:47.959 9df Level-0 table #87193: 1165290 bytes OK
+2026/07/31-22:07:47.962 9df Delete type=0 #87190
+2026/07/31-22:07:55.921 9df Level-0 table #87195: started
+2026/07/31-22:07:55.936 9df Level-0 table #87195: 1165334 bytes OK
+2026/07/31-22:07:55.939 9df Delete type=0 #87192
+2026/07/31-22:07:55.940 9df Compacting 4@0 + 1@1 files
+2026/07/31-22:07:55.988 9df Generated table #87196@0: 17439 keys, 1663596 bytes
+2026/07/31-22:07:55.988 9df Compacted 4@0 + 1@1 files => 1663596 bytes
+2026/07/31-22:07:55.989 9df compacted to: files[ 0 4 45 89 0 0 0 ]
+2026/07/31-22:07:55.990 9df Delete type=2 #87189
+2026/07/31-22:07:55.990 9df Delete type=2 #87187
+2026/07/31-22:07:55.990 9df Delete type=2 #87193
+2026/07/31-22:07:55.990 9df Delete type=2 #87195
+2026/07/31-22:07:55.990 9df Delete type=2 #87191
+2026/07/31-22:08:03.935 9df Level-0 table #87198: started
+2026/07/31-22:08:03.953 9df Level-0 table #87198: 1165355 bytes OK
+2026/07/31-22:08:03.956 9df Delete type=0 #87194
+2026/07/31-22:08:12.463 9e0 Level-0 table #87200: started
+2026/07/31-22:08:12.480 9e0 Level-0 table #87200: 1165296 bytes OK
+2026/07/31-22:08:12.483 9e0 Delete type=0 #87197
+2026/07/31-22:08:20.567 9df Level-0 table #87202: started
+2026/07/31-22:08:20.585 9df Level-0 table #87202: 1165298 bytes OK
+2026/07/31-22:08:20.588 9df Delete type=0 #87199
+2026/07/31-22:08:28.823 9db Level-0 table #87204: started
+2026/07/31-22:08:28.847 9db Level-0 table #87204: 1165296 bytes OK
+2026/07/31-22:08:28.854 9db Delete type=0 #87201
+2026/07/31-22:08:28.856 9db Compacting 4@0 + 1@1 files
+2026/07/31-22:08:28.911 9db Generated table #87205@0: 17446 keys, 1664576 bytes
+2026/07/31-22:08:28.911 9db Compacted 4@0 + 1@1 files => 1664576 bytes
+2026/07/31-22:08:28.912 9db compacted to: files[ 0 4 45 89 0 0 0 ]
+2026/07/31-22:08:28.913 9db Delete type=2 #87198
+2026/07/31-22:08:28.913 9db Delete type=2 #87196
+2026/07/31-22:08:28.914 9db Delete type=2 #87202
+2026/07/31-22:08:28.914 9db Delete type=2 #87200
+2026/07/31-22:08:28.914 9db Delete type=2 #87204
+2026/07/31-22:08:37.025 9df Level-0 table #87207: started
+2026/07/31-22:08:37.043 9df Level-0 table #87207: 1165427 bytes OK
+2026/07/31-22:08:37.046 9df Delete type=0 #87203
+2026/07/31-22:08:48.721 9df Level-0 table #87209: started
+2026/07/31-22:08:48.739 9df Level-0 table #87209: 1165127 bytes OK
+2026/07/31-22:08:48.741 9df Delete type=0 #87206
+2026/07/31-22:08:56.558 9df Level-0 table #87211: started
+2026/07/31-22:08:56.571 9df Level-0 table #87211: 1165408 bytes OK
+2026/07/31-22:08:56.574 9df Delete type=0 #87208
+2026/07/31-22:09:04.474 9db Level-0 table #87213: started
+2026/07/31-22:09:04.491 9db Level-0 table #87213: 1165255 bytes OK
+2026/07/31-22:09:04.494 9db Delete type=0 #87210
+2026/07/31-22:09:04.495 9df Compacting 4@0 + 1@1 files
+2026/07/31-22:09:04.547 9df Generated table #87214@0: 17454 keys, 1664527 bytes
+2026/07/31-22:09:04.547 9df Compacted 4@0 + 1@1 files => 1664527 bytes
+2026/07/31-22:09:04.547 9df compacted to: files[ 0 4 45 89 0 0 0 ]
+2026/07/31-22:09:04.549 9df Delete type=2 #87209
+2026/07/31-22:09:04.549 9df Delete type=2 #87211
+2026/07/31-22:09:04.549 9df Delete type=2 #87207
+2026/07/31-22:09:04.549 9df Delete type=2 #87213
+2026/07/31-22:09:04.549 9df Delete type=2 #87205
+2026/07/31-22:09:12.533 9df Level-0 table #87216: started
+2026/07/31-22:09:12.551 9df Level-0 table #87216: 1165318 bytes OK
+2026/07/31-22:09:12.554 9df Delete type=0 #87212
+2026/07/31-22:09:20.385 9df Level-0 table #87218: started
+2026/07/31-22:09:20.403 9df Level-0 table #87218: 1165249 bytes OK
+2026/07/31-22:09:20.405 9df Delete type=0 #87215
+2026/07/31-22:09:28.238 9df Level-0 table #87220: started
+2026/07/31-22:09:28.253 9df Level-0 table #87220: 1165237 bytes OK
+2026/07/31-22:09:28.256 9df Delete type=0 #87217
+2026/07/31-22:09:36.427 9df Level-0 table #87222: started
+2026/07/31-22:09:36.444 9df Level-0 table #87222: 1165290 bytes OK
+2026/07/31-22:09:36.448 9df Delete type=0 #87219
+2026/07/31-22:09:36.449 9df Compacting 4@0 + 1@1 files
+2026/07/31-22:09:36.497 9df Generated table #87223@0: 17462 keys, 1664324 bytes
+2026/07/31-22:09:36.497 9df Compacted 4@0 + 1@1 files => 1664324 bytes
+2026/07/31-22:09:36.497 9df compacted to: files[ 0 4 45 89 0 0 0 ]
+2026/07/31-22:09:36.498 9df Delete type=2 #87220
+2026/07/31-22:09:36.498 9df Delete type=2 #87218
+2026/07/31-22:09:36.498 9df Delete type=2 #87216
+2026/07/31-22:09:36.498 9df Delete type=2 #87222
+2026/07/31-22:09:36.498 9df Delete type=2 #87214
+2026/07/31-22:09:44.237 9db Level-0 table #87225: started
+2026/07/31-22:09:44.253 9db Level-0 table #87225: 1165290 bytes OK
+2026/07/31-22:09:44.255 9db Delete type=0 #87221
+2026/07/31-22:09:52.226 9df Level-0 table #87227: started
+2026/07/31-22:09:52.244 9df Level-0 table #87227: 1165255 bytes OK
+2026/07/31-22:09:52.247 9df Delete type=0 #87224
+2026/07/31-22:10:00.482 9df Level-0 table #87229: started
+2026/07/31-22:10:00.498 9df Level-0 table #87229: 1165414 bytes OK
+2026/07/31-22:10:00.501 9df Delete type=0 #87226
+2026/07/31-22:10:12.301 9db Level-0 table #87231: started
+2026/07/31-22:10:12.319 9db Level-0 table #87231: 1165255 bytes OK
+2026/07/31-22:10:12.322 9db Delete type=0 #87228
+2026/07/31-22:10:12.323 9db Compacting 4@0 + 1@1 files
+2026/07/31-22:10:12.370 9db Generated table #87232@0: 17470 keys, 1664663 bytes
+2026/07/31-22:10:12.370 9db Compacted 4@0 + 1@1 files => 1664663 bytes
+2026/07/31-22:10:12.372 9db compacted to: files[ 0 4 45 89 0 0 0 ]
+2026/07/31-22:10:12.373 9db Delete type=2 #87229
+2026/07/31-22:10:12.374 9db Delete type=2 #87223
+2026/07/31-22:10:12.374 9db Delete type=2 #87231
+2026/07/31-22:10:12.374 9db Delete type=2 #87227
+2026/07/31-22:10:12.374 9db Delete type=2 #87225
+2026/07/31-22:10:20.258 9db Level-0 table #87234: started
+2026/07/31-22:10:20.276 9db Level-0 table #87234: 1165290 bytes OK
+2026/07/31-22:10:20.278 9db Delete type=0 #87230
+2026/07/31-22:10:28.209 9df Level-0 table #87236: started
+2026/07/31-22:10:28.223 9df Level-0 table #87236: 1165290 bytes OK
+2026/07/31-22:10:28.225 9df Delete type=0 #87233
+2026/07/31-22:10:36.205 9db Level-0 table #87238: started
+2026/07/31-22:10:36.223 9db Level-0 table #87238: 1165255 bytes OK
+2026/07/31-22:10:36.225 9db Delete type=0 #87235
+2026/07/31-22:10:45.587 9df Level-0 table #87240: started
+2026/07/31-22:10:45.604 9df Level-0 table #87240: 1165700 bytes OK
+2026/07/31-22:10:45.606 9df Delete type=0 #87237
+2026/07/31-22:10:45.607 9df Compacting 4@0 + 1@1 files
+2026/07/31-22:10:45.649 9df Generated table #87241@0: 17479 keys, 1665150 bytes
+2026/07/31-22:10:45.649 9df Compacted 4@0 + 1@1 files => 1665150 bytes
+2026/07/31-22:10:45.650 9df compacted to: files[ 0 4 45 89 0 0 0 ]
+2026/07/31-22:10:45.651 9df Delete type=2 #87234
+2026/07/31-22:10:45.651 9df Delete type=2 #87236
+2026/07/31-22:10:45.651 9df Delete type=2 #87238
+2026/07/31-22:10:45.651 9df Delete type=2 #87240
+2026/07/31-22:10:45.651 9df Delete type=2 #87232
+2026/07/31-22:10:49.601 9df Level-0 table #87243: started
+2026/07/31-22:10:49.611 9df Level-0 table #87243: 582619 bytes OK
+2026/07/31-22:10:49.614 9df Delete type=0 #87239
+2026/07/31-22:10:58.880 9df Level-0 table #87245: started
+2026/07/31-22:10:58.892 9df Level-0 table #87245: 1166344 bytes OK
+2026/07/31-22:10:58.894 9df Delete type=0 #87242
+2026/07/31-22:11:11.933 9df Level-0 table #87247: started
+2026/07/31-22:11:11.948 9df Level-0 table #87247: 1166204 bytes OK
+2026/07/31-22:11:11.951 9df Delete type=0 #87244
+2026/07/31-22:11:24.825 9df Level-0 table #87249: started
+2026/07/31-22:11:24.841 9df Level-0 table #87249: 1166320 bytes OK
+2026/07/31-22:11:24.844 9df Delete type=0 #87246
+2026/07/31-22:11:24.845 9df Compacting 4@0 + 1@1 files
+2026/07/31-22:11:24.885 9df Generated table #87250@0: 17485 keys, 1666212 bytes
+2026/07/31-22:11:24.885 9df Compacted 4@0 + 1@1 files => 1666212 bytes
+2026/07/31-22:11:24.885 9df compacted to: files[ 0 4 45 89 0 0 0 ]
+2026/07/31-22:11:24.886 9df Delete type=2 #87245
+2026/07/31-22:11:24.886 9df Delete type=2 #87249
+2026/07/31-22:11:24.886 9df Delete type=2 #87241
+2026/07/31-22:11:24.886 9df Delete type=2 #87247
+2026/07/31-22:11:24.886 9df Delete type=2 #87243
+2026/07/31-22:11:37.760 9df Level-0 table #87252: started
+2026/07/31-22:11:37.773 9df Level-0 table #87252: 1166201 bytes OK
+2026/07/31-22:11:37.775 9df Delete type=0 #87248
+2026/07/31-22:11:50.556 9df Level-0 table #87254: started
+2026/07/31-22:11:50.571 9df Level-0 table #87254: 1166152 bytes OK
+2026/07/31-22:11:50.574 9df Delete type=0 #87251
+2026/07/31-22:12:25.462 9db Level-0 table #87256: started
+2026/07/31-22:12:25.480 9db Level-0 table #87256: 1166641 bytes OK
+2026/07/31-22:12:25.482 9db Delete type=0 #87253
+2026/07/31-22:12:33.285 9df Level-0 table #87258: started
+2026/07/31-22:12:33.303 9df Level-0 table #87258: 1165290 bytes OK
+2026/07/31-22:12:33.305 9df Delete type=0 #87255
+2026/07/31-22:12:33.306 9df Compacting 4@0 + 2@1 files
+2026/07/31-22:12:33.346 9df Generated table #87259@0: 23 keys, 2332791 bytes
+2026/07/31-22:12:33.386 9df Generated table #87260@0: 17492 keys, 1664789 bytes
+2026/07/31-22:12:33.387 9df Compacted 4@0 + 2@1 files => 3997580 bytes
+2026/07/31-22:12:33.387 9df compacted to: files[ 0 4 45 89 0 0 0 ]
+2026/07/31-22:12:33.388 9df Delete type=2 #87254
+2026/07/31-22:12:33.388 9df Delete type=2 #87258
+2026/07/31-22:12:33.388 9df Delete type=2 #87250
+2026/07/31-22:12:33.388 9df Delete type=2 #87256
+2026/07/31-22:12:33.388 9df Delete type=2 #87186
+2026/07/31-22:12:33.388 9df Delete type=2 #87252
+2026/07/31-22:12:41.086 9df Level-0 table #87262: started
+2026/07/31-22:12:41.104 9df Level-0 table #87262: 1165290 bytes OK
+2026/07/31-22:12:41.107 9df Delete type=0 #87257
+2026/07/31-22:12:48.888 9df Level-0 table #87264: started
+2026/07/31-22:12:48.905 9df Level-0 table #87264: 1165182 bytes OK
+2026/07/31-22:12:48.909 9df Delete type=0 #87261
+2026/07/31-22:12:56.871 9e0 Level-0 table #87266: started
+2026/07/31-22:12:56.889 9e0 Level-0 table #87266: 1165460 bytes OK
+2026/07/31-22:12:56.892 9e0 Delete type=0 #87263
+2026/07/31-22:13:04.850 9db Level-0 table #87268: started
+2026/07/31-22:13:04.863 9db Level-0 table #87268: 1165255 bytes OK
+2026/07/31-22:13:04.866 9db Delete type=0 #87265
+2026/07/31-22:13:04.867 9db Compacting 4@0 + 1@1 files
+2026/07/31-22:13:04.914 9db Generated table #87269@0: 17500 keys, 1664657 bytes
+2026/07/31-22:13:04.915 9db Compacted 4@0 + 1@1 files => 1664657 bytes
+2026/07/31-22:13:04.915 9db compacted to: files[ 0 4 45 89 0 0 0 ]
+2026/07/31-22:13:04.917 9db Delete type=2 #87264
+2026/07/31-22:13:04.917 9db Delete type=2 #87266
+2026/07/31-22:13:04.917 9db Delete type=2 #87260
+2026/07/31-22:13:04.917 9db Delete type=2 #87262
+2026/07/31-22:13:04.917 9db Delete type=2 #87268
+2026/07/31-22:13:12.656 9df Level-0 table #87271: started
+2026/07/31-22:13:12.674 9df Level-0 table #87271: 1165255 bytes OK
+2026/07/31-22:13:12.677 9df Delete type=0 #87267
+2026/07/31-22:13:20.487 9db Level-0 table #87273: started
+2026/07/31-22:13:20.505 9db Level-0 table #87273: 1165290 bytes OK
+2026/07/31-22:13:20.508 9db Delete type=0 #87270
+2026/07/31-22:13:28.363 9df Level-0 table #87275: started
+2026/07/31-22:13:28.380 9df Level-0 table #87275: 1165290 bytes OK
+2026/07/31-22:13:28.383 9df Delete type=0 #87272
+2026/07/31-22:13:38.207 9db Level-0 table #87277: started
+2026/07/31-22:13:38.221 9db Level-0 table #87277: 1165414 bytes OK
+2026/07/31-22:13:38.225 9db Delete type=0 #87274
+2026/07/31-22:13:38.226 9db Compacting 4@0 + 1@1 files
+2026/07/31-22:13:38.282 9db Generated table #87278@0: 17508 keys, 1664927 bytes
+2026/07/31-22:13:38.282 9db Compacted 4@0 + 1@1 files => 1664927 bytes
+2026/07/31-22:13:38.283 9db compacted to: files[ 0 4 45 89 0 0 0 ]
+2026/07/31-22:13:38.284 9db Delete type=2 #87273
+2026/07/31-22:13:38.284 9db Delete type=2 #87269
+2026/07/31-22:13:38.284 9db Delete type=2 #87277
+2026/07/31-22:13:38.284 9db Delete type=2 #87271
+2026/07/31-22:13:38.284 9db Delete type=2 #87275
+2026/07/31-22:13:44.350 9db Level-0 table #87280: started
+2026/07/31-22:13:44.367 9db Level-0 table #87280: 1165292 bytes OK
+2026/07/31-22:13:44.370 9db Delete type=0 #87276
+2026/07/31-22:14:32.957 9df Level-0 table #87282: started
+2026/07/31-22:14:32.976 9df Level-0 table #87282: 1167601 bytes OK
+2026/07/31-22:14:32.979 9df Delete type=0 #87279
+2026/07/31-22:14:40.921 9df Level-0 table #87284: started
+2026/07/31-22:14:40.941 9df Level-0 table #87284: 1166507 bytes OK
+2026/07/31-22:14:40.943 9df Delete type=0 #87281
+2026/07/31-22:14:48.771 9df Level-0 table #87286: started
+2026/07/31-22:14:48.785 9df Level-0 table #87286: 1166487 bytes OK
+2026/07/31-22:14:48.788 9df Delete type=0 #87283
+2026/07/31-22:14:48.789 9df Compacting 4@0 + 2@1 files
+2026/07/31-22:14:48.828 9df Generated table #87287@0: 23 keys, 2332791 bytes
+2026/07/31-22:14:48.865 9df Generated table #87288@0: 17519 keys, 1668560 bytes
+2026/07/31-22:14:48.866 9df Compacted 4@0 + 2@1 files => 4001351 bytes
+2026/07/31-22:14:48.866 9df compacted to: files[ 0 4 45 89 0 0 0 ]
+2026/07/31-22:14:48.867 9df Delete type=2 #87286
+2026/07/31-22:14:48.867 9df Delete type=2 #87280
+2026/07/31-22:14:48.867 9df Delete type=2 #87259
+2026/07/31-22:14:48.868 9df Delete type=2 #87278
+2026/07/31-22:14:48.868 9df Delete type=2 #87282
+2026/07/31-22:14:48.868 9df Delete type=2 #87284
+2026/07/31-22:14:56.556 9df Level-0 table #87290: started
+2026/07/31-22:14:56.575 9df Level-0 table #87290: 1166498 bytes OK
+2026/07/31-22:14:56.578 9df Delete type=0 #87285
+2026/07/31-22:15:04.706 9df Level-0 table #87292: started
+2026/07/31-22:15:04.727 9df Level-0 table #87292: 1166507 bytes OK
+2026/07/31-22:15:04.729 9df Delete type=0 #87289
+2026/07/31-22:15:12.441 9df Level-0 table #87294: started
+2026/07/31-22:15:12.460 9df Level-0 table #87294: 1166487 bytes OK
+2026/07/31-22:15:12.463 9df Delete type=0 #87291
+2026/07/31-22:15:22.393 9db Level-0 table #87296: started
+2026/07/31-22:15:22.415 9db Level-0 table #87296: 1166487 bytes OK
+2026/07/31-22:15:22.418 9db Delete type=0 #87293
+2026/07/31-22:15:22.419 9db Compacting 4@0 + 1@1 files
+2026/07/31-22:15:22.465 9db Generated table #87297@0: 17527 keys, 1667999 bytes
+2026/07/31-22:15:22.465 9db Compacted 4@0 + 1@1 files => 1667999 bytes
+2026/07/31-22:15:22.465 9db compacted to: files[ 0 4 45 89 0 0 0 ]
+2026/07/31-22:15:22.467 9db Delete type=2 #87288
+2026/07/31-22:15:22.467 9db Delete type=2 #87296
+2026/07/31-22:15:22.467 9db Delete type=2 #87292
+2026/07/31-22:15:22.467 9db Delete type=2 #87294
+2026/07/31-22:15:22.467 9db Delete type=2 #87290
+2026/07/31-22:15:28.717 9df Level-0 table #87299: started
+2026/07/31-22:15:28.737 9df Level-0 table #87299: 1166507 bytes OK
+2026/07/31-22:15:28.739 9df Delete type=0 #87295
+2026/07/31-22:15:38.615 9df Level-0 table #87301: started
+2026/07/31-22:15:38.638 9df Level-0 table #87301: 1166498 bytes OK
+2026/07/31-22:15:38.641 9df Delete type=0 #87298
+2026/07/31-22:15:44.678 9df Level-0 table #87303: started
+2026/07/31-22:15:44.698 9df Level-0 table #87303: 1166507 bytes OK
+2026/07/31-22:15:44.700 9df Delete type=0 #87300
+2026/07/31-22:15:54.676 9db Level-0 table #87305: started
+2026/07/31-22:15:54.696 9db Level-0 table #87305: 1166487 bytes OK
+2026/07/31-22:15:54.700 9db Delete type=0 #87302
+2026/07/31-22:15:54.701 9db Compacting 4@0 + 1@1 files
+2026/07/31-22:15:54.754 9db Generated table #87306@0: 17535 keys, 1668234 bytes
+2026/07/31-22:15:54.754 9db Compacted 4@0 + 1@1 files => 1668234 bytes
+2026/07/31-22:15:54.755 9db compacted to: files[ 0 4 45 89 0 0 0 ]
+2026/07/31-22:15:54.756 9db Delete type=2 #87301
+2026/07/31-22:15:54.756 9db Delete type=2 #87297
+2026/07/31-22:15:54.756 9db Delete type=2 #87305
+2026/07/31-22:15:54.756 9db Delete type=2 #87299
+2026/07/31-22:15:54.756 9db Delete type=2 #87303
+2026/07/31-22:16:01.020 9df Level-0 table #87308: started
+2026/07/31-22:16:01.039 9df Level-0 table #87308: 1166507 bytes OK
+2026/07/31-22:16:01.042 9df Delete type=0 #87304
+2026/07/31-22:16:11.014 9db Level-0 table #87310: started
+2026/07/31-22:16:11.038 9db Level-0 table #87310: 1166507 bytes OK
+2026/07/31-22:16:11.041 9db Delete type=0 #87307
+2026/07/31-22:16:17.106 9df Level-0 table #87312: started
+2026/07/31-22:16:17.125 9df Level-0 table #87312: 1166519 bytes OK
+2026/07/31-22:16:17.128 9df Delete type=0 #87309
+2026/07/31-22:17:07.461 9db Level-0 table #87314: started
+2026/07/31-22:17:07.479 9db Level-0 table #87314: 1167936 bytes OK
+2026/07/31-22:17:07.481 9db Delete type=0 #87311
+2026/07/31-22:17:07.482 9db Compacting 4@0 + 2@1 files
+2026/07/31-22:17:07.521 9db Generated table #87315@0: 23 keys, 2332791 bytes
+2026/07/31-22:17:07.558 9db Generated table #87316@0: 17544 keys, 1668858 bytes
+2026/07/31-22:17:07.558 9db Compacted 4@0 + 2@1 files => 4001649 bytes
+2026/07/31-22:17:07.558 9db compacted to: files[ 0 4 45 89 0 0 0 ]
+2026/07/31-22:17:07.559 9db Delete type=2 #87306
+2026/07/31-22:17:07.559 9db Delete type=2 #87314
+2026/07/31-22:17:07.559 9db Delete type=2 #87287
+2026/07/31-22:17:07.559 9db Delete type=2 #87310
+2026/07/31-22:17:07.559 9db Delete type=2 #87308
+2026/07/31-22:17:07.559 9db Delete type=2 #87312
+2026/07/31-22:17:15.544 9df Level-0 table #87318: started
+2026/07/31-22:17:15.563 9df Level-0 table #87318: 1166376 bytes OK
+2026/07/31-22:17:15.566 9df Delete type=0 #87313
+2026/07/31-22:17:23.452 9df Level-0 table #87320: started
+2026/07/31-22:17:23.467 9df Level-0 table #87320: 1166473 bytes OK
+2026/07/31-22:17:23.470 9df Delete type=0 #87317
+2026/07/31-22:17:31.680 9db Level-0 table #87322: started
+2026/07/31-22:17:31.701 9db Level-0 table #87322: 1166486 bytes OK
+2026/07/31-22:17:31.704 9db Delete type=0 #87319
+2026/07/31-22:17:39.574 9df Level-0 table #87324: started
+2026/07/31-22:17:39.593 9df Level-0 table #87324: 1166462 bytes OK
+2026/07/31-22:17:39.596 9df Delete type=0 #87321
+2026/07/31-22:17:39.597 9df Compacting 4@0 + 1@1 files
+2026/07/31-22:17:39.645 9df Generated table #87325@0: 17551 keys, 1668694 bytes
+2026/07/31-22:17:39.645 9df Compacted 4@0 + 1@1 files => 1668694 bytes
+2026/07/31-22:17:39.646 9df compacted to: files[ 0 4 45 89 0 0 0 ]
+2026/07/31-22:17:39.649 9df Delete type=2 #87324
+2026/07/31-22:17:39.649 9df Delete type=2 #87322
+2026/07/31-22:17:39.649 9df Delete type=2 #87320
+2026/07/31-22:17:39.649 9df Delete type=2 #87318
+2026/07/31-22:17:39.649 9df Delete type=2 #87316
+2026/07/31-22:17:49.545 9df Level-0 table #87327: started
+2026/07/31-22:17:49.566 9df Level-0 table #87327: 1166500 bytes OK
+2026/07/31-22:17:49.570 9df Delete type=0 #87323
+2026/07/31-22:17:55.764 9e0 Level-0 table #87329: started
+2026/07/31-22:17:55.782 9e0 Level-0 table #87329: 1166500 bytes OK
+2026/07/31-22:17:55.784 9e0 Delete type=0 #87326
+2026/07/31-22:18:05.733 9db Level-0 table #87331: started
+2026/07/31-22:18:05.757 9db Level-0 table #87331: 1166500 bytes OK
+2026/07/31-22:18:05.760 9db Delete type=0 #87328
+2026/07/31-22:18:11.793 9df Level-0 table #87333: started
+2026/07/31-22:18:11.812 9df Level-0 table #87333: 1166486 bytes OK
+2026/07/31-22:18:11.815 9df Delete type=0 #87330
+2026/07/31-22:18:11.816 9df Compacting 4@0 + 1@1 files
+2026/07/31-22:18:11.865 9df Generated table #87334@0: 17559 keys, 1669773 bytes
+2026/07/31-22:18:11.865 9df Compacted 4@0 + 1@1 files => 1669773 bytes
+2026/07/31-22:18:11.866 9df compacted to: files[ 0 4 45 89 0 0 0 ]
+2026/07/31-22:18:11.867 9df Delete type=2 #87329
+2026/07/31-22:18:11.867 9df Delete type=2 #87331
+2026/07/31-22:18:11.867 9df Delete type=2 #87327
+2026/07/31-22:18:11.867 9df Delete type=2 #87333
+2026/07/31-22:18:11.867 9df Delete type=2 #87325
+2026/07/31-22:18:19.651 9df Level-0 table #87336: started
+2026/07/31-22:18:19.671 9df Level-0 table #87336: 1166511 bytes OK
+2026/07/31-22:18:19.673 9df Delete type=0 #87332
+2026/07/31-22:18:27.570 9df Level-0 table #87338: started
+2026/07/31-22:18:27.586 9df Level-0 table #87338: 1166486 bytes OK
+2026/07/31-22:18:27.589 9df Delete type=0 #87335
+2026/07/31-22:18:37.488 9db Level-0 table #87340: started
+2026/07/31-22:18:37.511 9db Level-0 table #87340: 1166555 bytes OK
+2026/07/31-22:18:37.514 9db Delete type=0 #87337
+2026/07/31-22:18:43.472 9db Level-0 table #87342: started
+2026/07/31-22:18:43.491 9db Level-0 table #87342: 1166489 bytes OK
+2026/07/31-22:18:43.494 9db Delete type=0 #87339
+2026/07/31-22:18:43.495 9db Compacting 4@0 + 1@1 files
+2026/07/31-22:18:43.545 9db Generated table #87343@0: 17567 keys, 1669562 bytes
+2026/07/31-22:18:43.546 9db Compacted 4@0 + 1@1 files => 1669562 bytes
+2026/07/31-22:18:43.546 9db compacted to: files[ 0 4 45 89 0 0 0 ]
+2026/07/31-22:18:43.548 9db Delete type=2 #87334
+2026/07/31-22:18:43.548 9db Delete type=2 #87342
+2026/07/31-22:18:43.548 9db Delete type=2 #87340
+2026/07/31-22:18:43.548 9db Delete type=2 #87336
+2026/07/31-22:18:43.548 9db Delete type=2 #87338
+2026/07/31-22:19:34.116 9db Level-0 table #87345: started
+2026/07/31-22:19:34.134 9db Level-0 table #87345: 1168052 bytes OK
+2026/07/31-22:19:34.137 9db Delete type=0 #87341
+2026/07/31-22:19:41.989 9db Level-0 table #87347: started
+2026/07/31-22:19:42.009 9db Level-0 table #87347: 1166510 bytes OK
+2026/07/31-22:19:42.012 9db Delete type=0 #87344
+2026/07/31-22:19:49.800 9db Level-0 table #87349: started
+2026/07/31-22:19:49.815 9db Level-0 table #87349: 1166487 bytes OK
+2026/07/31-22:19:49.817 9db Delete type=0 #87346
+2026/07/31-22:19:57.793 9df Level-0 table #87351: started
+2026/07/31-22:19:57.813 9df Level-0 table #87351: 1166485 bytes OK
+2026/07/31-22:19:57.816 9df Delete type=0 #87348
+2026/07/31-22:19:57.817 9df Compacting 4@0 + 2@1 files
+2026/07/31-22:19:57.855 9df Generated table #87352@0: 23 keys, 2332791 bytes
+2026/07/31-22:19:57.894 9df Generated table #87353@0: 17575 keys, 1670665 bytes
+2026/07/31-22:19:57.894 9df Compacted 4@0 + 2@1 files => 4003456 bytes
+2026/07/31-22:19:57.894 9df compacted to: files[ 0 4 45 89 0 0 0 ]
+2026/07/31-22:19:57.895 9df Delete type=2 #87349
+2026/07/31-22:19:57.895 9df Delete type=2 #87351
+2026/07/31-22:19:57.896 9df Delete type=2 #87315
+2026/07/31-22:19:57.896 9df Delete type=2 #87347
+2026/07/31-22:19:57.896 9df Delete type=2 #87345
+2026/07/31-22:19:57.896 9df Delete type=2 #87343
+2026/07/31-22:20:05.676 9df Level-0 table #87355: started
+2026/07/31-22:20:05.696 9df Level-0 table #87355: 1166485 bytes OK
+2026/07/31-22:20:05.699 9df Delete type=0 #87350
+2026/07/31-22:20:13.569 9db Level-0 table #87357: started
+2026/07/31-22:20:13.589 9db Level-0 table #87357: 1166499 bytes OK
+2026/07/31-22:20:13.591 9db Delete type=0 #87354
+2026/07/31-22:20:21.484 9df Level-0 table #87359: started
+2026/07/31-22:20:21.500 9df Level-0 table #87359: 1166496 bytes OK
+2026/07/31-22:20:21.504 9df Delete type=0 #87356
+2026/07/31-22:20:29.399 9df Level-0 table #87361: started
+2026/07/31-22:20:29.418 9df Level-0 table #87361: 1166501 bytes OK
+2026/07/31-22:20:29.421 9df Delete type=0 #87358
+2026/07/31-22:20:29.423 9df Compacting 4@0 + 1@1 files
+2026/07/31-22:20:29.474 9df Generated table #87362@0: 17583 keys, 1670885 bytes
+2026/07/31-22:20:29.474 9df Compacted 4@0 + 1@1 files => 1670885 bytes
+2026/07/31-22:20:29.474 9df compacted to: files[ 0 4 45 89 0 0 0 ]
+2026/07/31-22:20:29.476 9df Delete type=2 #87357
+2026/07/31-22:20:29.476 9df Delete type=2 #87359
+2026/07/31-22:20:29.476 9df Delete type=2 #87355
+2026/07/31-22:20:29.476 9df Delete type=2 #87361
+2026/07/31-22:20:29.476 9df Delete type=2 #87353
+2026/07/31-22:20:37.260 9df Level-0 table #87364: started
+2026/07/31-22:20:37.279 9df Level-0 table #87364: 1166487 bytes OK
+2026/07/31-22:20:37.281 9df Delete type=0 #87360
+2026/07/31-22:20:45.139 9db Level-0 table #87366: started
+2026/07/31-22:20:45.158 9db Level-0 table #87366: 1166499 bytes OK
+2026/07/31-22:20:45.161 9db Delete type=0 #87363
+2026/07/31-22:21:33.725 9db Level-0 table #87368: started
+2026/07/31-22:21:33.743 9db Level-0 table #87368: 1164996 bytes OK
+2026/07/31-22:21:33.745 9db Delete type=0 #87365
+2026/07/31-22:21:41.554 9df Level-0 table #87370: started
+2026/07/31-22:21:41.572 9df Level-0 table #87370: 1165359 bytes OK
+2026/07/31-22:21:41.575 9df Delete type=0 #87367
+2026/07/31-22:21:41.577 9df Compacting 4@0 + 2@1 files
+2026/07/31-22:21:41.615 9df Generated table #87371@0: 23 keys, 2332791 bytes
+2026/07/31-22:21:41.650 9df Generated table #87372@0: 17588 keys, 1667780 bytes
+2026/07/31-22:21:41.650 9df Compacted 4@0 + 2@1 files => 4000571 bytes
+2026/07/31-22:21:41.650 9df compacted to: files[ 0 4 45 89 0 0 0 ]
+2026/07/31-22:21:41.652 9df Delete type=2 #87352
+2026/07/31-22:21:41.652 9df Delete type=2 #87366
+2026/07/31-22:21:41.652 9df Delete type=2 #87368
+2026/07/31-22:21:41.652 9df Delete type=2 #87362
+2026/07/31-22:21:41.652 9df Delete type=2 #87364
+2026/07/31-22:21:41.652 9df Delete type=2 #87370
+2026/07/31-22:21:49.793 9df Level-0 table #87374: started
+2026/07/31-22:21:49.807 9df Level-0 table #87374: 1165290 bytes OK
+2026/07/31-22:21:49.809 9df Delete type=0 #87369
+2026/07/31-22:21:59.145 9df Level-0 table #87376: started
+2026/07/31-22:21:59.163 9df Level-0 table #87376: 1165256 bytes OK
+2026/07/31-22:21:59.166 9df Delete type=0 #87373
+2026/07/31-22:22:07.028 9df Level-0 table #87378: started
+2026/07/31-22:22:07.045 9df Level-0 table #87378: 1165290 bytes OK
+2026/07/31-22:22:07.048 9df Delete type=0 #87375
+2026/07/31-22:22:16.314 9df Level-0 table #87380: started
+2026/07/31-22:22:16.333 9df Level-0 table #87380: 1165439 bytes OK
+2026/07/31-22:22:16.335 9df Delete type=0 #87377
+2026/07/31-22:22:16.337 9df Compacting 4@0 + 1@1 files
+2026/07/31-22:22:16.389 9df Generated table #87381@0: 17597 keys, 1668300 bytes
+2026/07/31-22:22:16.389 9df Compacted 4@0 + 1@1 files => 1668300 bytes
+2026/07/31-22:22:16.390 9df compacted to: files[ 0 4 45 89 0 0 0 ]
+2026/07/31-22:22:16.392 9df Delete type=2 #87380
+2026/07/31-22:22:16.392 9df Delete type=2 #87378
+2026/07/31-22:22:16.392 9df Delete type=2 #87374
+2026/07/31-22:22:16.392 9df Delete type=2 #87376
+2026/07/31-22:22:16.392 9df Delete type=2 #87372
+2026/07/31-22:22:19.997 9df Level-0 table #87383: started
+2026/07/31-22:22:20.006 9df Level-0 table #87383: 582619 bytes OK
+2026/07/31-22:22:20.009 9df Delete type=0 #87379
+2026/07/31-22:22:29.253 9df Level-0 table #87385: started
+2026/07/31-22:22:29.268 9df Level-0 table #87385: 1166700 bytes OK
+2026/07/31-22:22:29.270 9df Delete type=0 #87382
+2026/07/31-22:22:41.984 9df Level-0 table #87387: started
+2026/07/31-22:22:41.999 9df Level-0 table #87387: 1166637 bytes OK
+2026/07/31-22:22:42.001 9df Delete type=0 #87384
+2026/07/31-22:22:54.923 9df Level-0 table #87389: started
+2026/07/31-22:22:54.937 9df Level-0 table #87389: 1166253 bytes OK
+2026/07/31-22:22:54.940 9df Delete type=0 #87386
+2026/07/31-22:22:54.940 9df Compacting 4@0 + 1@1 files
+2026/07/31-22:22:54.980 9df Generated table #87390@0: 17603 keys, 1669083 bytes
+2026/07/31-22:22:54.980 9df Compacted 4@0 + 1@1 files => 1669083 bytes
+2026/07/31-22:22:54.980 9df compacted to: files[ 0 4 45 89 0 0 0 ]
+2026/07/31-22:22:54.981 9df Delete type=2 #87385
+2026/07/31-22:22:54.981 9df Delete type=2 #87383
+2026/07/31-22:22:54.981 9df Delete type=2 #87389
+2026/07/31-22:22:54.981 9df Delete type=2 #87381
+2026/07/31-22:22:54.981 9df Delete type=2 #87387
+2026/07/31-22:23:29.659 9df Level-0 table #87392: started
+2026/07/31-22:23:29.675 9df Level-0 table #87392: 1167175 bytes OK
+2026/07/31-22:23:29.678 9df Delete type=0 #87388
+2026/07/31-22:23:37.821 9df Level-0 table #87394: started
+2026/07/31-22:23:37.837 9df Level-0 table #87394: 1165798 bytes OK
+2026/07/31-22:23:37.839 9df Delete type=0 #87391
+2026/07/31-22:23:45.854 9df Level-0 table #87396: started
+2026/07/31-22:23:45.873 9df Level-0 table #87396: 1165807 bytes OK
+2026/07/31-22:23:45.876 9df Delete type=0 #87393
+2026/07/31-22:23:53.690 9df Level-0 table #87398: started
+2026/07/31-22:23:53.707 9df Level-0 table #87398: 1165796 bytes OK
+2026/07/31-22:23:53.709 9df Delete type=0 #87395
+2026/07/31-22:23:53.710 9df Compacting 4@0 + 2@1 files
+2026/07/31-22:23:53.752 9df Generated table #87399@0: 23 keys, 2332791 bytes
+2026/07/31-22:23:53.790 9df Generated table #87400@0: 17613 keys, 1670261 bytes
+2026/07/31-22:23:53.790 9df Compacted 4@0 + 2@1 files => 4003052 bytes
+2026/07/31-22:23:53.790 9df compacted to: files[ 0 4 45 89 0 0 0 ]
+2026/07/31-22:23:53.792 9df Delete type=2 #87398
+2026/07/31-22:23:53.792 9df Delete type=2 #87390
+2026/07/31-22:23:53.792 9df Delete type=2 #87394
+2026/07/31-22:23:53.792 9df Delete type=2 #87392
+2026/07/31-22:23:53.792 9df Delete type=2 #87396
+2026/07/31-22:23:53.792 9df Delete type=2 #87371
+2026/07/31-22:24:03.934 9df Level-0 table #87402: started
+2026/07/31-22:24:03.955 9df Level-0 table #87402: 1165810 bytes OK
+2026/07/31-22:24:03.958 9df Delete type=0 #87397
+2026/07/31-22:24:10.186 9df Level-0 table #87404: started
+2026/07/31-22:24:10.204 9df Level-0 table #87404: 1165810 bytes OK
+2026/07/31-22:24:10.207 9df Delete type=0 #87401
+2026/07/31-22:24:18.042 9df Level-0 table #87406: started
+2026/07/31-22:24:18.061 9df Level-0 table #87406: 1165796 bytes OK
+2026/07/31-22:24:18.064 9df Delete type=0 #87403
+2026/07/31-22:24:25.802 9df Level-0 table #87408: started
+2026/07/31-22:24:25.822 9df Level-0 table #87408: 1165807 bytes OK
+2026/07/31-22:24:25.825 9df Delete type=0 #87405
+2026/07/31-22:24:25.826 9df Compacting 4@0 + 1@1 files
+2026/07/31-22:24:25.871 9df Generated table #87409@0: 17621 keys, 1668799 bytes
+2026/07/31-22:24:25.871 9df Compacted 4@0 + 1@1 files => 1668799 bytes
+2026/07/31-22:24:25.871 9df compacted to: files[ 0 4 45 89 0 0 0 ]
+2026/07/31-22:24:25.873 9df Delete type=2 #87406
+2026/07/31-22:24:25.873 9df Delete type=2 #87408
+2026/07/31-22:24:25.873 9df Delete type=2 #87404
+2026/07/31-22:24:25.873 9df Delete type=2 #87400
+2026/07/31-22:24:25.873 9df Delete type=2 #87402
+2026/07/31-22:24:33.919 9df Level-0 table #87411: started
+2026/07/31-22:24:33.940 9df Level-0 table #87411: 1165810 bytes OK
+2026/07/31-22:24:33.943 9df Delete type=0 #87407
+2026/07/31-22:24:41.852 9df Level-0 table #87413: started
+2026/07/31-22:24:41.871 9df Level-0 table #87413: 1165790 bytes OK
+2026/07/31-22:24:41.874 9df Delete type=0 #87410
+2026/07/31-22:24:49.908 9e0 Level-0 table #87415: started
+2026/07/31-22:24:49.944 9e0 Level-0 table #87415: 1165811 bytes OK
+2026/07/31-22:24:49.948 9e0 Delete type=0 #87412
+2026/07/31-22:25:38.532 9df Level-0 table #87417: started
+2026/07/31-22:25:38.550 9df Level-0 table #87417: 1165069 bytes OK
+2026/07/31-22:25:38.552 9df Delete type=0 #87414
+2026/07/31-22:25:38.554 9df Compacting 4@0 + 2@1 files
+2026/07/31-22:25:38.593 9df Generated table #87418@0: 24 keys, 2332608 bytes
+2026/07/31-22:25:38.628 9df Generated table #87419@0: 17628 keys, 1669549 bytes
+2026/07/31-22:25:38.628 9df Compacted 4@0 + 2@1 files => 4002157 bytes
+2026/07/31-22:25:38.629 9df compacted to: files[ 0 4 45 89 0 0 0 ]
+2026/07/31-22:25:38.630 9df Delete type=2 #87415
+2026/07/31-22:25:38.630 9df Delete type=2 #87411
+2026/07/31-22:25:38.630 9df Delete type=2 #87409
+2026/07/31-22:25:38.630 9df Delete type=2 #87413
+2026/07/31-22:25:38.630 9df Delete type=2 #87399
+2026/07/31-22:25:38.630 9df Delete type=2 #87417
+2026/07/31-22:25:46.515 9df Level-0 table #87421: started
+2026/07/31-22:25:46.534 9df Level-0 table #87421: 1165229 bytes OK
+2026/07/31-22:25:46.536 9df Delete type=0 #87416
+2026/07/31-22:25:54.914 9df Level-0 table #87423: started
+2026/07/31-22:25:54.928 9df Level-0 table #87423: 1164958 bytes OK
+2026/07/31-22:25:54.930 9df Delete type=0 #87420
+2026/07/31-22:26:02.999 9db Level-0 table #87425: started
+2026/07/31-22:26:03.016 9db Level-0 table #87425: 1164923 bytes OK
+2026/07/31-22:26:03.019 9db Delete type=0 #87422
+2026/07/31-22:26:10.884 9df Level-0 table #87427: started
+2026/07/31-22:26:10.902 9df Level-0 table #87427: 1164923 bytes OK
+2026/07/31-22:26:10.905 9df Delete type=0 #87424
+2026/07/31-22:26:10.906 9df Compacting 4@0 + 1@1 files
+2026/07/31-22:26:10.953 9df Generated table #87428@0: 17636 keys, 1669366 bytes
+2026/07/31-22:26:10.953 9df Compacted 4@0 + 1@1 files => 1669366 bytes
+2026/07/31-22:26:10.955 9df compacted to: files[ 0 4 45 89 0 0 0 ]
+2026/07/31-22:26:10.957 9df Delete type=2 #87425
+2026/07/31-22:26:10.957 9df Delete type=2 #87427
+2026/07/31-22:26:10.957 9df Delete type=2 #87423
+2026/07/31-22:26:10.957 9df Delete type=2 #87421
+2026/07/31-22:26:10.957 9df Delete type=2 #87419
+2026/07/31-22:26:18.707 9df Level-0 table #87430: started
+2026/07/31-22:26:18.721 9df Level-0 table #87430: 1164923 bytes OK
+2026/07/31-22:26:18.724 9df Delete type=0 #87426
+2026/07/31-22:26:26.622 9df Level-0 table #87432: started
+2026/07/31-22:26:26.636 9df Level-0 table #87432: 1165229 bytes OK
+2026/07/31-22:26:26.639 9df Delete type=0 #87429
+2026/07/31-22:26:34.480 9df Level-0 table #87434: started
+2026/07/31-22:26:34.497 9df Level-0 table #87434: 1164923 bytes OK
+2026/07/31-22:26:34.500 9df Delete type=0 #87431
+2026/07/31-22:26:44.594 9e0 Level-0 table #87436: started
+2026/07/31-22:26:44.613 9e0 Level-0 table #87436: 1164923 bytes OK
+2026/07/31-22:26:44.618 9e0 Delete type=0 #87433
+2026/07/31-22:26:44.619 9e0 Compacting 4@0 + 1@1 files
+2026/07/31-22:26:44.665 9e0 Generated table #87437@0: 17644 keys, 1669712 bytes
+2026/07/31-22:26:44.665 9e0 Compacted 4@0 + 1@1 files => 1669712 bytes
+2026/07/31-22:26:44.665 9e0 compacted to: files[ 0 4 45 89 0 0 0 ]
+2026/07/31-22:26:44.667 9e0 Delete type=2 #87436
+2026/07/31-22:26:44.667 9e0 Delete type=2 #87432
+2026/07/31-22:26:44.667 9e0 Delete type=2 #87430
+2026/07/31-22:26:44.667 9e0 Delete type=2 #87434
+2026/07/31-22:26:44.667 9e0 Delete type=2 #87428
+2026/07/31-22:26:50.699 9db Level-0 table #87439: started
+2026/07/31-22:26:50.714 9db Level-0 table #87439: 1164921 bytes OK
+2026/07/31-22:26:50.717 9db Delete type=0 #87435
+2026/07/31-22:27:00.595 9df Level-0 table #87441: started
+2026/07/31-22:27:00.615 9df Level-0 table #87441: 1164958 bytes OK
+2026/07/31-22:27:00.617 9df Delete type=0 #87438
+2026/07/31-22:27:06.829 9df Level-0 table #87443: started
+2026/07/31-22:27:06.847 9df Level-0 table #87443: 1164923 bytes OK
+2026/07/31-22:27:06.850 9df Delete type=0 #87440
+2026/07/31-22:27:55.248 9df Level-0 table #87445: started
+2026/07/31-22:27:55.262 9df Level-0 table #87445: 1167794 bytes OK
+2026/07/31-22:27:55.265 9df Delete type=0 #87442
+2026/07/31-22:27:55.266 9df Compacting 4@0 + 2@1 files
+2026/07/31-22:27:55.305 9df Generated table #87446@0: 24 keys, 2332608 bytes
+2026/07/31-22:27:55.346 9df Generated table #87447@0: 17655 keys, 1672227 bytes
+2026/07/31-22:27:55.346 9df Compacted 4@0 + 2@1 files => 4004835 bytes
+2026/07/31-22:27:55.347 9df compacted to: files[ 0 4 45 89 0 0 0 ]
+2026/07/31-22:27:55.348 9df Delete type=2 #87437
+2026/07/31-22:27:55.348 9df Delete type=2 #87441
+2026/07/31-22:27:55.348 9df Delete type=2 #87439
+2026/07/31-22:27:55.348 9df Delete type=2 #87445
+2026/07/31-22:27:55.348 9df Delete type=2 #87443
+2026/07/31-22:27:55.348 9df Delete type=2 #87418
+2026/07/31-22:28:03.772 9df Level-0 table #87449: started
+2026/07/31-22:28:03.786 9db Current memtable full; waiting...
+2026/07/31-22:28:03.800 9df Level-0 table #87449: 1166962 bytes OK
+2026/07/31-22:28:03.804 9df Delete type=0 #87444
+2026/07/31-22:28:03.805 9df Level-0 table #87451: started
+2026/07/31-22:28:03.816 9df Level-0 table #87451: 583185 bytes OK
+2026/07/31-22:28:03.818 9df Delete type=0 #87448
+2026/07/31-22:28:11.729 9db Level-0 table #87453: started
+2026/07/31-22:28:11.745 9db Level-0 table #87453: 1166373 bytes OK
+2026/07/31-22:28:11.748 9db Delete type=0 #87450
+2026/07/31-22:28:19.951 9df Level-0 table #87455: started
+2026/07/31-22:28:19.971 9df Level-0 table #87455: 1166387 bytes OK
+2026/07/31-22:28:19.974 9df Delete type=0 #87452
+2026/07/31-22:28:19.975 9df Compacting 4@0 + 1@1 files
+2026/07/31-22:28:20.021 9df Generated table #87456@0: 17661 keys, 1672468 bytes
+2026/07/31-22:28:20.021 9df Compacted 4@0 + 1@1 files => 1672468 bytes
+2026/07/31-22:28:20.021 9df compacted to: files[ 0 4 45 89 0 0 0 ]
+2026/07/31-22:28:20.023 9df Delete type=2 #87453
+2026/07/31-22:28:20.023 9df Delete type=2 #87455
+2026/07/31-22:28:20.023 9df Delete type=2 #87449
+2026/07/31-22:28:20.023 9df Delete type=2 #87447
+2026/07/31-22:28:20.023 9df Delete type=2 #87451
+2026/07/31-22:28:27.800 9df Level-0 table #87458: started
+2026/07/31-22:28:27.818 9df Level-0 table #87458: 1166520 bytes OK
+2026/07/31-22:28:27.821 9df Delete type=0 #87454
+2026/07/31-22:28:35.885 9df Level-0 table #87460: started
+2026/07/31-22:28:35.904 9df Level-0 table #87460: 1166373 bytes OK
+2026/07/31-22:28:35.907 9df Delete type=0 #87457
+2026/07/31-22:28:44.222 9df Level-0 table #87462: started
+2026/07/31-22:28:44.240 9df Level-0 table #87462: 1166387 bytes OK
+2026/07/31-22:28:44.243 9df Delete type=0 #87459
+2026/07/31-22:28:52.013 9df Level-0 table #87464: started
+2026/07/31-22:28:52.033 9df Level-0 table #87464: 1166373 bytes OK
+2026/07/31-22:28:52.037 9df Delete type=0 #87461
+2026/07/31-22:28:52.038 9df Compacting 4@0 + 1@1 files
+2026/07/31-22:28:52.087 9df Generated table #87465@0: 17669 keys, 1672494 bytes
+2026/07/31-22:28:52.088 9df Compacted 4@0 + 1@1 files => 1672494 bytes
+2026/07/31-22:28:52.089 9df compacted to: files[ 0 4 45 89 0 0 0 ]
+2026/07/31-22:28:52.090 9df Delete type=2 #87462
+2026/07/31-22:28:52.090 9df Delete type=2 #87460
+2026/07/31-22:28:52.090 9df Delete type=2 #87458
+2026/07/31-22:28:52.091 9df Delete type=2 #87464
+2026/07/31-22:28:52.091 9df Delete type=2 #87456
+2026/07/31-22:28:59.908 9df Level-0 table #87467: started
+2026/07/31-22:28:59.928 9df Level-0 table #87467: 1166387 bytes OK
+2026/07/31-22:28:59.931 9df Delete type=0 #87463
+2026/07/31-22:29:07.829 9df Level-0 table #87469: started
+2026/07/31-22:29:07.847 9df Level-0 table #87469: 1166506 bytes OK
+2026/07/31-22:29:07.850 9df Delete type=0 #87466
+2026/07/31-22:29:57.198 9df Level-0 table #87471: started
+2026/07/31-22:29:57.216 9df Level-0 table #87471: 1168147 bytes OK
+2026/07/31-22:29:57.218 9df Delete type=0 #87468
+2026/07/31-22:30:05.355 9df Level-0 table #87473: started
+2026/07/31-22:30:05.375 9df Level-0 table #87473: 1166387 bytes OK
+2026/07/31-22:30:05.378 9df Delete type=0 #87470
+2026/07/31-22:30:05.379 9df Compacting 4@0 + 2@1 files
+2026/07/31-22:30:05.418 9df Generated table #87474@0: 24 keys, 2332608 bytes
+2026/07/31-22:30:05.457 9df Generated table #87475@0: 17677 keys, 1672130 bytes
+2026/07/31-22:30:05.457 9df Compacted 4@0 + 2@1 files => 4004738 bytes
+2026/07/31-22:30:05.457 9df compacted to: files[ 0 4 45 89 0 0 0 ]
+2026/07/31-22:30:05.458 9df Delete type=2 #87471
+2026/07/31-22:30:05.458 9df Delete type=2 #87473
+2026/07/31-22:30:05.458 9df Delete type=2 #87467
+2026/07/31-22:30:05.458 9df Delete type=2 #87446
+2026/07/31-22:30:05.458 9df Delete type=2 #87465
+2026/07/31-22:30:05.458 9df Delete type=2 #87469
+2026/07/31-22:30:13.219 9df Level-0 table #87477: started
+2026/07/31-22:30:13.234 9df Level-0 table #87477: 1166385 bytes OK
+2026/07/31-22:30:13.237 9df Delete type=0 #87472
+2026/07/31-22:30:21.194 9df Level-0 table #87479: started
+2026/07/31-22:30:21.212 9df Level-0 table #87479: 1166379 bytes OK
+2026/07/31-22:30:21.215 9df Delete type=0 #87476
+2026/07/31-22:30:29.189 9df Level-0 table #87481: started
+2026/07/31-22:30:29.208 9df Level-0 table #87481: 1166509 bytes OK
+2026/07/31-22:30:29.211 9df Delete type=0 #87478
+2026/07/31-22:30:37.146 9df Level-0 table #87483: started
+2026/07/31-22:30:37.165 9df Level-0 table #87483: 1166371 bytes OK
+2026/07/31-22:30:37.168 9df Delete type=0 #87480
+2026/07/31-22:30:37.169 9df Compacting 4@0 + 1@1 files
+2026/07/31-22:30:37.219 9df Generated table #87484@0: 17685 keys, 1672690 bytes
+2026/07/31-22:30:37.220 9df Compacted 4@0 + 1@1 files => 1672690 bytes
+2026/07/31-22:30:37.220 9df compacted to: files[ 0 4 45 89 0 0 0 ]
+2026/07/31-22:30:37.222 9df Delete type=2 #87477
+2026/07/31-22:30:37.222 9df Delete type=2 #87483
+2026/07/31-22:30:37.222 9df Delete type=2 #87481
+2026/07/31-22:30:37.222 9df Delete type=2 #87479
+2026/07/31-22:30:37.222 9df Delete type=2 #87475
+2026/07/31-22:30:47.147 9df Level-0 table #87486: started
+2026/07/31-22:30:47.174 9df Level-0 table #87486: 1166371 bytes OK
+2026/07/31-22:30:47.177 9df Delete type=0 #87482
+2026/07/31-22:30:53.350 9df Level-0 table #87488: started
+2026/07/31-22:30:53.370 9df Level-0 table #87488: 1166385 bytes OK
+2026/07/31-22:30:53.372 9df Delete type=0 #87485
+2026/07/31-22:31:03.314 9df Level-0 table #87490: started
+2026/07/31-22:31:03.338 9df Level-0 table #87490: 1166371 bytes OK
+2026/07/31-22:31:03.341 9df Delete type=0 #87487
+2026/07/31-22:31:09.412 9df Level-0 table #87492: started
+2026/07/31-22:31:09.430 9df Level-0 table #87492: 1166518 bytes OK
+2026/07/31-22:31:09.433 9df Delete type=0 #87489
+2026/07/31-22:31:09.434 9df Compacting 4@0 + 1@1 files
+2026/07/31-22:31:09.483 9df Generated table #87493@0: 17693 keys, 1672516 bytes
+2026/07/31-22:31:09.483 9df Compacted 4@0 + 1@1 files => 1672516 bytes
+2026/07/31-22:31:09.484 9df compacted to: files[ 0 4 45 89 0 0 0 ]
+2026/07/31-22:31:09.485 9df Delete type=2 #87492
+2026/07/31-22:31:09.485 9df Delete type=2 #87484
+2026/07/31-22:31:09.485 9df Delete type=2 #87490
+2026/07/31-22:31:09.485 9df Delete type=2 #87486
+2026/07/31-22:31:09.485 9df Delete type=2 #87488
+2026/07/31-22:31:19.269 9df Level-0 table #87495: started
+2026/07/31-22:31:19.288 9df Level-0 table #87495: 1166385 bytes OK
+2026/07/31-22:31:19.291 9df Delete type=0 #87491
+2026/07/31-22:31:25.296 9df Level-0 table #87497: started
+2026/07/31-22:31:25.316 9df Level-0 table #87497: 1166385 bytes OK
+2026/07/31-22:31:25.319 9df Delete type=0 #87494
+2026/07/31-22:31:33.367 9db Level-0 table #87499: started
+2026/07/31-22:31:33.387 9db Level-0 table #87499: 1166371 bytes OK
+2026/07/31-22:31:33.390 9db Delete type=0 #87496
+2026/07/31-22:32:23.941 9db Level-0 table #87501: started
+2026/07/31-22:32:23.955 9db Level-0 table #87501: 1165471 bytes OK
+2026/07/31-22:32:23.958 9db Delete type=0 #87498
+2026/07/31-22:32:23.959 9db Compacting 4@0 + 2@1 files
+2026/07/31-22:32:23.999 9db Generated table #87502@0: 24 keys, 2332608 bytes
+2026/07/31-22:32:24.035 9db Generated table #87503@0: 17698 keys, 1671417 bytes
+2026/07/31-22:32:24.035 9db Compacted 4@0 + 2@1 files => 4004025 bytes
+2026/07/31-22:32:24.035 9db compacted to: files[ 0 4 45 89 0 0 0 ]
+2026/07/31-22:32:24.036 9db Delete type=2 #87497
+2026/07/31-22:32:24.036 9db Delete type=2 #87474
+2026/07/31-22:32:24.036 9db Delete type=2 #87493
+2026/07/31-22:32:24.036 9db Delete type=2 #87495
+2026/07/31-22:32:24.036 9db Delete type=2 #87499
+2026/07/31-22:32:24.036 9db Delete type=2 #87501
+2026/07/31-22:32:31.818 9db Level-0 table #87505: started
+2026/07/31-22:32:31.836 9db Level-0 table #87505: 1165229 bytes OK
+2026/07/31-22:32:31.838 9db Delete type=0 #87500
+2026/07/31-22:32:39.679 9df Level-0 table #87507: started
+2026/07/31-22:32:39.692 9df Level-0 table #87507: 1164958 bytes OK
+2026/07/31-22:32:39.694 9df Delete type=0 #87504
+2026/07/31-22:32:47.527 9df Level-0 table #87509: started
+2026/07/31-22:32:47.546 9df Level-0 table #87509: 1164923 bytes OK
+2026/07/31-22:32:47.549 9df Delete type=0 #87506
+2026/07/31-22:32:55.390 9df Level-0 table #87511: started
+2026/07/31-22:32:55.408 9df Level-0 table #87511: 1164958 bytes OK
+2026/07/31-22:32:55.411 9df Delete type=0 #87508
+2026/07/31-22:32:55.412 9df Compacting 4@0 + 1@1 files
+2026/07/31-22:32:55.464 9df Generated table #87512@0: 17706 keys, 1670466 bytes
+2026/07/31-22:32:55.464 9df Compacted 4@0 + 1@1 files => 1670466 bytes
+2026/07/31-22:32:55.464 9df compacted to: files[ 0 4 45 89 0 0 0 ]
+2026/07/31-22:32:55.466 9df Delete type=2 #87505
+2026/07/31-22:32:55.466 9df Delete type=2 #87511
+2026/07/31-22:32:55.466 9df Delete type=2 #87507
+2026/07/31-22:32:55.466 9df Delete type=2 #87503
+2026/07/31-22:32:55.466 9df Delete type=2 #87509
+2026/07/31-22:33:03.426 9db Level-0 table #87514: started
+2026/07/31-22:33:03.444 9db Level-0 table #87514: 1164923 bytes OK
+2026/07/31-22:33:03.446 9db Delete type=0 #87510
+2026/07/31-22:33:11.240 9df Level-0 table #87516: started
+2026/07/31-22:33:11.253 9df Level-0 table #87516: 1165231 bytes OK
+2026/07/31-22:33:11.256 9df Delete type=0 #87513
+2026/07/31-22:33:19.188 9df Level-0 table #87518: started
+2026/07/31-22:33:19.206 9df Level-0 table #87518: 1164923 bytes OK
+2026/07/31-22:33:19.208 9df Delete type=0 #87515
+2026/07/31-22:33:28.919 9df Level-0 table #87520: started
+2026/07/31-22:33:28.936 9df Level-0 table #87520: 1165180 bytes OK
+2026/07/31-22:33:28.939 9df Delete type=0 #87517
+2026/07/31-22:33:28.941 9df Compacting 4@0 + 1@1 files
+2026/07/31-22:33:29.000 9df Generated table #87521@0: 17715 keys, 1671764 bytes
+2026/07/31-22:33:29.000 9df Compacted 4@0 + 1@1 files => 1671764 bytes
+2026/07/31-22:33:29.001 9df compacted to: files[ 0 4 45 89 0 0 0 ]
+2026/07/31-22:33:29.003 9df Delete type=2 #87518
+2026/07/31-22:33:29.003 9df Delete type=2 #87514
+2026/07/31-22:33:29.003 9df Delete type=2 #87516
+2026/07/31-22:33:29.003 9df Delete type=2 #87520
+2026/07/31-22:33:29.003 9df Delete type=2 #87512
+2026/07/31-22:33:32.486 9df Level-0 table #87523: started
+2026/07/31-22:33:32.496 9df Level-0 table #87523: 583456 bytes OK
+2026/07/31-22:33:32.498 9df Delete type=0 #87519
+2026/07/31-22:33:41.727 9df Level-0 table #87525: started
+2026/07/31-22:33:41.740 9df Level-0 table #87525: 1165772 bytes OK
+2026/07/31-22:33:41.742 9df Delete type=0 #87522
+2026/07/31-22:34:26.761 9db Level-0 table #87527: started
+2026/07/31-22:34:26.796 9db Level-0 table #87527: 1167087 bytes OK
+2026/07/31-22:34:26.804 9db Delete type=0 #87524
+2026/07/31-22:34:37.066 9db Level-0 table #87529: started
+2026/07/31-22:34:37.086 9db Level-0 table #87529: 1166004 bytes OK
+2026/07/31-22:34:37.089 9db Delete type=0 #87526
+2026/07/31-22:34:37.090 9db Compacting 4@0 + 2@1 files
+2026/07/31-22:34:37.131 9db Generated table #87530@0: 24 keys, 2332608 bytes
+2026/07/31-22:34:37.163 9db Generated table #87531@0: 17723 keys, 1672709 bytes
+2026/07/31-22:34:37.164 9db Compacted 4@0 + 2@1 files => 4005317 bytes
+2026/07/31-22:34:37.164 9db compacted to: files[ 0 4 45 89 0 0 0 ]
+2026/07/31-22:34:37.165 9db Delete type=2 #87525
+2026/07/31-22:34:37.165 9db Delete type=2 #87529
+2026/07/31-22:34:37.165 9db Delete type=2 #87502
+2026/07/31-22:34:37.165 9db Delete type=2 #87523
+2026/07/31-22:34:37.165 9db Delete type=2 #87521
+2026/07/31-22:34:37.165 9db Delete type=2 #87527
+2026/07/31-22:34:43.167 9df Level-0 table #87533: started
+2026/07/31-22:34:43.181 9df Level-0 table #87533: 1165895 bytes OK
+2026/07/31-22:34:43.184 9df Delete type=0 #87528
+2026/07/31-22:34:53.057 9df Level-0 table #87535: started
+2026/07/31-22:34:53.085 9df Level-0 table #87535: 1165871 bytes OK
+2026/07/31-22:34:53.088 9df Delete type=0 #87532
+2026/07/31-22:34:58.986 9df Level-0 table #87537: started
+2026/07/31-22:34:59.005 9df Level-0 table #87537: 1165887 bytes OK
+2026/07/31-22:34:59.007 9df Delete type=0 #87534
+2026/07/31-22:35:08.891 9db Level-0 table #87539: started
+2026/07/31-22:35:08.913 9db Level-0 table #87539: 1165887 bytes OK
+2026/07/31-22:35:08.915 9db Delete type=0 #87536
+2026/07/31-22:35:08.917 9df Compacting 4@0 + 1@1 files
+2026/07/31-22:35:08.973 9df Generated table #87540@0: 17731 keys, 1672751 bytes
+2026/07/31-22:35:08.973 9df Compacted 4@0 + 1@1 files => 1672751 bytes
+2026/07/31-22:35:08.974 9df compacted to: files[ 0 4 45 89 0 0 0 ]
+2026/07/31-22:35:08.975 9df Delete type=2 #87537
+2026/07/31-22:35:08.975 9df Delete type=2 #87535
+2026/07/31-22:35:08.975 9df Delete type=2 #87539
+2026/07/31-22:35:08.975 9df Delete type=2 #87531
+2026/07/31-22:35:08.975 9df Delete type=2 #87533
+2026/07/31-22:35:15.355 9df Level-0 table #87542: started
+2026/07/31-22:35:15.374 9df Level-0 table #87542: 1166005 bytes OK
+2026/07/31-22:35:15.377 9df Delete type=0 #87538
+2026/07/31-22:35:25.273 9db Level-0 table #87544: started
+2026/07/31-22:35:25.306 9db Level-0 table #87544: 1165890 bytes OK
+2026/07/31-22:35:25.312 9db Delete type=0 #87541
+2026/07/31-22:35:31.586 9db Level-0 table #87546: started
+2026/07/31-22:35:31.605 9db Level-0 table #87546: 1165887 bytes OK
+2026/07/31-22:35:31.608 9db Delete type=0 #87543
+2026/07/31-22:35:41.559 9df Level-0 table #87548: started
+2026/07/31-22:35:41.574 9df Level-0 table #87548: 1165871 bytes OK
+2026/07/31-22:35:41.576 9df Delete type=0 #87545
+2026/07/31-22:35:41.577 9df Compacting 4@0 + 1@1 files
+2026/07/31-22:35:41.629 9df Generated table #87549@0: 17739 keys, 1673080 bytes
+2026/07/31-22:35:41.629 9df Compacted 4@0 + 1@1 files => 1673080 bytes
+2026/07/31-22:35:41.630 9df compacted to: files[ 0 4 45 89 0 0 0 ]
+2026/07/31-22:35:41.631 9df Delete type=2 #87548
+2026/07/31-22:35:41.631 9df Delete type=2 #87542
+2026/07/31-22:35:41.631 9df Delete type=2 #87546
+2026/07/31-22:35:41.631 9df Delete type=2 #87540
+2026/07/31-22:35:41.631 9df Delete type=2 #87544
+2026/07/31-22:35:48.327 9db Level-0 table #87551: started
+2026/07/31-22:35:48.346 9db Level-0 table #87551: 1165871 bytes OK
+2026/07/31-22:35:48.349 9db Delete type=0 #87547
+2026/07/31-22:35:56.340 9df Level-0 table #87553: started
+2026/07/31-22:35:56.360 9df Level-0 table #87553: 1166020 bytes OK
+2026/07/31-22:35:56.363 9df Delete type=0 #87550
+2026/07/31-22:36:04.116 9df Level-0 table #87555: started
+2026/07/31-22:36:04.135 9df Level-0 table #87555: 1165894 bytes OK
+2026/07/31-22:36:04.139 9df Delete type=0 #87552
+2026/07/31-22:36:12.134 9df Level-0 table #87557: started
+2026/07/31-22:36:12.149 9df Level-0 table #87557: 1165887 bytes OK
+2026/07/31-22:36:12.152 9df Delete type=0 #87554
+2026/07/31-22:36:12.153 9df Compacting 4@0 + 1@1 files
+2026/07/31-22:36:12.203 9df Generated table #87558@0: 17747 keys, 1673944 bytes
+2026/07/31-22:36:12.203 9df Compacted 4@0 + 1@1 files => 1673944 bytes
+2026/07/31-22:36:12.203 9df compacted to: files[ 0 4 45 89 0 0 0 ]
+2026/07/31-22:36:12.205 9df Delete type=2 #87555
+2026/07/31-22:36:12.205 9df Delete type=2 #87551
+2026/07/31-22:36:12.205 9df Delete type=2 #87553
+2026/07/31-22:36:12.205 9df Delete type=2 #87549
+2026/07/31-22:36:12.205 9df Delete type=2 #87557
+2026/07/31-22:36:20.049 9df Level-0 table #87560: started
+2026/07/31-22:36:20.067 9df Level-0 table #87560: 1165875 bytes OK
+2026/07/31-22:36:20.070 9df Delete type=0 #87556
+2026/07/31-22:37:08.815 9df Level-0 table #87562: started
+2026/07/31-22:37:08.833 9df Level-0 table #87562: 1165542 bytes OK
+2026/07/31-22:37:08.836 9df Delete type=0 #87559
+2026/07/31-22:37:16.598 9df Level-0 table #87564: started
+2026/07/31-22:37:16.616 9df Level-0 table #87564: 1164923 bytes OK
+2026/07/31-22:37:16.619 9df Delete type=0 #87561
+2026/07/31-22:37:24.364 9df Level-0 table #87566: started
+2026/07/31-22:37:24.378 9df Level-0 table #87566: 1164923 bytes OK
+2026/07/31-22:37:24.381 9df Delete type=0 #87563
+2026/07/31-22:37:24.382 9df Compacting 4@0 + 2@1 files
+2026/07/31-22:37:24.420 9df Generated table #87567@0: 24 keys, 2332608 bytes
+2026/07/31-22:37:24.457 9df Generated table #87568@0: 17752 keys, 1672181 bytes
+2026/07/31-22:37:24.457 9df Compacted 4@0 + 2@1 files => 4004789 bytes
+2026/07/31-22:37:24.457 9df compacted to: files[ 0 4 45 89 0 0 0 ]
+2026/07/31-22:37:24.458 9df Delete type=2 #87530
+2026/07/31-22:37:24.458 9df Delete type=2 #87562
+2026/07/31-22:37:24.458 9df Delete type=2 #87564
+2026/07/31-22:37:24.458 9df Delete type=2 #87558
+2026/07/31-22:37:24.458 9df Delete type=2 #87566
+2026/07/31-22:37:24.458 9df Delete type=2 #87560
+2026/07/31-22:37:32.359 9df Level-0 table #87570: started
+2026/07/31-22:37:32.377 9df Level-0 table #87570: 1164958 bytes OK
+2026/07/31-22:37:32.381 9df Delete type=0 #87565
+2026/07/31-22:37:40.452 9df Level-0 table #87572: started
+2026/07/31-22:37:40.469 9df Level-0 table #87572: 1164899 bytes OK
+2026/07/31-22:37:40.472 9df Delete type=0 #87569
+2026/07/31-22:37:48.316 9df Level-0 table #87574: started
+2026/07/31-22:37:48.334 9df Level-0 table #87574: 1164923 bytes OK
+2026/07/31-22:37:48.337 9df Delete type=0 #87571
+2026/07/31-22:37:56.463 9df Level-0 table #87576: started
+2026/07/31-22:37:56.479 9df Level-0 table #87576: 1165231 bytes OK
+2026/07/31-22:37:56.482 9df Delete type=0 #87573
+2026/07/31-22:37:56.482 9df Compacting 4@0 + 1@1 files
+2026/07/31-22:37:56.534 9df Generated table #87577@0: 17760 keys, 1672472 bytes
+2026/07/31-22:37:56.534 9df Compacted 4@0 + 1@1 files => 1672472 bytes
+2026/07/31-22:37:56.535 9df compacted to: files[ 0 4 45 89 0 0 0 ]
+2026/07/31-22:37:56.536 9df Delete type=2 #87568
+2026/07/31-22:37:56.536 9df Delete type=2 #87574
+2026/07/31-22:37:56.536 9df Delete type=2 #87572
+2026/07/31-22:37:56.536 9df Delete type=2 #87576
+2026/07/31-22:37:56.536 9df Delete type=2 #87570
+2026/07/31-22:38:06.547 9df Level-0 table #87579: started
+2026/07/31-22:38:06.570 9df Level-0 table #87579: 1164923 bytes OK
+2026/07/31-22:38:06.573 9df Delete type=0 #87575
+2026/07/31-22:38:12.856 9df Level-0 table #87581: started
+2026/07/31-22:38:12.874 9df Level-0 table #87581: 1164958 bytes OK
+2026/07/31-22:38:12.878 9df Delete type=0 #87578
+2026/07/31-22:38:23.022 9df Level-0 table #87583: started
+2026/07/31-22:38:23.044 9df Level-0 table #87583: 1164958 bytes OK
+2026/07/31-22:38:23.047 9df Delete type=0 #87580
+2026/07/31-22:38:29.249 9df Level-0 table #87585: started
+2026/07/31-22:38:29.265 9df Level-0 table #87585: 1164958 bytes OK
+2026/07/31-22:38:29.268 9df Delete type=0 #87582
+2026/07/31-22:38:29.269 9df Compacting 4@0 + 1@1 files
+2026/07/31-22:38:29.333 9df Generated table #87586@0: 17768 keys, 1671979 bytes
+2026/07/31-22:38:29.333 9df Compacted 4@0 + 1@1 files => 1671979 bytes
+2026/07/31-22:38:29.334 9df compacted to: files[ 0 4 45 89 0 0 0 ]
+2026/07/31-22:38:29.336 9df Delete type=2 #87583
+2026/07/31-22:38:29.336 9df Delete type=2 #87585
+2026/07/31-22:38:29.336 9df Delete type=2 #87579
+2026/07/31-22:38:29.336 9df Delete type=2 #87577
+2026/07/31-22:38:29.336 9df Delete type=2 #87581
+2026/07/31-22:38:37.142 9df Level-0 table #87588: started
+2026/07/31-22:38:37.161 9df Level-0 table #87588: 1165229 bytes OK
+2026/07/31-22:38:37.164 9df Delete type=0 #87584
