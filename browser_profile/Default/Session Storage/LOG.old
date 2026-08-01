@@ -1,16 +1,19 @@
-2026/08/01-13:34:02.676 882 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/08/01-13:37:43.869 886 Level-0 table #87826: started
-2026/08/01-13:37:43.877 886 Level-0 table #87826: 11179 bytes OK
-2026/08/01-13:37:43.880 886 Delete type=0 #87824
-2026/08/01-13:37:43.880 886 Compacting 4@0 + 1@1 files
-2026/08/01-13:37:43.907 886 Generated table #87827@0: 21833 keys, 1229628 bytes
-2026/08/01-13:37:43.907 886 Compacted 4@0 + 1@1 files => 1229628 bytes
-2026/08/01-13:37:43.908 886 compacted to: files[ 0 4 45 90 0 0 0 ]
-2026/08/01-13:37:43.909 886 Delete type=2 #87822
-2026/08/01-13:37:43.909 886 Delete type=2 #87816
-2026/08/01-13:37:43.909 886 Delete type=2 #87826
-2026/08/01-13:37:43.910 886 Delete type=2 #87820
-2026/08/01-13:37:43.910 886 Delete type=2 #87814
-2026/08/01-13:40:49.562 886 Level-0 table #87829: started
-2026/08/01-13:40:49.570 886 Level-0 table #87829: 11293 bytes OK
-2026/08/01-13:40:49.573 886 Delete type=0 #87825
+2026/08/01-14:23:24.895 94e Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/08/01-14:26:54.940 952 Level-0 table #87833: started
+2026/08/01-14:26:54.949 952 Level-0 table #87833: 10124 bytes OK
+2026/08/01-14:26:54.952 952 Delete type=0 #87831
+2026/08/01-14:28:01.902 952 Level-0 table #87835: started
+2026/08/01-14:28:01.923 952 Level-0 table #87835: 586468 bytes OK
+2026/08/01-14:28:01.927 952 Delete type=0 #87832
+2026/08/01-14:30:55.365 952 Level-0 table #87837: started
+2026/08/01-14:30:55.369 952 Level-0 table #87837: 12758 bytes OK
+2026/08/01-14:30:55.371 952 Delete type=0 #87834
+2026/08/01-14:30:55.371 952 Compacting 4@0 + 1@1 files
+2026/08/01-14:30:55.392 952 Generated table #87838@0: 21983 keys, 1234705 bytes
+2026/08/01-14:30:55.392 952 Compacted 4@0 + 1@1 files => 1234705 bytes
+2026/08/01-14:30:55.393 952 compacted to: files[ 0 4 45 90 0 0 0 ]
+2026/08/01-14:30:55.394 952 Delete type=2 #87829
+2026/08/01-14:30:55.394 952 Delete type=2 #87833
+2026/08/01-14:30:55.394 952 Delete type=2 #87835
+2026/08/01-14:30:55.394 952 Delete type=2 #87827
+2026/08/01-14:30:55.394 952 Delete type=2 #87837
