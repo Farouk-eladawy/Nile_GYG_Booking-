@@ -1,16 +1,19 @@
-2026/08/03-22:13:40.723 954 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/08/03-22:17:41.335 958 Level-0 table #17413: started
-2026/08/03-22:17:41.339 958 Level-0 table #17413: 20660 bytes OK
-2026/08/03-22:17:41.340 958 Delete type=0 #17411
-2026/08/03-22:17:41.340 958 Compacting 4@0 + 1@1 files
-2026/08/03-22:17:41.343 958 Generated table #17414@0: 3828 keys, 96684 bytes
-2026/08/03-22:17:41.343 958 Compacted 4@0 + 1@1 files => 96684 bytes
-2026/08/03-22:17:41.343 958 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/08/03-22:17:41.343 958 Delete type=2 #17409
-2026/08/03-22:17:41.343 958 Delete type=2 #17397
-2026/08/03-22:17:41.343 958 Delete type=2 #17401
-2026/08/03-22:17:41.343 958 Delete type=2 #17405
-2026/08/03-22:17:41.343 958 Delete type=2 #17413
-2026/08/03-22:21:31.645 954 Level-0 table #17416: started
-2026/08/03-22:21:31.647 954 Level-0 table #17416: 20156 bytes OK
-2026/08/03-22:21:31.647 954 Delete type=0 #17412
+2026/08/03-23:02:50.155 96e Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/08/03-23:05:51.016 972 Level-0 table #17420: started
+2026/08/03-23:05:51.020 972 Level-0 table #17420: 20241 bytes OK
+2026/08/03-23:05:51.021 972 Delete type=0 #17418
+2026/08/03-23:08:51.016 96e Level-0 table #17422: started
+2026/08/03-23:08:51.025 96e Level-0 table #17422: 23052 bytes OK
+2026/08/03-23:08:51.026 96e Delete type=0 #17419
+2026/08/03-23:11:18.935 96e Level-0 table #17424: started
+2026/08/03-23:11:18.936 96e Level-0 table #17424: 19663 bytes OK
+2026/08/03-23:11:18.939 96e Delete type=0 #17421
+2026/08/03-23:11:18.939 96e Compacting 4@0 + 1@1 files
+2026/08/03-23:11:18.950 96e Generated table #17425@0: 3830 keys, 96884 bytes
+2026/08/03-23:11:18.950 96e Compacted 4@0 + 1@1 files => 96884 bytes
+2026/08/03-23:11:18.951 96e compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/08/03-23:11:18.952 96e Delete type=2 #17422
+2026/08/03-23:11:18.952 96e Delete type=2 #17416
+2026/08/03-23:11:18.952 96e Delete type=2 #17424
+2026/08/03-23:11:18.952 96e Delete type=2 #17420
+2026/08/03-23:11:18.952 96e Delete type=2 #17414
