@@ -1,16 +1,25 @@
-2026/08/12-16:34:11.527 923 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/08/12-16:38:12.106 927 Level-0 table #18739: started
-2026/08/12-16:38:12.108 927 Level-0 table #18739: 21357 bytes OK
-2026/08/12-16:38:12.108 927 Delete type=0 #18737
-2026/08/12-16:38:12.109 927 Compacting 4@0 + 1@1 files
-2026/08/12-16:38:12.112 927 Generated table #18740@0: 4326 keys, 105118 bytes
-2026/08/12-16:38:12.112 927 Compacted 4@0 + 1@1 files => 105118 bytes
-2026/08/12-16:38:12.113 927 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/08/12-16:38:12.113 927 Delete type=2 #18729
-2026/08/12-16:38:12.113 927 Delete type=2 #18735
-2026/08/12-16:38:12.113 927 Delete type=2 #18725
-2026/08/12-16:38:12.113 927 Delete type=2 #18739
-2026/08/12-16:38:12.113 927 Delete type=2 #18733
-2026/08/12-16:40:36.593 927 Level-0 table #18742: started
-2026/08/12-16:40:36.595 927 Level-0 table #18742: 20586 bytes OK
-2026/08/12-16:40:36.597 927 Delete type=0 #18738
+2026/08/12-17:23:31.541 966 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/08/12-17:27:32.062 96a Level-0 table #18746: started
+2026/08/12-17:27:32.067 96a Level-0 table #18746: 21379 bytes OK
+2026/08/12-17:27:32.068 96a Delete type=0 #18744
+2026/08/12-17:30:07.543 966 Level-0 table #18748: started
+2026/08/12-17:30:07.545 966 Level-0 table #18748: 20450 bytes OK
+2026/08/12-17:30:07.546 966 Delete type=0 #18745
+2026/08/12-17:33:15.151 966 Level-0 table #18750: started
+2026/08/12-17:33:15.152 966 Level-0 table #18750: 23394 bytes OK
+2026/08/12-17:33:15.153 966 Delete type=0 #18747
+2026/08/12-17:33:15.153 966 Compacting 4@0 + 1@1 files
+2026/08/12-17:33:15.159 966 Generated table #18751@0: 4328 keys, 105201 bytes
+2026/08/12-17:33:15.159 966 Compacted 4@0 + 1@1 files => 105201 bytes
+2026/08/12-17:33:15.160 966 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/08/12-17:33:15.160 966 Delete type=2 #18740
+2026/08/12-17:33:15.160 966 Delete type=2 #18748
+2026/08/12-17:33:15.160 966 Delete type=2 #18742
+2026/08/12-17:33:15.160 966 Delete type=2 #18750
+2026/08/12-17:33:15.160 966 Delete type=2 #18746
+2026/08/12-17:34:32.969 96a Level-0 table #18753: started
+2026/08/12-17:34:32.973 96a Level-0 table #18753: 20656 bytes OK
+2026/08/12-17:34:32.973 96a Delete type=0 #18749
+2026/08/12-17:38:32.062 96a Level-0 table #18755: started
+2026/08/12-17:38:32.068 96a Level-0 table #18755: 20705 bytes OK
+2026/08/12-17:38:32.070 96a Delete type=0 #18752
