@@ -1,21 +1,10 @@
-2026/08/16-02:48:48.760 914 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/08/16-02:51:18.280 919 Level-0 table #89839: started
-2026/08/16-02:51:18.288 919 Level-0 table #89839: 12745 bytes OK
-2026/08/16-02:51:18.292 919 Delete type=0 #89837
-2026/08/16-02:51:18.292 914 Compacting 4@0 + 2@1 files
-2026/08/16-02:51:18.339 914 Generated table #89840@0: 30831 keys, 2118393 bytes
-2026/08/16-02:51:18.345 914 Generated table #89841@0: 12060 keys, 366794 bytes
-2026/08/16-02:51:18.345 914 Compacted 4@0 + 2@1 files => 2485187 bytes
-2026/08/16-02:51:18.345 914 compacted to: files[ 0 5 45 115 0 0 0 ]
-2026/08/16-02:51:18.349 914 Delete type=2 #89827
-2026/08/16-02:51:18.349 914 Delete type=2 #89833
-2026/08/16-02:51:18.349 914 Delete type=2 #89839
-2026/08/16-02:51:18.349 914 Delete type=2 #89831
-2026/08/16-02:51:18.349 914 Delete type=2 #89826
-2026/08/16-02:51:18.349 914 Delete type=2 #89835
-2026/08/16-02:52:52.542 919 Level-0 table #89843: started
-2026/08/16-02:52:52.557 919 Level-0 table #89843: 592745 bytes OK
-2026/08/16-02:52:52.560 919 Delete type=0 #89838
-2026/08/16-02:55:11.398 918 Level-0 table #89845: started
-2026/08/16-02:55:11.405 918 Level-0 table #89845: 12701 bytes OK
-2026/08/16-02:55:11.408 918 Delete type=0 #89842
+2026/08/16-03:38:05.262 95d Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/08/16-03:41:21.745 961 Compacting 2@0 + 2@1 files
+2026/08/16-03:41:21.793 961 Generated table #89848@0: 30902 keys, 2117090 bytes
+2026/08/16-03:41:21.801 961 Generated table #89849@0: 12040 keys, 365569 bytes
+2026/08/16-03:41:21.801 961 Compacted 2@0 + 2@1 files => 2482659 bytes
+2026/08/16-03:41:21.802 961 compacted to: files[ 0 5 45 115 0 0 0 ]
+2026/08/16-03:41:21.804 961 Delete type=2 #89840
+2026/08/16-03:41:21.804 961 Delete type=2 #89841
+2026/08/16-03:41:21.804 961 Delete type=2 #89843
+2026/08/16-03:41:21.804 961 Delete type=2 #89845
