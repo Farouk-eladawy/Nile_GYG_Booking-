@@ -1,4 +1,26 @@
-2026/08/16-09:23:22.012 997 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/08/16-09:27:15.951 99b Level-0 table #89897: started
-2026/08/16-09:27:15.968 99b Level-0 table #89897: 586665 bytes OK
-2026/08/16-09:27:15.971 99b Delete type=0 #89895
+2026/08/16-10:12:40.744 916 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/08/16-10:16:32.205 91a Level-0 table #89901: started
+2026/08/16-10:16:32.224 91a Level-0 table #89901: 586617 bytes OK
+2026/08/16-10:16:32.228 91a Delete type=0 #89899
+2026/08/16-10:16:32.229 91a Compacting 4@0 + 2@1 files
+2026/08/16-10:16:32.267 91a Generated table #89902@0: 58 keys, 2354582 bytes
+2026/08/16-10:16:32.297 91a Generated table #89903@0: 43382 keys, 1316418 bytes
+2026/08/16-10:16:32.297 91a Compacted 4@0 + 2@1 files => 3671000 bytes
+2026/08/16-10:16:32.297 91a compacted to: files[ 0 5 45 115 0 0 0 ]
+2026/08/16-10:16:32.299 91a Delete type=2 #89897
+2026/08/16-10:16:32.299 91a Delete type=2 #89891
+2026/08/16-10:16:32.299 91a Delete type=2 #89886
+2026/08/16-10:16:32.299 91a Delete type=2 #89901
+2026/08/16-10:16:32.300 91a Delete type=2 #89893
+2026/08/16-10:16:32.300 91a Delete type=2 #89887
+2026/08/16-10:16:32.301 91a Moved #89461 to level-2 2350352 bytes OK: files[ 0 4 46 115 0 0 0 ]
+2026/08/16-10:16:32.301 91a Moved #84278 to level-3 2279218 bytes OK: files[ 0 4 45 116 0 0 0 ]
+2026/08/16-10:25:17.604 91a Level-0 table #89905: started
+2026/08/16-10:25:17.612 91a Level-0 table #89905: 14204 bytes OK
+2026/08/16-10:25:17.616 91a Delete type=0 #89900
+2026/08/16-10:27:55.442 91a Level-0 table #89907: started
+2026/08/16-10:27:55.455 91a Level-0 table #89907: 593072 bytes OK
+2026/08/16-10:27:55.457 91a Delete type=0 #89904
+2026/08/16-10:32:19.035 916 Level-0 table #89909: started
+2026/08/16-10:32:19.042 916 Level-0 table #89909: 12368 bytes OK
+2026/08/16-10:32:19.046 916 Delete type=0 #89906
