@@ -1,14 +1,27 @@
-2026/08/17-10:02:55.919 91c Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/08/17-10:13:57.596 920 Level-0 table #90086: started
-2026/08/17-10:13:57.610 920 Level-0 table #90086: 591161 bytes OK
-2026/08/17-10:13:57.613 920 Delete type=0 #90084
-2026/08/17-10:13:57.613 920 Compacting 4@0 + 1@1 files
-2026/08/17-10:13:57.649 920 Generated table #90087@0: 11526 keys, 2104772 bytes
-2026/08/17-10:13:57.677 920 Generated table #90088@0: 33743 keys, 1025636 bytes
-2026/08/17-10:13:57.677 920 Compacted 4@0 + 1@1 files => 3130408 bytes
-2026/08/17-10:13:57.678 920 compacted to: files[ 0 5 45 117 0 0 0 ]
-2026/08/17-10:13:57.680 920 Delete type=2 #90080
-2026/08/17-10:13:57.680 920 Delete type=2 #90082
-2026/08/17-10:13:57.680 920 Delete type=2 #90086
-2026/08/17-10:13:57.680 920 Delete type=2 #90074
-2026/08/17-10:13:57.680 920 Delete type=2 #90078
+2026/08/17-10:52:22.122 926 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/08/17-10:55:14.304 926 Level-0 table #90092: started
+2026/08/17-10:55:14.311 926 Level-0 table #90092: 13449 bytes OK
+2026/08/17-10:55:14.315 926 Delete type=0 #90090
+2026/08/17-10:56:25.090 92a Level-0 table #90094: started
+2026/08/17-10:56:25.103 92a Level-0 table #90094: 591094 bytes OK
+2026/08/17-10:56:25.106 92a Delete type=0 #90091
+2026/08/17-11:01:22.241 926 Level-0 table #90096: started
+2026/08/17-11:01:22.242 926 Level-0 table #90096: 13663 bytes OK
+2026/08/17-11:01:22.244 926 Delete type=0 #90093
+2026/08/17-11:05:31.078 92a Level-0 table #90098: started
+2026/08/17-11:05:31.087 92a Level-0 table #90098: 13200 bytes OK
+2026/08/17-11:05:31.091 92a Delete type=0 #90095
+2026/08/17-11:05:31.092 92a Compacting 4@0 + 2@1 files
+2026/08/17-11:05:31.131 92a Generated table #90099@0: 11501 keys, 2105495 bytes
+2026/08/17-11:05:31.148 92a Generated table #90100@0: 33878 keys, 1029843 bytes
+2026/08/17-11:05:31.148 92a Compacted 4@0 + 2@1 files => 3135338 bytes
+2026/08/17-11:05:31.148 92a compacted to: files[ 0 5 45 117 0 0 0 ]
+2026/08/17-11:05:31.150 92a Delete type=2 #90098
+2026/08/17-11:05:31.150 92a Delete type=2 #90088
+2026/08/17-11:05:31.150 92a Delete type=2 #90092
+2026/08/17-11:05:31.150 92a Delete type=2 #90096
+2026/08/17-11:05:31.150 92a Delete type=2 #90087
+2026/08/17-11:05:31.150 92a Delete type=2 #90094
+2026/08/17-11:08:01.447 92a Level-0 table #90102: started
+2026/08/17-11:08:01.461 92a Level-0 table #90102: 593447 bytes OK
+2026/08/17-11:08:01.464 92a Delete type=0 #90097
