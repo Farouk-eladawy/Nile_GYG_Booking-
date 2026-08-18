@@ -1,19 +1,25 @@
-2026/08/18-09:54:13.049 994 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/08/18-09:58:13.697 994 Level-0 table #20213: started
-2026/08/18-09:58:13.698 994 Level-0 table #20213: 22210 bytes OK
-2026/08/18-09:58:13.699 994 Delete type=0 #20211
-2026/08/18-09:58:13.699 994 Compacting 4@0 + 1@1 files
-2026/08/18-09:58:13.702 994 Generated table #20214@0: 4612 keys, 110067 bytes
-2026/08/18-09:58:13.702 994 Compacted 4@0 + 1@1 files => 110067 bytes
-2026/08/18-09:58:13.702 994 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/08/18-09:58:13.702 994 Delete type=2 #20199
-2026/08/18-09:58:13.702 994 Delete type=2 #20209
-2026/08/18-09:58:13.702 994 Delete type=2 #20203
-2026/08/18-09:58:13.702 994 Delete type=2 #20205
-2026/08/18-09:58:13.702 994 Delete type=2 #20213
-2026/08/18-10:00:30.824 990 Level-0 table #20216: started
-2026/08/18-10:00:30.828 990 Level-0 table #20216: 20805 bytes OK
-2026/08/18-10:00:30.829 990 Delete type=0 #20212
-2026/08/18-10:02:39.840 994 Level-0 table #20218: started
-2026/08/18-10:02:39.843 994 Level-0 table #20218: 20726 bytes OK
-2026/08/18-10:02:39.843 994 Delete type=0 #20215
+2026/08/18-10:43:12.385 8c1 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/08/18-10:47:13.004 8c6 Level-0 table #20222: started
+2026/08/18-10:47:13.011 8c6 Level-0 table #20222: 20467 bytes OK
+2026/08/18-10:47:13.012 8c6 Delete type=0 #20220
+2026/08/18-10:49:50.825 8c6 Level-0 table #20224: started
+2026/08/18-10:49:50.827 8c6 Level-0 table #20224: 20386 bytes OK
+2026/08/18-10:49:50.828 8c6 Delete type=0 #20221
+2026/08/18-10:49:50.828 8c6 Compacting 4@0 + 1@1 files
+2026/08/18-10:49:50.832 8c6 Generated table #20225@0: 4614 keys, 110174 bytes
+2026/08/18-10:49:50.832 8c6 Compacted 4@0 + 1@1 files => 110174 bytes
+2026/08/18-10:49:50.833 8c6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/08/18-10:49:50.833 8c6 Delete type=2 #20218
+2026/08/18-10:49:50.833 8c6 Delete type=2 #20214
+2026/08/18-10:49:50.833 8c6 Delete type=2 #20222
+2026/08/18-10:49:50.833 8c6 Delete type=2 #20216
+2026/08/18-10:49:50.833 8c6 Delete type=2 #20224
+2026/08/18-10:52:12.457 8c5 Level-0 table #20227: started
+2026/08/18-10:52:12.459 8c5 Level-0 table #20227: 19422 bytes OK
+2026/08/18-10:52:12.460 8c5 Delete type=0 #20223
+2026/08/18-10:54:13.004 8c5 Level-0 table #20229: started
+2026/08/18-10:54:13.008 8c5 Level-0 table #20229: 19835 bytes OK
+2026/08/18-10:54:13.008 8c5 Delete type=0 #20226
+2026/08/18-10:59:13.004 8c5 Level-0 table #20231: started
+2026/08/18-10:59:13.009 8c5 Level-0 table #20231: 20649 bytes OK
+2026/08/18-10:59:13.010 8c5 Delete type=0 #20228
