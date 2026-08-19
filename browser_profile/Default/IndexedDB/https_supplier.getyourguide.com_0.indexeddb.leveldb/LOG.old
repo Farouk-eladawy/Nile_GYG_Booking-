@@ -1,1 +1,13 @@
-2026/08/19-01:31:45.757 925 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/IndexedDB/https_supplier.getyourguide.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/08/19-04:49:01.776 943 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/IndexedDB/https_supplier.getyourguide.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/08/19-05:03:24.311 943 Level-0 table #20014: started
+2026/08/19-05:03:24.314 943 Level-0 table #20014: 197930 bytes OK
+2026/08/19-05:03:24.315 943 Delete type=0 #20012
+2026/08/19-05:03:24.315 943 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/08/19-05:03:24.315 943 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x012\x00s\x00u\x00p\x00p\x00l\x00i\x00e\x00r\x00!\x001\x00:\x001\x001\x003\x006\x003\x003\x002\x000\x000\x005\x003\x005\x00:\x00w\x00e\x00b\x00:\x006\x001\x00f\x00e\x006\x00d\x004\x008\x008\x00f\x00b\x000\x008\x005\x00f\x007\x00f\x004\x00d\x00c\x00d\x002' @ 6292492 : 1
+2026/08/19-05:03:24.315 943 Compacting 1@1 + 1@2 files
+2026/08/19-05:03:24.317 943 Generated table #20015@1: 120 keys, 5278 bytes
+2026/08/19-05:03:24.317 943 Compacted 1@1 + 1@2 files => 5278 bytes
+2026/08/19-05:03:24.318 943 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/08/19-05:03:24.318 943 Delete type=2 #20014
+2026/08/19-05:03:24.318 943 Delete type=2 #20010
+2026/08/19-05:03:24.319 943 Manual compaction at level-1 from '\x00\x03\x01\x02\x012\x00s\x00u\x00p\x00p\x00l\x00i\x00e\x00r\x00!\x001\x00:\x001\x001\x003\x006\x003\x003\x002\x000\x000\x005\x003\x005\x00:\x00w\x00e\x00b\x00:\x006\x001\x00f\x00e\x006\x00d\x004\x008\x008\x00f\x00b\x000\x008\x005\x00f\x007\x00f\x004\x00d\x00c\x00d\x002' @ 6292492 : 1 .. (end); will stop at (end)
