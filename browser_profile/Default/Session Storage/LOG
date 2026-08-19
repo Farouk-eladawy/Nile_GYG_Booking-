@@ -1,26 +1,7 @@
-2026/08/18-23:03:54.425 925 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/08/18-23:06:16.400 929 Level-0 table #90391: started
-2026/08/18-23:06:16.407 929 Level-0 table #90391: 13349 bytes OK
-2026/08/18-23:06:16.410 929 Delete type=0 #90389
-2026/08/18-23:08:16.385 929 Level-0 table #90393: started
-2026/08/18-23:08:16.393 929 Level-0 table #90393: 13331 bytes OK
-2026/08/18-23:08:16.396 929 Delete type=0 #90390
-2026/08/18-23:14:20.389 929 Level-0 table #90395: started
-2026/08/18-23:14:20.407 929 Level-0 table #90395: 596570 bytes OK
-2026/08/18-23:14:20.410 929 Delete type=0 #90392
-2026/08/18-23:14:20.411 929 Compacting 4@0 + 2@1 files
-2026/08/18-23:14:20.449 929 Generated table #90396@0: 41 keys, 2344470 bytes
-2026/08/18-23:14:20.490 929 Generated table #90397@0: 48639 keys, 2054764 bytes
-2026/08/18-23:14:20.490 929 Compacted 4@0 + 2@1 files => 4399234 bytes
-2026/08/18-23:14:20.491 929 compacted to: files[ 0 5 45 120 0 0 0 ]
-2026/08/18-23:14:20.493 929 Delete type=2 #90391
-2026/08/18-23:14:20.493 929 Delete type=2 #90387
-2026/08/18-23:14:20.493 929 Delete type=2 #90383
-2026/08/18-23:14:20.493 929 Delete type=2 #90382
-2026/08/18-23:14:20.493 929 Delete type=2 #90395
-2026/08/18-23:14:20.493 929 Delete type=2 #90393
-2026/08/18-23:14:20.494 929 Moved #90113 to level-2 2339829 bytes OK: files[ 0 4 46 120 0 0 0 ]
-2026/08/18-23:14:20.494 929 Moved #84547 to level-3 2279377 bytes OK: files[ 0 4 45 121 0 0 0 ]
-2026/08/18-23:22:03.906 92a Level-0 table #90399: started
-2026/08/18-23:22:03.910 92a Level-0 table #90399: 11622 bytes OK
-2026/08/18-23:22:03.912 92a Delete type=0 #90394
+2026/08/18-23:53:16.376 998 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/08/18-23:57:22.095 99c Level-0 table #90403: started
+2026/08/18-23:57:22.109 99c Level-0 table #90403: 589593 bytes OK
+2026/08/18-23:57:22.112 99c Delete type=0 #90401
+2026/08/19-00:08:55.780 99c Level-0 table #90405: started
+2026/08/19-00:08:55.785 99c Level-0 table #90405: 12633 bytes OK
+2026/08/19-00:08:55.788 99c Delete type=0 #90402
