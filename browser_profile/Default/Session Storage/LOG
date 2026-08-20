@@ -1,43 +1,24 @@
-2026/08/20-03:02:00.541 913 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/08/20-03:04:18.688 913 Level-0 table #90654: started
-2026/08/20-03:04:18.696 913 Level-0 table #90654: 17724 bytes OK
-2026/08/20-03:04:18.700 913 Delete type=0 #90652
-2026/08/20-03:04:18.700 917 Compacting 4@0 + 2@1 files
-2026/08/20-03:04:18.755 917 Generated table #90655@0: 11584 keys, 2105721 bytes
-2026/08/20-03:04:18.789 917 Generated table #90656@0: 39761 keys, 1198014 bytes
-2026/08/20-03:04:18.789 917 Compacted 4@0 + 2@1 files => 3303735 bytes
-2026/08/20-03:04:18.793 917 compacted to: files[ 0 6 45 122 0 0 0 ]
-2026/08/20-03:04:18.795 917 Delete type=2 #90644
-2026/08/20-03:04:18.795 917 Delete type=2 #90648
-2026/08/20-03:04:18.795 917 Delete type=2 #90646
-2026/08/20-03:04:18.795 917 Delete type=2 #90643
-2026/08/20-03:04:18.795 917 Delete type=2 #90650
-2026/08/20-03:04:18.795 917 Delete type=2 #90654
-2026/08/20-03:06:15.253 917 Level-0 table #90658: started
-2026/08/20-03:06:15.259 917 Level-0 table #90658: 17786 bytes OK
-2026/08/20-03:06:15.262 917 Delete type=0 #90653
-2026/08/20-03:08:23.256 917 Level-0 table #90660: started
-2026/08/20-03:08:23.257 917 Level-0 table #90660: 16594 bytes OK
-2026/08/20-03:08:23.259 917 Delete type=0 #90657
-2026/08/20-03:48:28.739 917 Level-0 table #90662: started
-2026/08/20-03:48:28.746 917 Level-0 table #90662: 14009 bytes OK
-2026/08/20-03:48:28.749 917 Delete type=0 #90659
-2026/08/20-03:50:05.928 917 Level-0 table #90664: started
-2026/08/20-03:50:05.946 917 Level-0 table #90664: 594681 bytes OK
-2026/08/20-03:50:05.949 917 Delete type=0 #90661
-2026/08/20-03:50:05.950 917 Compacting 4@0 + 2@1 files
-2026/08/20-03:50:05.984 917 Generated table #90665@0: 21 keys, 2339674 bytes
-2026/08/20-03:50:06.013 917 Generated table #90666@0: 51430 keys, 1553211 bytes
-2026/08/20-03:50:06.013 917 Compacted 4@0 + 2@1 files => 3892885 bytes
-2026/08/20-03:50:06.014 917 compacted to: files[ 0 6 45 122 0 0 0 ]
-2026/08/20-03:50:06.016 917 Delete type=2 #90662
-2026/08/20-03:50:06.016 917 Delete type=2 #90655
-2026/08/20-03:50:06.016 917 Delete type=2 #90660
-2026/08/20-03:50:06.016 917 Delete type=2 #90658
-2026/08/20-03:50:06.016 917 Delete type=2 #90656
-2026/08/20-03:50:06.016 917 Delete type=2 #90664
-2026/08/20-03:50:06.018 917 Moved #90307 to level-2 2346449 bytes OK: files[ 0 5 46 122 0 0 0 ]
-2026/08/20-03:50:06.018 917 Moved #84653 to level-3 2278026 bytes OK: files[ 0 5 45 123 0 0 0 ]
-2026/08/20-03:52:16.263 913 Level-0 table #90668: started
-2026/08/20-03:52:16.271 913 Level-0 table #90668: 12973 bytes OK
-2026/08/20-03:52:16.274 913 Delete type=0 #90663
+2026/08/20-04:40:29.161 9d4 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/08/20-04:42:28.433 9d8 Level-0 table #90672: started
+2026/08/20-04:42:28.440 9d8 Level-0 table #90672: 17120 bytes OK
+2026/08/20-04:42:28.443 9d8 Delete type=0 #90670
+2026/08/20-04:44:15.132 9d4 Level-0 table #90674: started
+2026/08/20-04:44:15.139 9d4 Level-0 table #90674: 17122 bytes OK
+2026/08/20-04:44:15.142 9d4 Delete type=0 #90671
+2026/08/20-04:46:01.278 9d4 Level-0 table #90676: started
+2026/08/20-04:46:01.285 9d4 Level-0 table #90676: 17315 bytes OK
+2026/08/20-04:46:01.288 9d4 Delete type=0 #90673
+2026/08/20-04:46:01.289 9d8 Compacting 4@0 + 2@1 files
+2026/08/20-04:46:01.325 9d8 Generated table #90677@0: 11561 keys, 2104962 bytes
+2026/08/20-04:46:01.354 9d8 Generated table #90678@0: 39996 keys, 1207071 bytes
+2026/08/20-04:46:01.354 9d8 Compacted 4@0 + 2@1 files => 3312033 bytes
+2026/08/20-04:46:01.355 9d8 compacted to: files[ 0 5 45 123 0 0 0 ]
+2026/08/20-04:46:01.357 9d8 Delete type=2 #90666
+2026/08/20-04:46:01.357 9d8 Delete type=2 #90676
+2026/08/20-04:46:01.357 9d8 Delete type=2 #90668
+2026/08/20-04:46:01.357 9d8 Delete type=2 #90672
+2026/08/20-04:46:01.357 9d8 Delete type=2 #90674
+2026/08/20-04:46:01.357 9d8 Delete type=2 #90665
+2026/08/20-04:59:56.949 9d4 Level-0 table #90680: started
+2026/08/20-04:59:56.956 9d4 Level-0 table #90680: 12440 bytes OK
+2026/08/20-04:59:56.959 9d4 Delete type=0 #90675
