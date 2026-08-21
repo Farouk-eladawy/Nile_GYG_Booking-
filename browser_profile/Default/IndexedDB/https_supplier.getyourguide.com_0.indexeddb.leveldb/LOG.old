@@ -1,13 +1,3 @@
-2026/08/21-14:23:45.195 8b6 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/IndexedDB/https_supplier.getyourguide.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/08/21-14:44:59.162 8b6 Level-0 table #20019: started
-2026/08/21-14:44:59.165 8b6 Level-0 table #20019: 432241 bytes OK
-2026/08/21-14:44:59.166 8b6 Delete type=0 #20017
-2026/08/21-14:44:59.166 8b6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2026/08/21-14:44:59.166 8b6 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x06\x01\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 6294183 : 1
-2026/08/21-14:44:59.166 8b6 Compacting 1@1 + 1@2 files
-2026/08/21-14:44:59.168 8b6 Generated table #20020@1: 120 keys, 5280 bytes
-2026/08/21-14:44:59.168 8b6 Compacted 1@1 + 1@2 files => 5280 bytes
-2026/08/21-14:44:59.168 8b6 compacted to: files[ 0 0 1 0 0 0 0 ]
-2026/08/21-14:44:59.168 8b6 Delete type=2 #20015
-2026/08/21-14:44:59.168 8b6 Delete type=2 #20019
-2026/08/21-14:44:59.169 8b6 Manual compaction at level-1 from '\x00\x06\x01\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 6294183 : 1 .. (end); will stop at (end)
+2026/08/21-14:45:01.771 8b2 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/IndexedDB/https_supplier.getyourguide.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/08/21-14:45:01.773 8b2 Recovering log #20018
+2026/08/21-14:45:01.773 8b2 Reusing old log /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/IndexedDB/https_supplier.getyourguide.com_0.indexeddb.leveldb/020018.log 
