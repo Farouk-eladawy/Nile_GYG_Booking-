@@ -1,23 +1,19 @@
-2026/08/21-00:25:21.311 921 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/08/21-00:27:21.740 921 Level-0 table #90817: started
-2026/08/21-00:27:21.749 921 Level-0 table #90817: 16323 bytes OK
-2026/08/21-00:27:21.752 921 Delete type=0 #90815
-2026/08/21-00:29:09.736 926 Level-0 table #90819: started
-2026/08/21-00:29:09.742 926 Level-0 table #90819: 16394 bytes OK
-2026/08/21-00:29:09.746 926 Delete type=0 #90816
-2026/08/21-00:30:49.994 921 Level-0 table #90821: started
-2026/08/21-00:30:50.003 921 Level-0 table #90821: 16376 bytes OK
-2026/08/21-00:30:50.008 921 Delete type=0 #90818
-2026/08/21-00:30:50.008 921 Compacting 4@0 + 2@1 files
-2026/08/21-00:30:50.046 921 Generated table #90822@0: 53326 keys, 1622121 bytes
-2026/08/21-00:30:50.046 921 Compacted 4@0 + 2@1 files => 1622121 bytes
-2026/08/21-00:30:50.047 921 compacted to: files[ 0 5 45 123 0 0 0 ]
-2026/08/21-00:30:50.049 921 Delete type=2 #90810
-2026/08/21-00:30:50.049 921 Delete type=2 #90819
-2026/08/21-00:30:50.049 921 Delete type=2 #90813
-2026/08/21-00:30:50.049 921 Delete type=2 #90811
-2026/08/21-00:30:50.049 921 Delete type=2 #90817
-2026/08/21-00:30:50.049 921 Delete type=2 #90821
-2026/08/21-00:32:38.621 921 Level-0 table #90824: started
-2026/08/21-00:32:38.631 921 Level-0 table #90824: 16473 bytes OK
-2026/08/21-00:32:38.635 921 Delete type=0 #90820
+2026/08/21-01:14:26.138 8c1 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/08/21-01:16:39.061 8c5 Level-0 table #90828: started
+2026/08/21-01:16:39.145 8c5 Level-0 table #90828: 15583 bytes OK
+2026/08/21-01:16:39.148 8c5 Delete type=0 #90826
+2026/08/21-01:18:30.626 8c5 Level-0 table #90830: started
+2026/08/21-01:18:30.661 8c5 Level-0 table #90830: 15779 bytes OK
+2026/08/21-01:18:30.663 8c5 Delete type=0 #90827
+2026/08/21-01:20:30.663 8c1 Level-0 table #90832: started
+2026/08/21-01:20:30.785 8c1 Level-0 table #90832: 15680 bytes OK
+2026/08/21-01:20:30.788 8c1 Delete type=0 #90829
+2026/08/21-01:20:30.788 8c1 Compacting 4@0 + 1@1 files
+2026/08/21-01:20:30.886 8c1 Generated table #90833@0: 53437 keys, 1625411 bytes
+2026/08/21-01:20:30.886 8c1 Compacted 4@0 + 1@1 files => 1625411 bytes
+2026/08/21-01:20:30.888 8c1 compacted to: files[ 0 5 45 123 0 0 0 ]
+2026/08/21-01:20:30.888 8c1 Delete type=2 #90822
+2026/08/21-01:20:30.888 8c1 Delete type=2 #90830
+2026/08/21-01:20:30.888 8c1 Delete type=2 #90824
+2026/08/21-01:20:30.888 8c1 Delete type=2 #90828
+2026/08/21-01:20:30.888 8c1 Delete type=2 #90832
