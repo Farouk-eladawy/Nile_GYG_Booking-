@@ -1,7 +1,24 @@
-2026/08/23-05:31:33.654 93f Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/08/23-05:35:32.028 943 Level-0 table #91265: started
-2026/08/23-05:35:32.042 943 Level-0 table #91265: 590603 bytes OK
-2026/08/23-05:35:32.045 943 Delete type=0 #91263
-2026/08/23-05:41:46.854 943 Level-0 table #91267: started
-2026/08/23-05:41:46.865 943 Level-0 table #91267: 591747 bytes OK
-2026/08/23-05:41:46.867 943 Delete type=0 #91264
+2026/08/23-06:22:19.532 8b7 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/08/23-06:26:11.529 8bc Level-0 table #91271: started
+2026/08/23-06:26:11.547 8bc Level-0 table #91271: 590975 bytes OK
+2026/08/23-06:26:11.550 8bc Delete type=0 #91269
+2026/08/23-06:26:11.550 8bc Compacting 4@0 + 1@1 files
+2026/08/23-06:26:11.579 8bc Generated table #91272@0: 11529 keys, 2104982 bytes
+2026/08/23-06:26:11.657 8bc Generated table #91273@0: 46892 keys, 1405446 bytes
+2026/08/23-06:26:11.657 8bc Compacted 4@0 + 1@1 files => 3510428 bytes
+2026/08/23-06:26:11.658 8bc compacted to: files[ 0 6 44 128 0 0 0 ]
+2026/08/23-06:26:11.659 8bc Delete type=2 #91261
+2026/08/23-06:26:11.659 8bc Delete type=2 #91267
+2026/08/23-06:26:11.659 8bc Delete type=2 #91271
+2026/08/23-06:26:11.659 8bc Delete type=2 #91259
+2026/08/23-06:26:11.659 8bc Delete type=2 #91265
+2026/08/23-06:26:11.661 8bc Moved #91109 to level-2 2355043 bytes OK: files[ 0 5 45 128 0 0 0 ]
+2026/08/23-06:26:11.662 8bc Moved #85629 to level-3 2331388 bytes OK: files[ 0 5 44 129 0 0 0 ]
+2026/08/23-06:34:42.415 8b7 Level-0 table #91275: started
+2026/08/23-06:34:42.420 8b7 Level-0 table #91275: 13705 bytes OK
+2026/08/23-06:34:42.423 8b7 Delete type=0 #91270
+2026/08/23-06:36:51.305 8b7 Level-0 table #91277: started
+2026/08/23-06:36:51.402 8b7 Level-0 table #91277: 13241 bytes OK
+2026/08/23-06:36:51.413 8b7 Delete type=0 #91274
+2026/08/23-06:41:33.330 8bc Level-0 table #91279: started
+2026/08/23-06:41:33.332 8bc Level-0 table #91279: 12427 bytes OK

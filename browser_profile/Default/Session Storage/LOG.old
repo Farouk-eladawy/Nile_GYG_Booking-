@@ -1,25 +1,7 @@
-2026/08/23-03:50:13.074 9be Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/08/23-04:33:19.106 9c2 Level-0 table #91252: started
-2026/08/23-04:33:19.108 9c2 Level-0 table #91252: 12861 bytes OK
-2026/08/23-04:33:19.110 9c2 Delete type=0 #91250
-2026/08/23-04:35:25.341 9c2 Level-0 table #91254: started
-2026/08/23-04:35:25.347 9c2 Level-0 table #91254: 13386 bytes OK
-2026/08/23-04:35:25.352 9c2 Delete type=0 #91251
-2026/08/23-04:37:26.688 9be Level-0 table #91256: started
-2026/08/23-04:37:26.694 9be Level-0 table #91256: 12712 bytes OK
-2026/08/23-04:37:26.698 9be Delete type=0 #91253
-2026/08/23-04:47:31.287 9c2 Level-0 table #91258: started
-2026/08/23-04:47:31.294 9c2 Level-0 table #91258: 12142 bytes OK
-2026/08/23-04:47:31.299 9c2 Delete type=0 #91255
-2026/08/23-04:47:31.299 9c2 Compacting 4@0 + 1@1 files
-2026/08/23-04:47:31.356 9c2 Generated table #91259@0: 58217 keys, 1744382 bytes
-2026/08/23-04:47:31.356 9c2 Compacted 4@0 + 1@1 files => 1744382 bytes
-2026/08/23-04:47:31.356 9c2 compacted to: files[ 0 5 44 128 0 0 0 ]
-2026/08/23-04:47:31.358 9c2 Delete type=2 #91254
-2026/08/23-04:47:31.358 9c2 Delete type=2 #91258
-2026/08/23-04:47:31.359 9c2 Delete type=2 #91256
-2026/08/23-04:47:31.359 9c2 Delete type=2 #91248
-2026/08/23-04:47:31.359 9c2 Delete type=2 #91252
-2026/08/23-04:52:03.149 9c3 Level-0 table #91261: started
-2026/08/23-04:52:03.173 9c3 Level-0 table #91261: 590558 bytes OK
-2026/08/23-04:52:03.176 9c3 Delete type=0 #91257
+2026/08/23-05:31:33.654 93f Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/08/23-05:35:32.028 943 Level-0 table #91265: started
+2026/08/23-05:35:32.042 943 Level-0 table #91265: 590603 bytes OK
+2026/08/23-05:35:32.045 943 Delete type=0 #91263
+2026/08/23-05:41:46.854 943 Level-0 table #91267: started
+2026/08/23-05:41:46.865 943 Level-0 table #91267: 591747 bytes OK
+2026/08/23-05:41:46.867 943 Delete type=0 #91264
