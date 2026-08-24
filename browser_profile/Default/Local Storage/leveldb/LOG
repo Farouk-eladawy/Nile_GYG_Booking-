@@ -1,7 +1,61 @@
-2026/08/24-15:19:48.745 843 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/08/24-15:23:49.390 847 Level-0 table #21914: started
-2026/08/24-15:23:49.394 847 Level-0 table #21914: 22388 bytes OK
-2026/08/24-15:23:49.400 847 Delete type=0 #21912
-2026/08/24-15:27:48.373 843 Level-0 table #21916: started
-2026/08/24-15:27:48.375 843 Level-0 table #21916: 22511 bytes OK
-2026/08/24-15:27:48.376 843 Delete type=0 #21913
+2026/08/24-16:10:59.331 923 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/08/24-16:15:00.864 923 Level-0 table #21920: started
+2026/08/24-16:15:00.868 923 Level-0 table #21920: 22397 bytes OK
+2026/08/24-16:15:00.870 923 Delete type=0 #21918
+2026/08/24-16:15:00.870 923 Compacting 4@0 + 1@1 files
+2026/08/24-16:15:00.873 923 Generated table #21921@0: 4851 keys, 117191 bytes
+2026/08/24-16:15:00.873 923 Compacted 4@0 + 1@1 files => 117191 bytes
+2026/08/24-16:15:00.874 923 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/08/24-16:15:00.874 923 Delete type=2 #21908
+2026/08/24-16:15:00.875 923 Delete type=2 #21914
+2026/08/24-16:15:00.875 923 Delete type=2 #21920
+2026/08/24-16:15:00.875 923 Delete type=2 #21910
+2026/08/24-16:15:00.875 923 Delete type=2 #21916
+2026/08/24-16:17:00.863 923 Level-0 table #21923: started
+2026/08/24-16:17:00.879 923 Level-0 table #21923: 22356 bytes OK
+2026/08/24-16:17:00.881 923 Delete type=0 #21919
+2026/08/24-16:18:00.864 923 Level-0 table #21925: started
+2026/08/24-16:18:00.867 923 Level-0 table #21925: 20735 bytes OK
+2026/08/24-16:18:00.868 923 Delete type=0 #21922
+2026/08/24-16:20:05.151 923 Level-0 table #21927: started
+2026/08/24-16:20:05.155 923 Level-0 table #21927: 20773 bytes OK
+2026/08/24-16:20:05.185 923 Delete type=0 #21924
+2026/08/24-16:53:37.719 927 Level-0 table #21929: started
+2026/08/24-16:53:37.824 927 Level-0 table #21929: 21123 bytes OK
+2026/08/24-16:53:37.825 927 Delete type=0 #21926
+2026/08/24-16:53:37.825 927 Compacting 4@0 + 1@1 files
+2026/08/24-16:53:37.829 927 Generated table #21930@0: 4852 keys, 117082 bytes
+2026/08/24-16:53:37.829 927 Compacted 4@0 + 1@1 files => 117082 bytes
+2026/08/24-16:53:37.830 927 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/08/24-16:53:37.830 927 Delete type=2 #21923
+2026/08/24-16:53:37.831 927 Delete type=2 #21929
+2026/08/24-16:53:37.831 927 Delete type=2 #21927
+2026/08/24-16:53:37.831 927 Delete type=2 #21921
+2026/08/24-16:53:37.831 927 Delete type=2 #21925
+2026/08/24-16:54:11.582 927 Level-0 table #21932: started
+2026/08/24-16:54:11.587 927 Level-0 table #21932: 21975 bytes OK
+2026/08/24-16:54:11.589 927 Delete type=0 #21928
+2026/08/24-16:54:49.904 923 Level-0 table #21934: started
+2026/08/24-16:54:50.042 923 Level-0 table #21934: 22221 bytes OK
+2026/08/24-16:54:50.046 923 Delete type=0 #21931
+2026/08/24-16:55:31.568 927 Level-0 table #21936: started
+2026/08/24-16:55:31.703 927 Level-0 table #21936: 22453 bytes OK
+2026/08/24-16:55:31.706 927 Delete type=0 #21933
+2026/08/24-16:56:10.666 927 Level-0 table #21938: started
+2026/08/24-16:56:10.675 927 Level-0 table #21938: 21978 bytes OK
+2026/08/24-16:56:10.677 927 Delete type=0 #21935
+2026/08/24-16:56:10.677 927 Compacting 4@0 + 1@1 files
+2026/08/24-16:56:10.681 927 Generated table #21939@0: 4852 keys, 117090 bytes
+2026/08/24-16:56:10.681 927 Compacted 4@0 + 1@1 files => 117090 bytes
+2026/08/24-16:56:10.683 927 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/08/24-16:56:10.683 927 Delete type=2 #21930
+2026/08/24-16:56:10.683 927 Delete type=2 #21932
+2026/08/24-16:56:10.683 927 Delete type=2 #21938
+2026/08/24-16:56:10.683 927 Delete type=2 #21936
+2026/08/24-16:56:10.683 927 Delete type=2 #21934
+2026/08/24-16:59:12.412 923 Level-0 table #21941: started
+2026/08/24-16:59:12.417 923 Level-0 table #21941: 22410 bytes OK
+2026/08/24-16:59:12.419 923 Delete type=0 #21937
+2026/08/24-17:00:38.151 923 Level-0 table #21943: started
+2026/08/24-17:00:38.156 923 Level-0 table #21943: 20802 bytes OK
+2026/08/24-17:00:38.157 923 Delete type=0 #21940
