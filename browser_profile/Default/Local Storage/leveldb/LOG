@@ -1,16 +1,16 @@
-2026/08/26-07:55:21.314 929 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/08/26-07:55:21.319 92d Compacting 4@0 + 1@1 files
-2026/08/26-07:55:21.324 92d Generated table #22386@0: 4910 keys, 117761 bytes
-2026/08/26-07:55:21.324 92d Compacted 4@0 + 1@1 files => 117761 bytes
-2026/08/26-07:55:21.325 92d compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/08/26-07:55:21.325 92d Delete type=2 #22377
-2026/08/26-07:55:21.325 92d Delete type=2 #22373
-2026/08/26-07:55:21.325 92d Delete type=2 #22381
-2026/08/26-07:55:21.325 92d Delete type=2 #22375
-2026/08/26-07:55:21.325 92d Delete type=2 #22383
-2026/08/26-07:59:21.802 92d Level-0 table #22388: started
-2026/08/26-07:59:21.807 92d Level-0 table #22388: 22669 bytes OK
-2026/08/26-07:59:21.807 92d Delete type=0 #22385
-2026/08/26-08:03:03.878 92e Level-0 table #22390: started
-2026/08/26-08:03:03.879 92e Level-0 table #22390: 22436 bytes OK
-2026/08/26-08:03:03.880 92e Delete type=0 #22387
+2026/08/26-08:46:11.130 91d Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/08/26-08:49:15.829 921 Level-0 table #22394: started
+2026/08/26-08:49:15.830 921 Level-0 table #22394: 22440 bytes OK
+2026/08/26-08:49:15.831 921 Delete type=0 #22392
+2026/08/26-08:53:15.829 921 Level-0 table #22396: started
+2026/08/26-08:53:15.834 921 Level-0 table #22396: 22696 bytes OK
+2026/08/26-08:53:15.835 921 Delete type=0 #22393
+2026/08/26-08:53:15.835 921 Compacting 4@0 + 1@1 files
+2026/08/26-08:53:15.839 921 Generated table #22397@0: 4912 keys, 117774 bytes
+2026/08/26-08:53:15.839 921 Compacted 4@0 + 1@1 files => 117774 bytes
+2026/08/26-08:53:15.839 921 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/08/26-08:53:15.839 921 Delete type=2 #22388
+2026/08/26-08:53:15.839 921 Delete type=2 #22386
+2026/08/26-08:53:15.839 921 Delete type=2 #22390
+2026/08/26-08:53:15.840 921 Delete type=2 #22394
+2026/08/26-08:53:15.840 921 Delete type=2 #22396
