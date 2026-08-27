@@ -1,27 +1,7 @@
-2026/08/26-22:21:16.138 86b Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/08/26-22:26:56.150 86f Level-0 table #92146: started
-2026/08/26-22:26:56.164 86f Level-0 table #92146: 596305 bytes OK
-2026/08/26-22:26:56.167 86f Delete type=0 #92144
-2026/08/26-23:04:27.400 86b Level-0 table #92148: started
-2026/08/26-23:04:27.404 86b Level-0 table #92148: 13811 bytes OK
-2026/08/26-23:04:27.447 86b Delete type=0 #92145
-2026/08/26-23:06:24.700 86b Level-0 table #92150: started
-2026/08/26-23:06:24.704 86b Level-0 table #92150: 14529 bytes OK
-2026/08/26-23:06:24.707 86b Delete type=0 #92147
-2026/08/26-23:10:55.613 86b Level-0 table #92152: started
-2026/08/26-23:10:55.617 86b Level-0 table #92152: 14801 bytes OK
-2026/08/26-23:10:55.618 86b Delete type=0 #92149
-2026/08/26-23:10:55.618 86b Compacting 4@0 + 2@1 files
-2026/08/26-23:10:55.647 86b Generated table #92153@0: 31481 keys, 2118544 bytes
-2026/08/26-23:10:55.657 86b Generated table #92154@0: 34762 keys, 1034939 bytes
-2026/08/26-23:10:55.657 86b Compacted 4@0 + 2@1 files => 3153483 bytes
-2026/08/26-23:10:55.658 86b compacted to: files[ 0 5 44 133 0 0 0 ]
-2026/08/26-23:10:55.659 86b Delete type=2 #92146
-2026/08/26-23:10:55.659 86b Delete type=2 #92148
-2026/08/26-23:10:55.659 86b Delete type=2 #92152
-2026/08/26-23:10:55.659 86b Delete type=2 #92141
-2026/08/26-23:10:55.659 86b Delete type=2 #92150
-2026/08/26-23:10:55.659 86b Delete type=2 #92142
-2026/08/26-23:15:48.355 86f Level-0 table #92156: started
-2026/08/26-23:15:48.587 86f Level-0 table #92156: 13279 bytes OK
-2026/08/26-23:15:48.588 86f Delete type=0 #92151
+2026/08/27-00:02:39.684 948 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/08/27-00:15:30.515 94d Level-0 table #92160: started
+2026/08/27-00:15:30.518 94d Level-0 table #92160: 11393 bytes OK
+2026/08/27-00:15:30.521 94d Delete type=0 #92158
+2026/08/27-00:17:32.585 94c Level-0 table #92162: started
+2026/08/27-00:17:32.607 94c Level-0 table #92162: 591844 bytes OK
+2026/08/27-00:17:32.610 94c Delete type=0 #92159
