@@ -1,25 +1,7 @@
-2026/08/28-09:53:07.932 940 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/08/28-09:55:14.954 940 Level-0 table #92408: started
-2026/08/28-09:55:14.959 940 Level-0 table #92408: 16914 bytes OK
-2026/08/28-09:55:14.962 940 Delete type=0 #92406
-2026/08/28-09:57:02.205 944 Level-0 table #92410: started
-2026/08/28-09:57:02.223 944 Level-0 table #92410: 607878 bytes OK
-2026/08/28-09:57:02.226 944 Delete type=0 #92407
-2026/08/28-09:59:02.468 944 Level-0 table #92412: started
-2026/08/28-09:59:02.472 944 Level-0 table #92412: 15814 bytes OK
-2026/08/28-09:59:02.474 944 Delete type=0 #92409
-2026/08/28-10:08:11.930 940 Level-0 table #92414: started
-2026/08/28-10:08:11.932 940 Level-0 table #92414: 13876 bytes OK
-2026/08/28-10:08:11.935 940 Delete type=0 #92411
-2026/08/28-10:08:11.936 944 Compacting 4@0 + 1@1 files
-2026/08/28-10:08:11.984 944 Generated table #92415@0: 69773 keys, 2066689 bytes
-2026/08/28-10:08:11.984 944 Compacted 4@0 + 1@1 files => 2066689 bytes
-2026/08/28-10:08:11.984 944 compacted to: files[ 0 4 44 135 0 0 0 ]
-2026/08/28-10:08:11.987 944 Delete type=2 #92404
-2026/08/28-10:08:11.987 944 Delete type=2 #92408
-2026/08/28-10:08:11.987 944 Delete type=2 #92410
-2026/08/28-10:08:11.987 944 Delete type=2 #92414
-2026/08/28-10:08:11.987 944 Delete type=2 #92412
-2026/08/28-10:11:49.124 944 Level-0 table #92417: started
-2026/08/28-10:11:49.129 944 Level-0 table #92417: 11669 bytes OK
-2026/08/28-10:11:49.132 944 Delete type=0 #92413
+2026/08/28-10:43:42.485 8cb Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/08/28-10:50:51.372 8cb Level-0 table #92421: started
+2026/08/28-10:50:51.418 8cb Level-0 table #92421: 13851 bytes OK
+2026/08/28-10:50:51.464 8cb Delete type=0 #92419
+2026/08/28-10:51:30.765 8cf Level-0 table #92423: started
+2026/08/28-10:51:30.839 8cf Level-0 table #92423: 598181 bytes OK
+2026/08/28-10:51:30.841 8cf Delete type=0 #92420
