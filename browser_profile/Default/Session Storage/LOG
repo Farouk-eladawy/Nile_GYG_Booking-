@@ -1,15 +1,24 @@
-2026/08/28-14:06:41.787 949 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/08/28-14:14:17.974 94d Level-0 table #92439: started
-2026/08/28-14:14:17.986 94d Level-0 table #92439: 600350 bytes OK
-2026/08/28-14:14:17.988 94d Delete type=0 #92437
-2026/08/28-14:14:17.989 94d Compacting 4@0 + 2@1 files
-2026/08/28-14:14:18.037 94d Generated table #92440@0: 32079 keys, 2118229 bytes
-2026/08/28-14:14:18.063 94d Generated table #92441@0: 38708 keys, 1149391 bytes
-2026/08/28-14:14:18.063 94d Compacted 4@0 + 2@1 files => 3267620 bytes
-2026/08/28-14:14:18.064 94d compacted to: files[ 0 5 44 135 0 0 0 ]
-2026/08/28-14:14:18.066 94d Delete type=2 #92433
-2026/08/28-14:14:18.066 94d Delete type=2 #92431
-2026/08/28-14:14:18.066 94d Delete type=2 #92435
-2026/08/28-14:14:18.066 94d Delete type=2 #92439
-2026/08/28-14:14:18.066 94d Delete type=2 #92428
-2026/08/28-14:14:18.066 94d Delete type=2 #92429
+2026/08/28-14:57:32.858 94b Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/08/28-14:59:40.879 951 Level-0 table #92445: started
+2026/08/28-14:59:40.882 951 Level-0 table #92445: 17750 bytes OK
+2026/08/28-14:59:40.885 951 Delete type=0 #92443
+2026/08/28-15:01:28.100 94f Level-0 table #92447: started
+2026/08/28-15:01:28.108 94f Level-0 table #92447: 16427 bytes OK
+2026/08/28-15:01:28.110 94f Delete type=0 #92444
+2026/08/28-15:03:15.151 94b Level-0 table #92449: started
+2026/08/28-15:03:15.159 94b Level-0 table #92449: 16523 bytes OK
+2026/08/28-15:03:15.163 94b Delete type=0 #92446
+2026/08/28-15:05:22.454 94f Level-0 table #92451: started
+2026/08/28-15:05:22.460 94f Level-0 table #92451: 16525 bytes OK
+2026/08/28-15:05:22.462 94f Delete type=0 #92448
+2026/08/28-15:05:22.463 94f Compacting 4@0 + 2@1 files
+2026/08/28-15:05:22.510 94f Generated table #92452@0: 32258 keys, 2118807 bytes
+2026/08/28-15:05:22.534 94f Generated table #92453@0: 38953 keys, 1155891 bytes
+2026/08/28-15:05:22.534 94f Compacted 4@0 + 2@1 files => 3274698 bytes
+2026/08/28-15:05:22.535 94f compacted to: files[ 0 5 44 135 0 0 0 ]
+2026/08/28-15:05:22.536 94f Delete type=2 #92451
+2026/08/28-15:05:22.536 94f Delete type=2 #92449
+2026/08/28-15:05:22.536 94f Delete type=2 #92447
+2026/08/28-15:05:22.536 94f Delete type=2 #92440
+2026/08/28-15:05:22.536 94f Delete type=2 #92441
+2026/08/28-15:05:22.536 94f Delete type=2 #92445
