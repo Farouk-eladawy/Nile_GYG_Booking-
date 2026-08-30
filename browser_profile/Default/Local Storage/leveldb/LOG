@@ -1,16 +1,7 @@
-2026/08/30-11:45:53.733 905 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/08/30-11:49:54.729 909 Level-0 table #23572: started
-2026/08/30-11:49:54.739 909 Level-0 table #23572: 23172 bytes OK
-2026/08/30-11:49:54.740 909 Delete type=0 #23570
-2026/08/30-11:49:54.740 909 Compacting 4@0 + 1@1 files
-2026/08/30-11:49:54.743 909 Generated table #23573@0: 5062 keys, 121354 bytes
-2026/08/30-11:49:54.743 909 Compacted 4@0 + 1@1 files => 121354 bytes
-2026/08/30-11:49:54.744 909 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/08/30-11:49:54.745 909 Delete type=2 #23566
-2026/08/30-11:49:54.745 909 Delete type=2 #23562
-2026/08/30-11:49:54.745 909 Delete type=2 #23560
-2026/08/30-11:49:54.745 909 Delete type=2 #23568
-2026/08/30-11:49:54.745 909 Delete type=2 #23572
-2026/08/30-11:52:59.491 909 Level-0 table #23575: started
-2026/08/30-11:52:59.500 909 Level-0 table #23575: 19401 bytes OK
-2026/08/30-11:52:59.501 909 Delete type=0 #23571
+2026/08/30-12:36:41.924 96f Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/08/30-12:39:47.496 96f Level-0 table #23579: started
+2026/08/30-12:39:47.503 96f Level-0 table #23579: 19273 bytes OK
+2026/08/30-12:39:47.503 96f Delete type=0 #23577
+2026/08/30-12:43:47.498 973 Level-0 table #23581: started
+2026/08/30-12:43:47.503 973 Level-0 table #23581: 23184 bytes OK
+2026/08/30-12:43:47.503 973 Delete type=0 #23578
