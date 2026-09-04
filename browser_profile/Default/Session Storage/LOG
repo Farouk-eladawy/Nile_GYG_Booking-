@@ -1,1 +1,35 @@
-2026/09/04-05:09:02.938 c41 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/09/04-06:50:32.254 94c Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/09/04-06:52:47.521 950 Level-0 table #93939: started
+2026/09/04-06:52:47.529 950 Level-0 table #93939: 13463 bytes OK
+2026/09/04-06:52:47.532 950 Delete type=0 #93937
+2026/09/04-06:54:18.015 950 Level-0 table #93941: started
+2026/09/04-06:54:18.029 950 Level-0 table #93941: 605258 bytes OK
+2026/09/04-06:54:18.033 950 Delete type=0 #93938
+2026/09/04-06:54:18.034 950 Compacting 4@0 + 2@1 files
+2026/09/04-06:54:18.075 950 Generated table #93942@0: 32302 keys, 2118736 bytes
+2026/09/04-06:54:18.104 950 Generated table #93943@0: 53924 keys, 1588170 bytes
+2026/09/04-06:54:18.104 950 Compacted 4@0 + 2@1 files => 3706906 bytes
+2026/09/04-06:54:18.104 950 compacted to: files[ 0 5 45 148 0 0 0 ]
+2026/09/04-06:54:18.106 950 Delete type=2 #93939
+2026/09/04-06:54:18.106 950 Delete type=2 #93941
+2026/09/04-06:54:18.106 950 Delete type=2 #93930
+2026/09/04-06:54:18.106 950 Delete type=2 #93933
+2026/09/04-06:54:18.106 950 Delete type=2 #93935
+2026/09/04-06:54:18.106 950 Delete type=2 #93931
+2026/09/04-06:54:18.107 950 Compacting 1@1 + 1@2 files
+2026/09/04-06:54:18.139 950 Generated table #93944@1: 46 keys, 2382414 bytes
+2026/09/04-06:54:18.163 950 Generated table #93945@1: 31 keys, 2162954 bytes
+2026/09/04-06:54:18.164 950 Compacted 1@1 + 1@2 files => 4545368 bytes
+2026/09/04-06:54:18.164 950 compacted to: files[ 0 4 46 148 0 0 0 ]
+2026/09/04-06:54:18.166 950 Delete type=2 #93827
+2026/09/04-06:54:18.166 950 Delete type=2 #93666
+2026/09/04-06:54:18.166 950 Moved #88651 to level-3 2332169 bytes OK: files[ 0 4 45 149 0 0 0 ]
+2026/09/04-06:56:26.595 950 Level-0 table #93947: started
+2026/09/04-06:56:26.599 950 Level-0 table #93947: 13437 bytes OK
+2026/09/04-06:56:26.603 950 Delete type=0 #93940
+2026/09/04-07:37:41.320 950 Level-0 table #93949: started
+2026/09/04-07:37:41.328 950 Level-0 table #93949: 11630 bytes OK
+2026/09/04-07:37:41.331 950 Delete type=0 #93946
+2026/09/04-07:41:14.335 950 Level-0 table #93951: started
+2026/09/04-07:41:14.347 950 Level-0 table #93951: 599642 bytes OK
+2026/09/04-07:41:14.350 950 Delete type=0 #93948
