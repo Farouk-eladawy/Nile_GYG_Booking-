@@ -1,17 +1,16 @@
-2026/09/06-23:04:39.450 94e Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/09/06-23:04:39.466 94e Delete type=2 #25857
-2026/09/06-23:04:39.466 952 Compacting 4@0 + 1@1 files
-2026/09/06-23:04:39.473 952 Generated table #25859@0: 5410 keys, 130948 bytes
-2026/09/06-23:04:39.473 952 Compacted 4@0 + 1@1 files => 130948 bytes
-2026/09/06-23:04:39.474 952 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/09/06-23:04:39.475 952 Delete type=2 #25856
-2026/09/06-23:04:39.475 952 Delete type=2 #25850
-2026/09/06-23:04:39.475 952 Delete type=2 #25852
-2026/09/06-23:04:39.475 952 Delete type=2 #25846
-2026/09/06-23:04:39.475 952 Delete type=2 #25854
-2026/09/06-23:07:39.939 952 Level-0 table #25861: started
-2026/09/06-23:07:39.944 952 Level-0 table #25861: 20752 bytes OK
-2026/09/06-23:07:39.945 952 Delete type=0 #25858
-2026/09/06-23:11:39.939 952 Level-0 table #25863: started
-2026/09/06-23:11:39.944 952 Level-0 table #25863: 21591 bytes OK
-2026/09/06-23:11:39.944 952 Delete type=0 #25860
+2026/09/06-23:55:20.763 961 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/09/06-23:58:21.448 965 Level-0 table #25867: started
+2026/09/06-23:58:21.453 965 Level-0 table #25867: 20978 bytes OK
+2026/09/06-23:58:21.454 965 Delete type=0 #25865
+2026/09/07-00:02:21.448 965 Level-0 table #25869: started
+2026/09/07-00:02:21.453 965 Level-0 table #25869: 21282 bytes OK
+2026/09/07-00:02:21.453 965 Delete type=0 #25866
+2026/09/07-00:02:21.454 965 Compacting 4@0 + 1@1 files
+2026/09/07-00:02:21.457 965 Generated table #25870@0: 5414 keys, 131180 bytes
+2026/09/07-00:02:21.457 965 Compacted 4@0 + 1@1 files => 131180 bytes
+2026/09/07-00:02:21.458 965 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/09/07-00:02:21.458 965 Delete type=2 #25859
+2026/09/07-00:02:21.458 965 Delete type=2 #25869
+2026/09/07-00:02:21.458 965 Delete type=2 #25867
+2026/09/07-00:02:21.458 965 Delete type=2 #25861
+2026/09/07-00:02:21.458 965 Delete type=2 #25863
