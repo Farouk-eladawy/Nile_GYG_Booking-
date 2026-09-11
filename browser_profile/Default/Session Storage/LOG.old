@@ -1,22 +1,10 @@
-2026/09/11-17:16:56.812 95c Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/09/11-17:19:19.245 960 Level-0 table #95788: started
-2026/09/11-17:19:19.253 960 Level-0 table #95788: 14339 bytes OK
-2026/09/11-17:19:19.256 960 Delete type=0 #95786
-2026/09/11-17:21:24.431 961 Level-0 table #95790: started
-2026/09/11-17:21:24.437 961 Level-0 table #95790: 14420 bytes OK
-2026/09/11-17:21:24.441 961 Delete type=0 #95787
-2026/09/11-17:23:28.170 95c Level-0 table #95792: started
-2026/09/11-17:23:28.177 95c Level-0 table #95792: 15243 bytes OK
-2026/09/11-17:23:28.181 95c Delete type=0 #95789
-2026/09/11-17:23:28.181 95c Compacting 4@0 + 2@1 files
-2026/09/11-17:23:28.217 95c Generated table #95793@0: 12040 keys, 2104387 bytes
-2026/09/11-17:23:28.260 95c Generated table #95794@0: 73197 keys, 2145676 bytes
-2026/09/11-17:23:28.276 95c Generated table #95795@0: 18480 keys, 542505 bytes
-2026/09/11-17:23:28.276 95c Compacted 4@0 + 2@1 files => 4792568 bytes
-2026/09/11-17:23:28.277 95c compacted to: files[ 0 5 45 164 0 0 0 ]
-2026/09/11-17:23:28.279 95c Delete type=2 #95790
-2026/09/11-17:23:28.279 95c Delete type=2 #95788
-2026/09/11-17:23:28.279 95c Delete type=2 #95780
-2026/09/11-17:23:28.279 95c Delete type=2 #95792
-2026/09/11-17:23:28.279 95c Delete type=2 #95784
-2026/09/11-17:23:28.279 95c Delete type=2 #95779
+2026/09/11-18:08:25.197 8b0 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/09/11-18:10:37.017 8b5 Level-0 table #95799: started
+2026/09/11-18:10:37.027 8b5 Level-0 table #95799: 15164 bytes OK
+2026/09/11-18:10:37.030 8b5 Delete type=0 #95797
+2026/09/11-18:12:15.257 8b0 Level-0 table #95801: started
+2026/09/11-18:12:15.285 8b0 Level-0 table #95801: 610491 bytes OK
+2026/09/11-18:12:15.288 8b0 Delete type=0 #95798
+2026/09/11-18:14:15.910 8b0 Level-0 table #95803: started
+2026/09/11-18:14:15.911 8b0 Level-0 table #95803: 15337 bytes OK
+2026/09/11-18:14:15.966 8b0 Delete type=0 #95800
