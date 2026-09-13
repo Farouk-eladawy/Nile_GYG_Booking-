@@ -1,4 +1,26 @@
-2026/09/13-04:46:20.906 964 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/09/13-04:50:08.310 964 Level-0 table #96069: started
-2026/09/13-04:50:08.326 964 Level-0 table #96069: 601089 bytes OK
-2026/09/13-04:50:08.332 964 Delete type=0 #96067
+2026/09/13-05:37:02.427 885 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/09/13-05:40:51.470 885 Level-0 table #96073: started
+2026/09/13-05:40:51.481 885 Level-0 table #96073: 600941 bytes OK
+2026/09/13-05:40:51.486 885 Delete type=0 #96071
+2026/09/13-05:40:51.486 885 Compacting 4@0 + 2@1 files
+2026/09/13-05:40:51.525 885 Generated table #96074@0: 31786 keys, 2118116 bytes
+2026/09/13-05:40:51.554 885 Generated table #96075@0: 72840 keys, 2133842 bytes
+2026/09/13-05:40:51.554 885 Compacted 4@0 + 2@1 files => 4251958 bytes
+2026/09/13-05:40:51.555 885 compacted to: files[ 0 5 45 166 0 0 0 ]
+2026/09/13-05:40:51.556 885 Delete type=2 #96069
+2026/09/13-05:40:51.557 885 Delete type=2 #96065
+2026/09/13-05:40:51.557 885 Delete type=2 #96060
+2026/09/13-05:40:51.557 885 Delete type=2 #96063
+2026/09/13-05:40:51.557 885 Delete type=2 #96061
+2026/09/13-05:40:51.557 885 Delete type=2 #96073
+2026/09/13-05:40:51.557 885 Compacting 1@1 + 1@2 files
+2026/09/13-05:40:51.611 885 Generated table #96076@1: 56 keys, 2394528 bytes
+2026/09/13-05:40:51.641 885 Generated table #96077@1: 44 keys, 2168001 bytes
+2026/09/13-05:40:51.641 885 Compacted 1@1 + 1@2 files => 4562529 bytes
+2026/09/13-05:40:51.642 885 compacted to: files[ 0 4 46 166 0 0 0 ]
+2026/09/13-05:40:51.643 885 Delete type=2 #95856
+2026/09/13-05:40:51.643 885 Delete type=2 #95981
+2026/09/13-05:40:51.644 885 Moved #90396 to level-3 2344470 bytes OK: files[ 0 4 45 167 0 0 0 ]
+2026/09/13-05:44:36.740 889 Level-0 table #96079: started
+2026/09/13-05:44:36.765 889 Level-0 table #96079: 600877 bytes OK
+2026/09/13-05:44:36.769 889 Delete type=0 #96072
