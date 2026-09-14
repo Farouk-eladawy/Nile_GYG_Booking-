@@ -1,26 +1,4 @@
-2026/09/14-01:04:23.061 95e Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/09/14-01:11:19.589 95e Level-0 table #96375: started
-2026/09/14-01:11:19.598 95e Level-0 table #96375: 13489 bytes OK
-2026/09/14-01:11:19.602 95e Delete type=0 #96373
-2026/09/14-01:11:43.931 962 Level-0 table #96377: started
-2026/09/14-01:11:43.940 962 Level-0 table #96377: 600973 bytes OK
-2026/09/14-01:11:43.942 962 Delete type=0 #96374
-2026/09/14-01:11:43.943 962 Compacting 4@0 + 2@1 files
-2026/09/14-01:11:43.976 962 Generated table #96378@0: 52824 keys, 2132694 bytes
-2026/09/14-01:11:43.999 962 Generated table #96379@0: 54104 keys, 1582600 bytes
-2026/09/14-01:11:43.999 962 Compacted 4@0 + 2@1 files => 3715294 bytes
-2026/09/14-01:11:44.000 962 compacted to: files[ 0 5 45 169 0 0 0 ]
-2026/09/14-01:11:44.002 962 Delete type=2 #96371
-2026/09/14-01:11:44.002 962 Delete type=2 #96369
-2026/09/14-01:11:44.002 962 Delete type=2 #96366
-2026/09/14-01:11:44.002 962 Delete type=2 #96367
-2026/09/14-01:11:44.002 962 Delete type=2 #96377
-2026/09/14-01:11:44.002 962 Delete type=2 #96375
-2026/09/14-01:11:44.002 962 Compacting 1@1 + 1@2 files
-2026/09/14-01:11:44.027 962 Generated table #96380@1: 38 keys, 2391918 bytes
-2026/09/14-01:11:44.050 962 Generated table #96381@1: 31 keys, 2165800 bytes
-2026/09/14-01:11:44.050 962 Compacted 1@1 + 1@2 files => 4557718 bytes
-2026/09/14-01:11:44.051 962 compacted to: files[ 0 4 46 169 0 0 0 ]
-2026/09/14-01:11:44.052 962 Delete type=2 #96104
-2026/09/14-01:11:44.052 962 Delete type=2 #96220
-2026/09/14-01:11:44.053 962 Moved #90999 to level-3 2370508 bytes OK: files[ 0 4 45 170 0 0 0 ]
+2026/09/14-01:55:01.273 946 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/09/14-01:58:45.268 946 Level-0 table #96385: started
+2026/09/14-01:58:45.285 946 Level-0 table #96385: 601206 bytes OK
+2026/09/14-01:58:45.288 946 Delete type=0 #96383
