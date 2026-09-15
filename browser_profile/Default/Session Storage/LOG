@@ -1,10 +1,23 @@
-2026/09/15-04:58:43.494 962 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
-2026/09/15-05:01:07.273 966 Level-0 table #96657: started
-2026/09/15-05:01:07.284 966 Level-0 table #96657: 14214 bytes OK
-2026/09/15-05:01:07.290 966 Delete type=0 #96655
-2026/09/15-05:03:10.348 962 Level-0 table #96659: started
-2026/09/15-05:03:10.355 962 Level-0 table #96659: 14319 bytes OK
-2026/09/15-05:03:10.360 962 Delete type=0 #96656
-2026/09/15-05:04:59.976 966 Level-0 table #96661: started
-2026/09/15-05:04:59.984 966 Level-0 table #96661: 13278 bytes OK
-2026/09/15-05:04:59.989 966 Delete type=0 #96658
+2026/09/15-05:49:30.227 86d Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-067695
+2026/09/15-05:51:50.070 86d Level-0 table #96665: started
+2026/09/15-05:51:50.185 86d Level-0 table #96665: 14245 bytes OK
+2026/09/15-05:51:50.189 86d Delete type=0 #96663
+2026/09/15-05:51:50.190 86d Compacting 4@0 + 3@1 files
+2026/09/15-05:51:50.215 86d Generated table #96666@0: 12085 keys, 2105179 bytes
+2026/09/15-05:51:50.241 86d Generated table #96667@0: 73359 keys, 2146492 bytes
+2026/09/15-05:51:50.248 86d Generated table #96668@0: 26289 keys, 769949 bytes
+2026/09/15-05:51:50.248 86d Compacted 4@0 + 3@1 files => 5021620 bytes
+2026/09/15-05:51:50.249 86d compacted to: files[ 0 5 45 172 0 0 0 ]
+2026/09/15-05:51:50.250 86d Delete type=2 #96657
+2026/09/15-05:51:50.250 86d Delete type=2 #96659
+2026/09/15-05:51:50.250 86d Delete type=2 #96652
+2026/09/15-05:51:50.250 86d Delete type=2 #96651
+2026/09/15-05:51:50.250 86d Delete type=2 #96661
+2026/09/15-05:51:50.250 86d Delete type=2 #96653
+2026/09/15-05:51:50.250 86d Delete type=2 #96665
+2026/09/15-05:53:51.179 86d Level-0 table #96670: started
+2026/09/15-05:53:51.183 86d Level-0 table #96670: 14421 bytes OK
+2026/09/15-05:53:51.185 86d Delete type=0 #96664
+2026/09/15-05:56:01.943 871 Level-0 table #96672: started
+2026/09/15-05:56:02.222 871 Level-0 table #96672: 14268 bytes OK
+2026/09/15-05:56:02.228 871 Delete type=0 #96669
