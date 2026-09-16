@@ -1,4 +1,28 @@
-2026/09/16-00:26:03.621 94b Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-096814
-2026/09/16-00:33:27.799 94b Level-0 table #96870: started
-2026/09/16-00:33:27.807 94b Level-0 table #96870: 606183 bytes OK
-2026/09/16-00:33:27.810 94b Delete type=0 #96868
+2026/09/16-01:16:47.300 8fb Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-096814
+2026/09/16-01:19:45.628 900 Level-0 table #96874: started
+2026/09/16-01:19:45.638 900 Level-0 table #96874: 11931 bytes OK
+2026/09/16-01:19:45.643 900 Delete type=0 #96872
+2026/09/16-01:22:26.278 8fb Level-0 table #96876: started
+2026/09/16-01:22:26.282 8fb Level-0 table #96876: 12022 bytes OK
+2026/09/16-01:22:26.286 8fb Delete type=0 #96873
+2026/09/16-01:22:26.286 900 Compacting 4@0 + 3@1 files
+2026/09/16-01:22:26.328 900 Generated table #96877@0: 2518 keys, 2421251 bytes
+2026/09/16-01:22:26.370 900 Generated table #96878@0: 73511 keys, 2146905 bytes
+2026/09/16-01:22:26.388 900 Generated table #96879@0: 37562 keys, 1098334 bytes
+2026/09/16-01:22:26.388 900 Compacted 4@0 + 3@1 files => 5666490 bytes
+2026/09/16-01:22:26.388 900 compacted to: files[ 0 5 45 174 0 0 0 ]
+2026/09/16-01:22:26.391 900 Delete type=2 #96874
+2026/09/16-01:22:26.391 900 Delete type=2 #96870
+2026/09/16-01:22:26.391 900 Delete type=2 #96876
+2026/09/16-01:22:26.391 900 Delete type=2 #96862
+2026/09/16-01:22:26.391 900 Delete type=2 #96866
+2026/09/16-01:22:26.391 900 Delete type=2 #96864
+2026/09/16-01:22:26.391 900 Delete type=2 #96863
+2026/09/16-01:22:26.392 8fb Compacting 1@1 + 1@2 files
+2026/09/16-01:22:26.426 8fb Generated table #96880@1: 32 keys, 2393844 bytes
+2026/09/16-01:22:26.454 8fb Generated table #96881@1: 61 keys, 2172214 bytes
+2026/09/16-01:22:26.454 8fb Compacted 1@1 + 1@2 files => 4566058 bytes
+2026/09/16-01:22:26.454 8fb compacted to: files[ 0 4 46 174 0 0 0 ]
+2026/09/16-01:22:26.456 8fb Delete type=2 #96692
+2026/09/16-01:22:26.456 8fb Delete type=2 #96751
+2026/09/16-01:22:26.457 8fb Moved #91522 to level-3 2364971 bytes OK: files[ 0 4 45 175 0 0 0 ]
