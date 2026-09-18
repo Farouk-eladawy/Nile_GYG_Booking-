@@ -1,22 +1,16 @@
-2026/09/18-18:42:01.390 966 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/09/18-18:45:01.873 96a Level-0 table #29424: started
-2026/09/18-18:45:01.879 96a Level-0 table #29424: 22290 bytes OK
-2026/09/18-18:45:01.879 96a Delete type=0 #29422
-2026/09/18-18:45:01.880 96a Compacting 4@0 + 1@1 files
-2026/09/18-18:45:01.884 96a Generated table #29425@0: 5992 keys, 142724 bytes
-2026/09/18-18:45:01.884 96a Compacted 4@0 + 1@1 files => 142724 bytes
-2026/09/18-18:45:01.885 96a compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/09/18-18:45:01.885 96a Delete type=2 #29418
-2026/09/18-18:45:01.885 96a Delete type=2 #29414
-2026/09/18-18:45:01.885 96a Delete type=2 #29420
-2026/09/18-18:45:01.885 96a Delete type=2 #29424
-2026/09/18-18:45:01.885 96a Delete type=2 #29412
-2026/09/18-18:48:01.873 96a Level-0 table #29427: started
-2026/09/18-18:48:01.878 96a Level-0 table #29427: 22362 bytes OK
-2026/09/18-18:48:01.879 96a Delete type=0 #29423
-2026/09/18-18:49:01.873 96a Level-0 table #29429: started
-2026/09/18-18:49:01.875 96a Level-0 table #29429: 21159 bytes OK
-2026/09/18-18:49:01.875 96a Delete type=0 #29426
-2026/09/18-18:51:01.873 96a Level-0 table #29431: started
-2026/09/18-18:51:01.878 96a Level-0 table #29431: 21118 bytes OK
-2026/09/18-18:51:01.879 96a Delete type=0 #29428
+2026/09/18-19:35:03.723 978 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/09/18-19:38:04.206 978 Level-0 table #29435: started
+2026/09/18-19:38:04.214 978 Level-0 table #29435: 22097 bytes OK
+2026/09/18-19:38:04.217 978 Delete type=0 #29433
+2026/09/18-19:38:04.217 978 Compacting 4@0 + 1@1 files
+2026/09/18-19:38:04.223 978 Generated table #29436@0: 5994 keys, 142906 bytes
+2026/09/18-19:38:04.223 978 Compacted 4@0 + 1@1 files => 142906 bytes
+2026/09/18-19:38:04.224 978 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/09/18-19:38:04.224 978 Delete type=2 #29429
+2026/09/18-19:38:04.224 978 Delete type=2 #29427
+2026/09/18-19:38:04.224 978 Delete type=2 #29425
+2026/09/18-19:38:04.224 978 Delete type=2 #29431
+2026/09/18-19:38:04.224 978 Delete type=2 #29435
+2026/09/18-19:41:06.108 974 Level-0 table #29438: started
+2026/09/18-19:41:06.114 974 Level-0 table #29438: 22707 bytes OK
+2026/09/18-19:41:06.114 974 Delete type=0 #29434
