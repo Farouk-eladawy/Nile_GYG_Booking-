@@ -1,23 +1,10 @@
-2026/09/18-09:06:34.364 87f Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-096814
-2026/09/18-09:09:22.086 883 Level-0 table #97447: started
-2026/09/18-09:09:22.186 883 Level-0 table #97447: 14539 bytes OK
-2026/09/18-09:09:22.189 883 Delete type=0 #97445
-2026/09/18-09:11:38.955 87f Level-0 table #97449: started
-2026/09/18-09:11:38.991 87f Level-0 table #97449: 14320 bytes OK
-2026/09/18-09:11:39.010 87f Delete type=0 #97446
-2026/09/18-09:14:10.108 87f Level-0 table #97451: started
-2026/09/18-09:14:10.312 87f Level-0 table #97451: 14391 bytes OK
-2026/09/18-09:14:10.315 87f Delete type=0 #97448
-2026/09/18-09:14:10.315 87f Compacting 4@0 + 3@1 files
-2026/09/18-09:14:10.346 87f Generated table #97452@0: 11584 keys, 2104942 bytes
-2026/09/18-09:14:10.470 87f Generated table #97453@0: 73449 keys, 2145726 bytes
-2026/09/18-09:14:10.495 87f Generated table #97454@0: 32260 keys, 942325 bytes
-2026/09/18-09:14:10.495 87f Compacted 4@0 + 3@1 files => 5192993 bytes
-2026/09/18-09:14:10.497 87f compacted to: files[ 0 5 45 178 0 0 0 ]
-2026/09/18-09:14:10.497 87f Delete type=2 #97441
-2026/09/18-09:14:10.497 87f Delete type=2 #97440
-2026/09/18-09:14:10.497 87f Delete type=2 #97451
-2026/09/18-09:14:10.497 87f Delete type=2 #97447
-2026/09/18-09:14:10.497 87f Delete type=2 #97449
-2026/09/18-09:14:10.497 87f Delete type=2 #97443
-2026/09/18-09:14:10.497 87f Delete type=2 #97439
+2026/09/18-09:57:24.871 895 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-096814
+2026/09/18-09:59:55.489 895 Level-0 table #97458: started
+2026/09/18-09:59:55.496 895 Level-0 table #97458: 13325 bytes OK
+2026/09/18-09:59:55.499 895 Delete type=0 #97456
+2026/09/18-10:02:15.514 89a Level-0 table #97460: started
+2026/09/18-10:02:15.518 89a Level-0 table #97460: 13395 bytes OK
+2026/09/18-10:02:15.521 89a Delete type=0 #97457
+2026/09/18-10:04:19.881 895 Level-0 table #97462: started
+2026/09/18-10:04:19.892 895 Level-0 table #97462: 14414 bytes OK
+2026/09/18-10:04:19.898 895 Delete type=0 #97459
