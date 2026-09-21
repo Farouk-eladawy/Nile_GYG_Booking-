@@ -1,7 +1,25 @@
-2026/09/21-21:19:02.855 905 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/09/21-21:22:03.708 909 Level-0 table #30328: started
-2026/09/21-21:22:03.713 909 Level-0 table #30328: 23225 bytes OK
-2026/09/21-21:22:03.713 909 Delete type=0 #30326
-2026/09/21-21:25:05.831 909 Level-0 table #30330: started
-2026/09/21-21:25:05.834 909 Level-0 table #30330: 23569 bytes OK
-2026/09/21-21:25:05.835 909 Delete type=0 #30327
+2026/09/21-22:12:26.885 957 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/09/21-22:14:29.435 95b Level-0 table #30334: started
+2026/09/21-22:14:29.436 95b Level-0 table #30334: 23484 bytes OK
+2026/09/21-22:14:29.437 95b Delete type=0 #30332
+2026/09/21-22:18:27.667 95b Level-0 table #30336: started
+2026/09/21-22:18:27.670 95b Level-0 table #30336: 23761 bytes OK
+2026/09/21-22:18:27.671 95b Delete type=0 #30333
+2026/09/21-22:18:27.671 95b Compacting 4@0 + 1@1 files
+2026/09/21-22:18:27.675 95b Generated table #30337@0: 6130 keys, 148408 bytes
+2026/09/21-22:18:27.675 95b Compacted 4@0 + 1@1 files => 148408 bytes
+2026/09/21-22:18:27.675 95b compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/09/21-22:18:27.675 95b Delete type=2 #30330
+2026/09/21-22:18:27.675 95b Delete type=2 #30324
+2026/09/21-22:18:27.675 95b Delete type=2 #30328
+2026/09/21-22:18:27.675 95b Delete type=2 #30334
+2026/09/21-22:18:27.675 95b Delete type=2 #30336
+2026/09/21-22:18:50.574 957 Level-0 table #30339: started
+2026/09/21-22:18:50.575 957 Level-0 table #30339: 22058 bytes OK
+2026/09/21-22:18:50.576 957 Delete type=0 #30335
+2026/09/21-22:19:42.209 957 Level-0 table #30341: started
+2026/09/21-22:19:42.214 957 Level-0 table #30341: 21662 bytes OK
+2026/09/21-22:19:42.214 957 Delete type=0 #30338
+2026/09/21-22:22:02.401 957 Level-0 table #30343: started
+2026/09/21-22:22:02.407 957 Level-0 table #30343: 22939 bytes OK
+2026/09/21-22:22:02.407 957 Delete type=0 #30340
