@@ -1,7 +1,100 @@
-2026/09/21-01:47:24.788 94a Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/09/21-01:49:27.332 94e Level-0 table #30031: started
-2026/09/21-01:49:27.335 94e Level-0 table #30031: 22100 bytes OK
-2026/09/21-01:49:27.335 94e Delete type=0 #30029
-2026/09/21-01:53:25.643 94a Level-0 table #30033: started
-2026/09/21-01:53:25.649 94a Level-0 table #30033: 22891 bytes OK
-2026/09/21-01:53:25.650 94a Delete type=0 #30030
+2026/09/21-02:40:33.105 9d8 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/09/21-02:42:35.682 9dc Level-0 table #30037: started
+2026/09/21-02:42:35.685 9dc Level-0 table #30037: 22102 bytes OK
+2026/09/21-02:42:35.686 9dc Delete type=0 #30035
+2026/09/21-02:42:35.686 9dc Compacting 4@0 + 1@1 files
+2026/09/21-02:42:35.690 9dc Generated table #30038@0: 6092 keys, 144255 bytes
+2026/09/21-02:42:35.690 9dc Compacted 4@0 + 1@1 files => 144255 bytes
+2026/09/21-02:42:35.690 9dc compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/09/21-02:42:35.690 9dc Delete type=2 #30037
+2026/09/21-02:42:35.690 9dc Delete type=2 #30033
+2026/09/21-02:42:35.690 9dc Delete type=2 #30031
+2026/09/21-02:42:35.690 9dc Delete type=2 #30025
+2026/09/21-02:42:35.690 9dc Delete type=2 #30027
+2026/09/21-02:47:33.715 9dc Level-0 table #30040: started
+2026/09/21-02:47:33.716 9dc Level-0 table #30040: 22682 bytes OK
+2026/09/21-02:47:33.717 9dc Delete type=0 #30036
+2026/09/21-02:49:33.715 9dc Level-0 table #30042: started
+2026/09/21-02:49:33.716 9dc Level-0 table #30042: 20722 bytes OK
+2026/09/21-02:49:33.717 9dc Delete type=0 #30039
+2026/09/21-03:22:51.952 9dc Level-0 table #30044: started
+2026/09/21-03:22:51.953 9dc Level-0 table #30044: 20915 bytes OK
+2026/09/21-03:22:51.953 9dc Delete type=0 #30041
+2026/09/21-03:24:10.789 9dc Level-0 table #30046: started
+2026/09/21-03:24:10.790 9dc Level-0 table #30046: 21758 bytes OK
+2026/09/21-03:24:10.792 9dc Delete type=0 #30043
+2026/09/21-03:24:10.792 9d8 Compacting 4@0 + 1@1 files
+2026/09/21-03:24:10.800 9d8 Generated table #30047@0: 6092 keys, 144279 bytes
+2026/09/21-03:24:10.800 9d8 Compacted 4@0 + 1@1 files => 144279 bytes
+2026/09/21-03:24:10.800 9d8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/09/21-03:24:10.801 9d8 Delete type=2 #30046
+2026/09/21-03:24:10.801 9d8 Delete type=2 #30040
+2026/09/21-03:24:10.801 9d8 Delete type=2 #30044
+2026/09/21-03:24:10.801 9d8 Delete type=2 #30042
+2026/09/21-03:24:10.801 9d8 Delete type=2 #30038
+2026/09/21-03:24:46.547 9dc Level-0 table #30049: started
+2026/09/21-03:24:46.551 9dc Level-0 table #30049: 22091 bytes OK
+2026/09/21-03:24:46.551 9dc Delete type=0 #30045
+2026/09/21-03:25:18.070 9dc Level-0 table #30051: started
+2026/09/21-03:25:18.075 9dc Level-0 table #30051: 22327 bytes OK
+2026/09/21-03:25:18.075 9dc Delete type=0 #30048
+2026/09/21-03:25:45.126 9dc Level-0 table #30053: started
+2026/09/21-03:25:45.127 9dc Level-0 table #30053: 21840 bytes OK
+2026/09/21-03:25:45.128 9dc Delete type=0 #30050
+2026/09/21-03:26:23.002 9dc Level-0 table #30055: started
+2026/09/21-03:26:23.006 9dc Level-0 table #30055: 22420 bytes OK
+2026/09/21-03:26:23.007 9dc Delete type=0 #30052
+2026/09/21-03:26:23.007 9dc Compacting 4@0 + 1@1 files
+2026/09/21-03:26:23.012 9dc Generated table #30056@0: 6092 keys, 144285 bytes
+2026/09/21-03:26:23.012 9dc Compacted 4@0 + 1@1 files => 144285 bytes
+2026/09/21-03:26:23.012 9dc compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/09/21-03:26:23.013 9dc Delete type=2 #30051
+2026/09/21-03:26:23.013 9dc Delete type=2 #30053
+2026/09/21-03:26:23.013 9dc Delete type=2 #30055
+2026/09/21-03:26:23.013 9dc Delete type=2 #30047
+2026/09/21-03:26:23.013 9dc Delete type=2 #30049
+2026/09/21-03:26:53.767 9dc Level-0 table #30058: started
+2026/09/21-03:26:53.771 9dc Level-0 table #30058: 22102 bytes OK
+2026/09/21-03:26:53.772 9dc Delete type=0 #30054
+2026/09/21-03:27:23.888 9dc Level-0 table #30060: started
+2026/09/21-03:27:23.890 9dc Level-0 table #30060: 22065 bytes OK
+2026/09/21-03:27:23.891 9dc Delete type=0 #30057
+2026/09/21-03:28:33.715 9dc Level-0 table #30062: started
+2026/09/21-03:28:33.716 9dc Level-0 table #30062: 22111 bytes OK
+2026/09/21-03:28:33.716 9dc Delete type=0 #30059
+2026/09/21-03:29:58.466 9dc Level-0 table #30064: started
+2026/09/21-03:29:58.468 9dc Level-0 table #30064: 21798 bytes OK
+2026/09/21-03:29:58.469 9dc Delete type=0 #30061
+2026/09/21-03:29:58.469 9dc Compacting 4@0 + 1@1 files
+2026/09/21-03:29:58.474 9dc Generated table #30065@0: 6092 keys, 144283 bytes
+2026/09/21-03:29:58.474 9dc Compacted 4@0 + 1@1 files => 144283 bytes
+2026/09/21-03:29:58.474 9dc compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/09/21-03:29:58.474 9dc Delete type=2 #30056
+2026/09/21-03:29:58.474 9dc Delete type=2 #30058
+2026/09/21-03:29:58.474 9dc Delete type=2 #30062
+2026/09/21-03:29:58.474 9dc Delete type=2 #30064
+2026/09/21-03:29:58.474 9dc Delete type=2 #30060
+2026/09/21-03:30:33.716 9dc Level-0 table #30067: started
+2026/09/21-03:30:33.720 9dc Level-0 table #30067: 21198 bytes OK
+2026/09/21-03:30:33.721 9dc Delete type=0 #30063
+2026/09/21-03:33:33.718 9dc Level-0 table #30069: started
+2026/09/21-03:33:33.726 9dc Level-0 table #30069: 20469 bytes OK
+2026/09/21-03:33:33.727 9dc Delete type=0 #30066
+2026/09/21-03:36:33.715 9dc Level-0 table #30071: started
+2026/09/21-03:36:33.718 9dc Level-0 table #30071: 22374 bytes OK
+2026/09/21-03:36:33.719 9dc Delete type=0 #30068
+2026/09/21-03:38:33.715 9d8 Level-0 table #30073: started
+2026/09/21-03:38:33.723 9d8 Level-0 table #30073: 22352 bytes OK
+2026/09/21-03:38:33.724 9d8 Delete type=0 #30070
+2026/09/21-03:38:33.724 9d8 Compacting 4@0 + 1@1 files
+2026/09/21-03:38:33.730 9d8 Generated table #30074@0: 6092 keys, 144286 bytes
+2026/09/21-03:38:33.730 9d8 Compacted 4@0 + 1@1 files => 144286 bytes
+2026/09/21-03:38:33.731 9d8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/09/21-03:38:33.731 9d8 Delete type=2 #30071
+2026/09/21-03:38:33.731 9d8 Delete type=2 #30069
+2026/09/21-03:38:33.731 9d8 Delete type=2 #30073
+2026/09/21-03:38:33.731 9d8 Delete type=2 #30065
+2026/09/21-03:38:33.731 9d8 Delete type=2 #30067
+2026/09/21-03:41:33.715 9dc Level-0 table #30076: started
+2026/09/21-03:41:33.718 9dc Level-0 table #30076: 22501 bytes OK
+2026/09/21-03:41:33.719 9dc Delete type=0 #30072
