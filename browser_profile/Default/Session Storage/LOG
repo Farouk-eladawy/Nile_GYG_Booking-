@@ -1,10 +1,23 @@
-2026/09/23-19:31:25.374 95c Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-096814
-2026/09/23-19:35:08.066 95c Level-0 table #98952: started
-2026/09/23-19:35:08.080 95c Level-0 table #98952: 603373 bytes OK
-2026/09/23-19:35:08.082 95c Delete type=0 #98950
-2026/09/23-20:18:37.239 960 Level-0 table #98954: started
-2026/09/23-20:18:37.256 960 Level-0 table #98954: 607626 bytes OK
-2026/09/23-20:18:37.259 960 Delete type=0 #98951
-2026/09/23-20:22:14.691 961 Level-0 table #98956: started
-2026/09/23-20:22:14.694 961 Level-0 table #98956: 15141 bytes OK
-2026/09/23-20:22:14.699 961 Delete type=0 #98953
+2026/09/23-21:17:59.179 882 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-096814
+2026/09/23-21:20:30.861 886 Level-0 table #98960: started
+2026/09/23-21:20:30.862 886 Level-0 table #98960: 16372 bytes OK
+2026/09/23-21:20:30.864 886 Delete type=0 #98958
+2026/09/23-21:20:30.865 886 Compacting 4@0 + 3@1 files
+2026/09/23-21:20:30.906 886 Generated table #98961@0: 53824 keys, 2133032 bytes
+2026/09/23-21:20:30.946 886 Generated table #98962@0: 73638 keys, 2146154 bytes
+2026/09/23-21:20:30.947 886 Generated table #98963@0: 581 keys, 17104 bytes
+2026/09/23-21:20:30.947 886 Compacted 4@0 + 3@1 files => 4296290 bytes
+2026/09/23-21:20:30.947 886 compacted to: files[ 0 6 44 190 0 0 0 ]
+2026/09/23-21:20:30.950 886 Delete type=2 #98956
+2026/09/23-21:20:30.950 886 Delete type=2 #98948
+2026/09/23-21:20:30.950 886 Delete type=2 #98947
+2026/09/23-21:20:30.950 886 Delete type=2 #98960
+2026/09/23-21:20:30.950 886 Delete type=2 #98954
+2026/09/23-21:20:30.950 886 Delete type=2 #98946
+2026/09/23-21:20:30.950 886 Delete type=2 #98952
+2026/09/23-21:22:44.108 882 Level-0 table #98965: started
+2026/09/23-21:22:44.109 882 Level-0 table #98965: 15276 bytes OK
+2026/09/23-21:22:44.116 882 Delete type=0 #98959
+2026/09/23-21:24:48.799 886 Level-0 table #98967: started
+2026/09/23-21:24:48.800 886 Level-0 table #98967: 14250 bytes OK
+2026/09/23-21:24:48.801 886 Delete type=0 #98964
