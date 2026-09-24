@@ -1,20 +1,23 @@
-2026/09/24-17:43:44.482 890 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-096814
-2026/09/24-17:46:08.818 895 Level-0 table #99107: started
-2026/09/24-17:46:08.819 895 Level-0 table #99107: 16971 bytes OK
-2026/09/24-17:46:08.822 895 Delete type=0 #99105
-2026/09/24-17:46:08.823 890 Compacting 4@0 + 3@1 files
-2026/09/24-17:46:08.867 890 Generated table #99108@0: 13211 keys, 2103845 bytes
-2026/09/24-17:46:08.907 890 Generated table #99109@0: 73672 keys, 2145804 bytes
-2026/09/24-17:46:08.924 890 Generated table #99110@0: 47568 keys, 1385839 bytes
-2026/09/24-17:46:08.924 890 Compacted 4@0 + 3@1 files => 5635488 bytes
-2026/09/24-17:46:08.925 890 compacted to: files[ 0 4 44 191 0 0 0 ]
-2026/09/24-17:46:08.926 890 Delete type=2 #99094
-2026/09/24-17:46:08.926 890 Delete type=2 #99093
-2026/09/24-17:46:08.926 890 Delete type=2 #99107
-2026/09/24-17:46:08.926 890 Delete type=2 #99095
-2026/09/24-17:46:08.926 890 Delete type=2 #99099
-2026/09/24-17:46:08.926 890 Delete type=2 #99101
-2026/09/24-17:46:08.926 890 Delete type=2 #99103
-2026/09/24-17:48:09.940 894 Level-0 table #99112: started
-2026/09/24-17:48:09.942 894 Level-0 table #99112: 16806 bytes OK
-2026/09/24-17:48:09.947 894 Delete type=0 #99106
+2026/09/24-18:37:22.347 8b4 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-096814
+2026/09/24-18:39:51.722 8b8 Level-0 table #99116: started
+2026/09/24-18:39:51.726 8b8 Level-0 table #99116: 15750 bytes OK
+2026/09/24-18:39:51.730 8b8 Delete type=0 #99114
+2026/09/24-18:41:43.109 8b9 Level-0 table #99118: started
+2026/09/24-18:41:43.112 8b9 Level-0 table #99118: 15487 bytes OK
+2026/09/24-18:41:43.118 8b9 Delete type=0 #99115
+2026/09/24-18:43:47.220 8b4 Level-0 table #99120: started
+2026/09/24-18:43:47.222 8b4 Level-0 table #99120: 15777 bytes OK
+2026/09/24-18:43:47.225 8b4 Delete type=0 #99117
+2026/09/24-18:43:47.226 8b4 Compacting 4@0 + 3@1 files
+2026/09/24-18:43:47.276 8b4 Generated table #99121@0: 13481 keys, 2104880 bytes
+2026/09/24-18:43:47.309 8b4 Generated table #99122@0: 73670 keys, 2146940 bytes
+2026/09/24-18:43:47.331 8b4 Generated table #99123@0: 47785 keys, 1392286 bytes
+2026/09/24-18:43:47.331 8b4 Compacted 4@0 + 3@1 files => 5644106 bytes
+2026/09/24-18:43:47.332 8b4 compacted to: files[ 0 4 44 191 0 0 0 ]
+2026/09/24-18:43:47.333 8b4 Delete type=2 #99110
+2026/09/24-18:43:47.333 8b4 Delete type=2 #99112
+2026/09/24-18:43:47.333 8b4 Delete type=2 #99118
+2026/09/24-18:43:47.333 8b4 Delete type=2 #99108
+2026/09/24-18:43:47.333 8b4 Delete type=2 #99120
+2026/09/24-18:43:47.333 8b4 Delete type=2 #99109
+2026/09/24-18:43:47.333 8b4 Delete type=2 #99116
