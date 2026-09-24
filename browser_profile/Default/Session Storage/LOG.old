@@ -1,23 +1,10 @@
-2026/09/24-15:57:02.108 965 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-096814
-2026/09/24-15:59:11.143 969 Level-0 table #99088: started
-2026/09/24-15:59:11.145 969 Level-0 table #99088: 15112 bytes OK
-2026/09/24-15:59:11.149 969 Delete type=0 #99086
-2026/09/24-16:01:13.353 969 Level-0 table #99090: started
-2026/09/24-16:01:13.359 969 Level-0 table #99090: 15326 bytes OK
-2026/09/24-16:01:13.363 969 Delete type=0 #99087
-2026/09/24-16:03:13.020 96b Level-0 table #99092: started
-2026/09/24-16:03:13.022 96b Level-0 table #99092: 15254 bytes OK
-2026/09/24-16:03:13.026 96b Delete type=0 #99089
-2026/09/24-16:03:13.026 96b Compacting 4@0 + 3@1 files
-2026/09/24-16:03:13.075 96b Generated table #99093@0: 13060 keys, 2105172 bytes
-2026/09/24-16:03:13.118 96b Generated table #99094@0: 73673 keys, 2144806 bytes
-2026/09/24-16:03:13.140 96b Generated table #99095@0: 46985 keys, 1369935 bytes
-2026/09/24-16:03:13.140 96b Compacted 4@0 + 3@1 files => 5619913 bytes
-2026/09/24-16:03:13.140 96b compacted to: files[ 0 4 44 191 0 0 0 ]
-2026/09/24-16:03:13.143 96b Delete type=2 #99079
-2026/09/24-16:03:13.143 96b Delete type=2 #99084
-2026/09/24-16:03:13.143 96b Delete type=2 #99080
-2026/09/24-16:03:13.143 96b Delete type=2 #99088
-2026/09/24-16:03:13.143 96b Delete type=2 #99078
-2026/09/24-16:03:13.143 96b Delete type=2 #99092
-2026/09/24-16:03:13.143 96b Delete type=2 #99090
+2026/09/24-16:50:49.293 9e6 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-096814
+2026/09/24-17:03:46.692 9e6 Level-0 table #99099: started
+2026/09/24-17:03:46.694 9e6 Level-0 table #99099: 12237 bytes OK
+2026/09/24-17:03:46.697 9e6 Delete type=0 #99097
+2026/09/24-17:07:42.391 9ea Level-0 table #99101: started
+2026/09/24-17:07:42.394 9ea Level-0 table #99101: 13557 bytes OK
+2026/09/24-17:07:42.398 9ea Delete type=0 #99098
+2026/09/24-17:09:42.469 9e6 Level-0 table #99103: started
+2026/09/24-17:09:42.471 9e6 Level-0 table #99103: 15338 bytes OK
+2026/09/24-17:09:42.474 9e6 Delete type=0 #99100
