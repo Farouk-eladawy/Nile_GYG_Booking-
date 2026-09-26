@@ -1,18 +1,57 @@
-2026/09/26-15:49:07.496 961 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-096814
-2026/09/26-15:57:07.411 966 Level-0 table #99766: started
-2026/09/26-15:57:07.423 966 Level-0 table #99766: 607235 bytes OK
-2026/09/26-15:57:07.426 966 Delete type=0 #99764
-2026/09/26-15:57:07.427 966 Compacting 4@0 + 3@1 files
-2026/09/26-15:57:07.460 966 Generated table #99767@0: 1455 keys, 2426072 bytes
-2026/09/26-15:57:07.503 966 Generated table #99768@0: 31899 keys, 2119029 bytes
-2026/09/26-15:57:07.541 966 Generated table #99769@0: 73693 keys, 2146353 bytes
-2026/09/26-15:57:07.560 966 Generated table #99770@0: 27479 keys, 800237 bytes
-2026/09/26-15:57:07.560 966 Compacted 4@0 + 3@1 files => 7491691 bytes
-2026/09/26-15:57:07.560 966 compacted to: files[ 0 5 44 197 0 0 0 ]
-2026/09/26-15:57:07.563 966 Delete type=2 #99748
-2026/09/26-15:57:07.563 966 Delete type=2 #99749
-2026/09/26-15:57:07.563 966 Delete type=2 #99760
-2026/09/26-15:57:07.563 966 Delete type=2 #99750
-2026/09/26-15:57:07.563 966 Delete type=2 #99756
-2026/09/26-15:57:07.563 966 Delete type=2 #99762
-2026/09/26-15:57:07.563 966 Delete type=2 #99766
+2026/09/26-16:40:00.184 9a8 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-096814
+2026/09/26-16:42:11.613 9a8 Level-0 table #99774: started
+2026/09/26-16:42:11.617 9a8 Level-0 table #99774: 15253 bytes OK
+2026/09/26-16:42:11.620 9a8 Delete type=0 #99772
+2026/09/26-16:44:04.967 9ac Level-0 table #99776: started
+2026/09/26-16:44:04.969 9ac Level-0 table #99776: 15361 bytes OK
+2026/09/26-16:44:04.973 9ac Delete type=0 #99773
+2026/09/26-16:46:30.308 9ac Level-0 table #99778: started
+2026/09/26-16:46:30.310 9ac Level-0 table #99778: 14486 bytes OK
+2026/09/26-16:46:30.313 9ac Delete type=0 #99775
+2026/09/26-17:24:11.873 9a8 Level-0 table #99780: started
+2026/09/26-17:24:11.876 9a8 Level-0 table #99780: 15764 bytes OK
+2026/09/26-17:24:11.880 9a8 Delete type=0 #99777
+2026/09/26-17:24:11.881 9a8 Compacting 4@0 + 3@1 files
+2026/09/26-17:24:11.942 9a8 Generated table #99781@0: 32033 keys, 2119859 bytes
+2026/09/26-17:24:11.983 9a8 Generated table #99782@0: 73758 keys, 2146962 bytes
+2026/09/26-17:24:11.997 9a8 Generated table #99783@0: 27701 keys, 806602 bytes
+2026/09/26-17:24:11.997 9a8 Compacted 4@0 + 3@1 files => 5073423 bytes
+2026/09/26-17:24:11.998 9a8 compacted to: files[ 0 5 44 197 0 0 0 ]
+2026/09/26-17:24:12.002 9a8 Delete type=2 #99769
+2026/09/26-17:24:12.002 9a8 Delete type=2 #99774
+2026/09/26-17:24:12.002 9a8 Delete type=2 #99770
+2026/09/26-17:24:12.002 9a8 Delete type=2 #99780
+2026/09/26-17:24:12.002 9a8 Delete type=2 #99776
+2026/09/26-17:24:12.002 9a8 Delete type=2 #99778
+2026/09/26-17:24:12.002 9a8 Delete type=2 #99768
+2026/09/26-17:26:03.788 9a8 Level-0 table #99785: started
+2026/09/26-17:26:03.792 9a8 Level-0 table #99785: 16204 bytes OK
+2026/09/26-17:26:03.794 9a8 Delete type=0 #99779
+2026/09/26-17:28:05.664 9a8 Level-0 table #99787: started
+2026/09/26-17:28:05.666 9a8 Level-0 table #99787: 16377 bytes OK
+2026/09/26-17:28:05.669 9a8 Delete type=0 #99784
+2026/09/26-18:07:41.516 9a8 Level-0 table #99789: started
+2026/09/26-18:07:41.520 9a8 Level-0 table #99789: 15582 bytes OK
+2026/09/26-18:07:41.524 9a8 Delete type=0 #99786
+2026/09/26-18:09:34.555 9ac Level-0 table #99791: started
+2026/09/26-18:09:34.557 9ac Level-0 table #99791: 15271 bytes OK
+2026/09/26-18:09:34.562 9ac Delete type=0 #99788
+2026/09/26-18:09:34.563 9ac Compacting 4@0 + 3@1 files
+2026/09/26-18:09:34.620 9ac Generated table #99792@0: 32239 keys, 2118346 bytes
+2026/09/26-18:09:34.669 9ac Generated table #99793@0: 73754 keys, 2146106 bytes
+2026/09/26-18:09:34.686 9ac Generated table #99794@0: 27924 keys, 813355 bytes
+2026/09/26-18:09:34.686 9ac Compacted 4@0 + 3@1 files => 5077807 bytes
+2026/09/26-18:09:34.687 9ac compacted to: files[ 0 5 44 197 0 0 0 ]
+2026/09/26-18:09:34.690 9ac Delete type=2 #99783
+2026/09/26-18:09:34.690 9ac Delete type=2 #99781
+2026/09/26-18:09:34.690 9ac Delete type=2 #99791
+2026/09/26-18:09:34.690 9ac Delete type=2 #99785
+2026/09/26-18:09:34.690 9ac Delete type=2 #99787
+2026/09/26-18:09:34.690 9ac Delete type=2 #99789
+2026/09/26-18:09:34.690 9ac Delete type=2 #99782
+2026/09/26-18:11:27.228 9a8 Level-0 table #99796: started
+2026/09/26-18:11:27.234 9a8 Level-0 table #99796: 15346 bytes OK
+2026/09/26-18:11:27.238 9a8 Delete type=0 #99790
+2026/09/26-18:12:50.928 9ac Level-0 table #99798: started
+2026/09/26-18:12:50.937 9ac Level-0 table #99798: 607973 bytes OK
+2026/09/26-18:12:50.940 9ac Delete type=0 #99795
