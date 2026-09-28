@@ -1,4 +1,27 @@
-2026/09/28-21:16:46.994 96d Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-096814
-2026/09/28-21:20:36.167 971 Level-0 table #100301: started
-2026/09/28-21:20:36.179 971 Level-0 table #100301: 603935 bytes OK
-2026/09/28-21:20:36.182 971 Delete type=0 #100299
+2026/09/28-22:07:43.964 885 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-096814
+2026/09/28-22:09:44.600 885 Level-0 table #100305: started
+2026/09/28-22:09:44.606 885 Level-0 table #100305: 16243 bytes OK
+2026/09/28-22:09:44.609 885 Delete type=0 #100303
+2026/09/28-22:09:44.610 889 Compacting 4@0 + 3@1 files
+2026/09/28-22:09:44.664 889 Generated table #100306@0: 2275 keys, 2458398 bytes
+2026/09/28-22:09:44.705 889 Generated table #100307@0: 52654 keys, 2132747 bytes
+2026/09/28-22:09:44.744 889 Generated table #100308@0: 73732 keys, 2145488 bytes
+2026/09/28-22:09:44.749 889 Generated table #100309@0: 11672 keys, 339884 bytes
+2026/09/28-22:09:44.749 889 Compacted 4@0 + 3@1 files => 7076517 bytes
+2026/09/28-22:09:44.750 889 compacted to: files[ 0 5 44 202 0 0 0 ]
+2026/09/28-22:09:44.752 889 Delete type=2 #100292
+2026/09/28-22:09:44.752 889 Delete type=2 #100297
+2026/09/28-22:09:44.752 889 Delete type=2 #100293
+2026/09/28-22:09:44.752 889 Delete type=2 #100291
+2026/09/28-22:09:44.752 889 Delete type=2 #100301
+2026/09/28-22:09:44.752 889 Delete type=2 #100305
+2026/09/28-22:09:44.752 889 Delete type=2 #100295
+2026/09/28-22:11:26.433 885 Level-0 table #100311: started
+2026/09/28-22:11:26.455 885 Level-0 table #100311: 615718 bytes OK
+2026/09/28-22:11:26.458 885 Delete type=0 #100304
+2026/09/28-22:13:13.960 885 Level-0 table #100313: started
+2026/09/28-22:13:13.968 885 Level-0 table #100313: 17686 bytes OK
+2026/09/28-22:13:13.972 885 Delete type=0 #100310
+2026/09/28-22:15:02.873 88a Level-0 table #100315: started
+2026/09/28-22:15:02.875 88a Level-0 table #100315: 16128 bytes OK
+2026/09/28-22:15:02.878 88a Delete type=0 #100312
