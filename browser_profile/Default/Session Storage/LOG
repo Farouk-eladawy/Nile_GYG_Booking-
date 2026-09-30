@@ -1,28 +1,4 @@
-2026/09/30-18:23:34.593 888 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-096814
-2026/09/30-18:25:32.672 888 Level-0 table #101151: started
-2026/09/30-18:25:32.679 888 Level-0 table #101151: 16246 bytes OK
-2026/09/30-18:25:32.682 888 Delete type=0 #101149
-2026/09/30-18:27:08.663 88d Level-0 table #101153: started
-2026/09/30-18:27:08.679 88d Level-0 table #101153: 624005 bytes OK
-2026/09/30-18:27:08.682 88d Delete type=0 #101150
-2026/09/30-18:28:50.597 888 Level-0 table #101155: started
-2026/09/30-18:28:50.739 888 Level-0 table #101155: 16640 bytes OK
-2026/09/30-18:28:50.741 888 Delete type=0 #101152
-2026/09/30-18:28:50.742 888 Compacting 4@0 + 5@1 files
-2026/09/30-18:28:50.773 888 Generated table #101156@0: 31003 keys, 2117891 bytes
-2026/09/30-18:28:50.987 888 Generated table #101157@0: 73867 keys, 2145642 bytes
-2026/09/30-18:28:51.005 888 Generated table #101158@0: 37787 keys, 1099141 bytes
-2026/09/30-18:28:51.005 888 Compacted 4@0 + 5@1 files => 5362674 bytes
-2026/09/30-18:28:51.005 888 compacted to: files[ 0 5 45 208 0 0 0 ]
-2026/09/30-18:28:51.007 888 Delete type=2 #101141
-2026/09/30-18:28:51.007 888 Delete type=2 #101143
-2026/09/30-18:28:51.007 888 Delete type=2 #101131
-2026/09/30-18:28:51.007 888 Delete type=2 #101151
-2026/09/30-18:28:51.007 888 Delete type=2 #101153
-2026/09/30-18:28:51.007 888 Delete type=2 #101147
-2026/09/30-18:28:51.007 888 Delete type=2 #101142
-2026/09/30-18:28:51.007 888 Delete type=2 #101155
-2026/09/30-18:28:51.007 888 Delete type=2 #101117
-2026/09/30-18:31:05.460 88c Level-0 table #101160: started
-2026/09/30-18:31:05.475 88c Level-0 table #101160: 623951 bytes OK
-2026/09/30-18:31:05.479 88c Delete type=0 #101154
+2026/09/30-19:14:42.753 910 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-096814
+2026/09/30-19:18:22.007 915 Level-0 table #101164: started
+2026/09/30-19:18:22.029 915 Level-0 table #101164: 613546 bytes OK
+2026/09/30-19:18:22.031 915 Delete type=0 #101162
