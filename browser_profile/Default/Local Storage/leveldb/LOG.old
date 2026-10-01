@@ -1,20 +1,85 @@
-2026/10/01-19:18:43.759 8b6 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-032397
-2026/10/01-19:18:43.760 8b6 Delete type=2 #33564
-2026/10/01-19:20:50.714 8ba Level-0 table #33566: started
-2026/10/01-19:20:50.715 8ba Level-0 table #33566: 23724 bytes OK
-2026/10/01-19:20:50.715 8ba Delete type=0 #33564
-2026/10/01-19:22:50.713 8ba Level-0 table #33568: started
-2026/10/01-19:22:50.715 8ba Level-0 table #33568: 23823 bytes OK
-2026/10/01-19:22:50.715 8ba Delete type=0 #33565
-2026/10/01-19:24:50.714 8ba Level-0 table #33570: started
-2026/10/01-19:24:50.716 8ba Level-0 table #33570: 23858 bytes OK
-2026/10/01-19:24:50.716 8ba Delete type=0 #33567
-2026/10/01-19:24:50.716 8ba Compacting 4@0 + 1@1 files
-2026/10/01-19:24:50.719 8ba Generated table #33571@0: 6555 keys, 156385 bytes
-2026/10/01-19:24:50.719 8ba Compacted 4@0 + 1@1 files => 156385 bytes
-2026/10/01-19:24:50.719 8ba compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/10/01-19:24:50.719 8ba Delete type=2 #33562
-2026/10/01-19:24:50.719 8ba Delete type=2 #33566
-2026/10/01-19:24:50.719 8ba Delete type=2 #33560
-2026/10/01-19:24:50.719 8ba Delete type=2 #33570
-2026/10/01-19:24:50.719 8ba Delete type=2 #33568
+2026/10/01-21:00:40.591 998 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-032397
+2026/10/01-21:03:41.491 998 Level-0 table #33575: started
+2026/10/01-21:03:41.493 998 Level-0 table #33575: 23865 bytes OK
+2026/10/01-21:03:41.494 998 Delete type=0 #33573
+2026/10/01-21:05:41.491 998 Level-0 table #33577: started
+2026/10/01-21:05:41.493 998 Level-0 table #33577: 24582 bytes OK
+2026/10/01-21:05:41.494 998 Delete type=0 #33574
+2026/10/01-21:06:46.824 998 Level-0 table #33579: started
+2026/10/01-21:06:46.826 998 Level-0 table #33579: 23531 bytes OK
+2026/10/01-21:06:46.827 998 Delete type=0 #33576
+2026/10/01-21:08:20.603 99a Level-0 table #33581: started
+2026/10/01-21:08:20.604 99a Level-0 table #33581: 22022 bytes OK
+2026/10/01-21:08:20.605 99a Delete type=0 #33578
+2026/10/01-21:08:20.605 99a Compacting 4@0 + 1@1 files
+2026/10/01-21:08:20.610 99a Generated table #33582@0: 6557 keys, 156126 bytes
+2026/10/01-21:08:20.610 99a Compacted 4@0 + 1@1 files => 156126 bytes
+2026/10/01-21:08:20.610 99a compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/01-21:08:20.610 99a Delete type=2 #33581
+2026/10/01-21:08:20.610 99a Delete type=2 #33579
+2026/10/01-21:08:20.610 99a Delete type=2 #33577
+2026/10/01-21:08:20.610 99a Delete type=2 #33575
+2026/10/01-21:08:20.610 99a Delete type=2 #33571
+2026/10/01-21:09:41.491 998 Level-0 table #33584: started
+2026/10/01-21:09:41.496 998 Level-0 table #33584: 22016 bytes OK
+2026/10/01-21:09:41.496 998 Delete type=0 #33580
+2026/10/01-21:42:22.178 998 Level-0 table #33586: started
+2026/10/01-21:42:22.180 998 Level-0 table #33586: 22268 bytes OK
+2026/10/01-21:42:22.181 998 Delete type=0 #33583
+2026/10/01-21:42:48.284 998 Level-0 table #33588: started
+2026/10/01-21:42:48.286 998 Level-0 table #33588: 23551 bytes OK
+2026/10/01-21:42:48.286 998 Delete type=0 #33585
+2026/10/01-21:43:19.000 998 Level-0 table #33590: started
+2026/10/01-21:43:19.002 998 Level-0 table #33590: 23845 bytes OK
+2026/10/01-21:43:19.003 998 Delete type=0 #33587
+2026/10/01-21:43:19.003 998 Compacting 4@0 + 1@1 files
+2026/10/01-21:43:19.006 998 Generated table #33591@0: 6557 keys, 156145 bytes
+2026/10/01-21:43:19.006 998 Compacted 4@0 + 1@1 files => 156145 bytes
+2026/10/01-21:43:19.006 998 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/01-21:43:19.006 998 Delete type=2 #33584
+2026/10/01-21:43:19.006 998 Delete type=2 #33588
+2026/10/01-21:43:19.007 998 Delete type=2 #33582
+2026/10/01-21:43:19.007 998 Delete type=2 #33590
+2026/10/01-21:43:19.007 998 Delete type=2 #33586
+2026/10/01-21:43:50.172 998 Level-0 table #33593: started
+2026/10/01-21:43:50.173 998 Level-0 table #33593: 23599 bytes OK
+2026/10/01-21:43:50.174 998 Delete type=0 #33589
+2026/10/01-21:44:27.848 998 Level-0 table #33595: started
+2026/10/01-21:44:27.850 998 Level-0 table #33595: 23649 bytes OK
+2026/10/01-21:44:27.851 998 Delete type=0 #33592
+2026/10/01-21:44:58.646 998 Level-0 table #33597: started
+2026/10/01-21:44:58.649 998 Level-0 table #33597: 23536 bytes OK
+2026/10/01-21:44:58.649 998 Delete type=0 #33594
+2026/10/01-21:46:46.825 998 Level-0 table #33599: started
+2026/10/01-21:46:46.827 998 Level-0 table #33599: 23860 bytes OK
+2026/10/01-21:46:46.827 998 Delete type=0 #33596
+2026/10/01-21:46:46.828 998 Compacting 4@0 + 1@1 files
+2026/10/01-21:46:46.831 998 Generated table #33600@0: 6557 keys, 156146 bytes
+2026/10/01-21:46:46.831 998 Compacted 4@0 + 1@1 files => 156146 bytes
+2026/10/01-21:46:46.831 998 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/01-21:46:46.831 998 Delete type=2 #33595
+2026/10/01-21:46:46.831 998 Delete type=2 #33597
+2026/10/01-21:46:46.831 998 Delete type=2 #33599
+2026/10/01-21:46:46.831 998 Delete type=2 #33591
+2026/10/01-21:46:46.831 998 Delete type=2 #33593
+2026/10/01-21:48:07.570 994 Level-0 table #33602: started
+2026/10/01-21:48:07.572 994 Level-0 table #33602: 23315 bytes OK
+2026/10/01-21:48:07.572 994 Delete type=0 #33598
+2026/10/01-21:48:46.824 998 Level-0 table #33604: started
+2026/10/01-21:48:46.827 998 Level-0 table #33604: 21947 bytes OK
+2026/10/01-21:48:46.827 998 Delete type=0 #33601
+2026/10/01-21:50:32.542 998 Level-0 table #33606: started
+2026/10/01-21:50:32.545 998 Level-0 table #33606: 22024 bytes OK
+2026/10/01-21:50:32.547 998 Delete type=0 #33603
+2026/10/01-21:51:46.824 998 Level-0 table #33608: started
+2026/10/01-21:51:46.826 998 Level-0 table #33608: 23785 bytes OK
+2026/10/01-21:51:46.827 998 Delete type=0 #33605
+2026/10/01-21:51:46.827 998 Compacting 4@0 + 1@1 files
+2026/10/01-21:51:46.830 998 Generated table #33609@0: 6557 keys, 156142 bytes
+2026/10/01-21:51:46.830 998 Compacted 4@0 + 1@1 files => 156142 bytes
+2026/10/01-21:51:46.830 998 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/01-21:51:46.830 998 Delete type=2 #33600
+2026/10/01-21:51:46.830 998 Delete type=2 #33608
+2026/10/01-21:51:46.830 998 Delete type=2 #33602
+2026/10/01-21:51:46.830 998 Delete type=2 #33606
+2026/10/01-21:51:46.830 998 Delete type=2 #33604
