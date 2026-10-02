@@ -1,22 +1,10 @@
-2026/10/02-09:43:05.293 8ec Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-032397
-2026/10/02-09:45:10.296 8f1 Level-0 table #33761: started
-2026/10/02-09:45:10.299 8f1 Level-0 table #33761: 23894 bytes OK
-2026/10/02-09:45:10.299 8f1 Delete type=0 #33759
-2026/10/02-09:48:58.914 8f0 Level-0 table #33763: started
-2026/10/02-09:48:58.975 8f0 Level-0 table #33763: 23861 bytes OK
-2026/10/02-09:48:58.976 8f0 Delete type=0 #33760
-2026/10/02-09:49:19.110 8f1 Level-0 table #33765: started
-2026/10/02-09:49:19.111 8f1 Level-0 table #33765: 22465 bytes OK
-2026/10/02-09:49:19.111 8f1 Delete type=0 #33762
-2026/10/02-09:50:06.543 8f1 Level-0 table #33767: started
-2026/10/02-09:50:06.562 8f1 Level-0 table #33767: 22055 bytes OK
-2026/10/02-09:50:06.562 8f1 Delete type=0 #33764
-2026/10/02-09:50:06.563 8f1 Compacting 4@0 + 1@1 files
-2026/10/02-09:50:06.565 8f1 Generated table #33768@0: 6576 keys, 156284 bytes
-2026/10/02-09:50:06.565 8f1 Compacted 4@0 + 1@1 files => 156284 bytes
-2026/10/02-09:50:06.565 8f1 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/10/02-09:50:06.565 8f1 Delete type=2 #33757
-2026/10/02-09:50:06.566 8f1 Delete type=2 #33767
-2026/10/02-09:50:06.566 8f1 Delete type=2 #33765
-2026/10/02-09:50:06.566 8f1 Delete type=2 #33761
-2026/10/02-09:50:06.566 8f1 Delete type=2 #33763
+2026/10/02-10:33:59.078 9d1 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-032397
+2026/10/02-10:36:59.593 9d5 Level-0 table #33772: started
+2026/10/02-10:36:59.595 9d5 Level-0 table #33772: 23948 bytes OK
+2026/10/02-10:36:59.596 9d5 Delete type=0 #33770
+2026/10/02-10:40:19.052 9d5 Level-0 table #33774: started
+2026/10/02-10:40:19.054 9d5 Level-0 table #33774: 24135 bytes OK
+2026/10/02-10:40:19.055 9d5 Delete type=0 #33771
+2026/10/02-10:40:59.592 9d5 Level-0 table #33776: started
+2026/10/02-10:40:59.593 9d5 Level-0 table #33776: 22510 bytes OK
+2026/10/02-10:40:59.594 9d5 Delete type=0 #33773
