@@ -1,4 +1,26 @@
-2026/10/02-22:26:12.893 99e Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-096814
-2026/10/02-22:29:52.577 9a2 Level-0 table #101766: started
-2026/10/02-22:29:52.594 9a2 Level-0 table #101766: 604600 bytes OK
-2026/10/02-22:29:52.598 9a2 Delete type=0 #101764
+2026/10/02-23:17:01.891 8d0 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-096814
+2026/10/02-23:20:45.541 8d4 Level-0 table #101770: started
+2026/10/02-23:20:45.549 8d4 Level-0 table #101770: 604588 bytes OK
+2026/10/02-23:20:45.551 8d4 Delete type=0 #101768
+2026/10/02-23:20:45.552 8d4 Compacting 4@0 + 3@1 files
+2026/10/02-23:20:45.588 8d4 Generated table #101771@0: 869 keys, 2442087 bytes
+2026/10/02-23:20:45.617 8d4 Generated table #101772@0: 31730 keys, 2119443 bytes
+2026/10/02-23:20:45.647 8d4 Generated table #101773@0: 73917 keys, 2146899 bytes
+2026/10/02-23:20:45.674 8d4 Generated table #101774@0: 41753 keys, 1214848 bytes
+2026/10/02-23:20:45.674 8d4 Compacted 4@0 + 3@1 files => 7923277 bytes
+2026/10/02-23:20:45.674 8d4 compacted to: files[ 0 6 45 214 0 0 0 ]
+2026/10/02-23:20:45.677 8d4 Delete type=2 #101762
+2026/10/02-23:20:45.677 8d4 Delete type=2 #101754
+2026/10/02-23:20:45.677 8d4 Delete type=2 #101770
+2026/10/02-23:20:45.677 8d4 Delete type=2 #101752
+2026/10/02-23:20:45.677 8d4 Delete type=2 #101753
+2026/10/02-23:20:45.677 8d4 Delete type=2 #101758
+2026/10/02-23:20:45.677 8d4 Delete type=2 #101766
+2026/10/02-23:20:45.681 8d4 Compacting 1@1 + 1@2 files
+2026/10/02-23:20:45.717 8d4 Generated table #101775@1: 37 keys, 2426446 bytes
+2026/10/02-23:20:45.747 8d4 Generated table #101776@1: 50 keys, 2349946 bytes
+2026/10/02-23:20:45.747 8d4 Compacted 1@1 + 1@2 files => 4776392 bytes
+2026/10/02-23:20:45.748 8d4 compacted to: files[ 0 5 46 214 0 0 0 ]
+2026/10/02-23:20:45.750 8d4 Delete type=2 #101728
+2026/10/02-23:20:45.750 8d4 Delete type=2 #101655
+2026/10/02-23:20:45.753 8d0 Moved #96707 to level-3 2393585 bytes OK: files[ 0 5 45 215 0 0 0 ]
