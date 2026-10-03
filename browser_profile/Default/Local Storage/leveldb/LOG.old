@@ -1,22 +1,10 @@
-2026/10/03-16:14:27.130 8b0 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-032397
-2026/10/03-16:16:27.780 8b4 Level-0 table #34223: started
-2026/10/03-16:16:27.781 8b4 Level-0 table #34223: 18274 bytes OK
-2026/10/03-16:16:27.782 8b4 Delete type=0 #34221
-2026/10/03-16:18:27.779 8b4 Level-0 table #34225: started
-2026/10/03-16:18:27.782 8b4 Level-0 table #34225: 18270 bytes OK
-2026/10/03-16:18:27.783 8b4 Delete type=0 #34222
-2026/10/03-16:19:31.081 8b4 Level-0 table #34227: started
-2026/10/03-16:19:31.083 8b4 Level-0 table #34227: 18283 bytes OK
-2026/10/03-16:19:31.084 8b4 Delete type=0 #34224
-2026/10/03-16:21:27.780 8b4 Level-0 table #34229: started
-2026/10/03-16:21:27.781 8b4 Level-0 table #34229: 18221 bytes OK
-2026/10/03-16:21:27.781 8b4 Delete type=0 #34226
-2026/10/03-16:21:27.782 8b4 Compacting 4@0 + 1@1 files
-2026/10/03-16:21:27.784 8b4 Generated table #34230@0: 6623 keys, 157412 bytes
-2026/10/03-16:21:27.784 8b4 Compacted 4@0 + 1@1 files => 157412 bytes
-2026/10/03-16:21:27.784 8b4 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/10/03-16:21:27.784 8b4 Delete type=2 #34223
-2026/10/03-16:21:27.784 8b4 Delete type=2 #34229
-2026/10/03-16:21:27.784 8b4 Delete type=2 #34219
-2026/10/03-16:21:27.784 8b4 Delete type=2 #34227
-2026/10/03-16:21:27.784 8b4 Delete type=2 #34225
+2026/10/03-17:05:14.279 8ab Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-032397
+2026/10/03-17:07:14.921 8af Level-0 table #34234: started
+2026/10/03-17:07:14.927 8af Level-0 table #34234: 18237 bytes OK
+2026/10/03-17:07:14.931 8af Delete type=0 #34232
+2026/10/03-17:10:14.921 8af Level-0 table #34236: started
+2026/10/03-17:10:14.940 8af Level-0 table #34236: 19598 bytes OK
+2026/10/03-17:10:14.940 8af Delete type=0 #34233
+2026/10/03-17:12:14.921 8af Level-0 table #34238: started
+2026/10/03-17:12:14.923 8af Level-0 table #34238: 18233 bytes OK
+2026/10/03-17:12:14.927 8af Delete type=0 #34235
