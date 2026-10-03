@@ -1,10 +1,27 @@
-2026/10/03-00:58:35.373 991 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-096814
-2026/10/03-01:00:33.187 995 Level-0 table #101793: started
-2026/10/03-01:00:33.189 995 Level-0 table #101793: 16561 bytes OK
-2026/10/03-01:00:33.194 995 Delete type=0 #101791
-2026/10/03-01:02:26.981 995 Level-0 table #101795: started
-2026/10/03-01:02:26.983 995 Level-0 table #101795: 15612 bytes OK
-2026/10/03-01:02:26.990 995 Delete type=0 #101792
-2026/10/03-01:04:05.002 995 Level-0 table #101797: started
-2026/10/03-01:04:05.005 995 Level-0 table #101797: 16570 bytes OK
-2026/10/03-01:04:05.009 995 Delete type=0 #101794
+2026/10/03-01:49:18.873 8ca Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-096814
+2026/10/03-01:52:49.457 8cf Level-0 table #101801: started
+2026/10/03-01:52:49.468 8cf Level-0 table #101801: 609421 bytes OK
+2026/10/03-01:52:49.471 8cf Delete type=0 #101799
+2026/10/03-01:52:49.473 8ca Compacting 4@0 + 3@1 files
+2026/10/03-01:52:49.509 8ca Generated table #101802@0: 10865 keys, 2105868 bytes
+2026/10/03-01:52:49.543 8ca Generated table #101803@0: 73929 keys, 2146473 bytes
+2026/10/03-01:52:49.569 8ca Generated table #101804@0: 63530 keys, 1845224 bytes
+2026/10/03-01:52:49.569 8ca Compacted 4@0 + 3@1 files => 6097565 bytes
+2026/10/03-01:52:49.569 8ca compacted to: files[ 0 5 45 215 0 0 0 ]
+2026/10/03-01:52:49.571 8ca Delete type=2 #101793
+2026/10/03-01:52:49.571 8ca Delete type=2 #101801
+2026/10/03-01:52:49.571 8ca Delete type=2 #101788
+2026/10/03-01:52:49.571 8ca Delete type=2 #101789
+2026/10/03-01:52:49.571 8ca Delete type=2 #101787
+2026/10/03-01:52:49.571 8ca Delete type=2 #101795
+2026/10/03-01:52:49.571 8ca Delete type=2 #101797
+2026/10/03-01:52:49.573 8ca Compacting 1@1 + 1@2 files
+2026/10/03-01:52:49.601 8ca Generated table #101805@1: 49 keys, 2437535 bytes
+2026/10/03-01:52:49.631 8ca Generated table #101806@1: 49 keys, 2361973 bytes
+2026/10/03-01:52:49.631 8ca Compacted 1@1 + 1@2 files => 4799508 bytes
+2026/10/03-01:52:49.631 8ca compacted to: files[ 0 4 46 215 0 0 0 ]
+2026/10/03-01:52:49.633 8ca Delete type=2 #101739
+2026/10/03-01:52:49.633 8ca Delete type=2 #101776
+2026/10/03-01:52:49.634 8ca Moved #96750 to level-3 2398475 bytes OK: files[ 0 4 45 216 0 0 0 ]
+2026/10/03-01:57:42.923 8ca Level-0 table #101808: started
+2026/10/03-01:57:42.923 8ca Level-0 table #101808: 11145 bytes OK
