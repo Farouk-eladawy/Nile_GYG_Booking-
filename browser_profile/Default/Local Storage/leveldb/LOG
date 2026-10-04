@@ -1,22 +1,10 @@
-2026/10/04-05:47:06.109 8b5 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-032397
-2026/10/04-05:50:07.470 8b9 Level-0 table #34456: started
-2026/10/04-05:50:07.472 8b9 Level-0 table #34456: 18265 bytes OK
-2026/10/04-05:50:07.472 8b9 Delete type=0 #34454
-2026/10/04-05:51:11.816 8b5 Level-0 table #34458: started
-2026/10/04-05:51:11.818 8b5 Level-0 table #34458: 18238 bytes OK
-2026/10/04-05:51:11.818 8b5 Delete type=0 #34455
-2026/10/04-05:53:11.816 8b9 Level-0 table #34460: started
-2026/10/04-05:53:11.818 8b9 Level-0 table #34460: 24164 bytes OK
-2026/10/04-05:53:11.818 8b9 Delete type=0 #34457
-2026/10/04-05:55:34.165 8b9 Level-0 table #34462: started
-2026/10/04-05:55:34.167 8b9 Level-0 table #34462: 18919 bytes OK
-2026/10/04-05:55:34.172 8b9 Delete type=0 #34459
-2026/10/04-05:55:34.172 8b9 Compacting 4@0 + 1@1 files
-2026/10/04-05:55:34.183 8b9 Generated table #34463@0: 6640 keys, 157846 bytes
-2026/10/04-05:55:34.183 8b9 Compacted 4@0 + 1@1 files => 157846 bytes
-2026/10/04-05:55:34.184 8b9 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/10/04-05:55:34.184 8b9 Delete type=2 #34460
-2026/10/04-05:55:34.184 8b9 Delete type=2 #34462
-2026/10/04-05:55:34.184 8b9 Delete type=2 #34458
-2026/10/04-05:55:34.184 8b9 Delete type=2 #34452
-2026/10/04-05:55:34.184 8b9 Delete type=2 #34456
+2026/10/04-06:37:58.317 982 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-032397
+2026/10/04-06:40:58.914 987 Level-0 table #34467: started
+2026/10/04-06:40:58.917 987 Level-0 table #34467: 18320 bytes OK
+2026/10/04-06:40:58.917 987 Delete type=0 #34465
+2026/10/04-06:42:58.915 987 Level-0 table #34469: started
+2026/10/04-06:42:58.917 987 Level-0 table #34469: 19700 bytes OK
+2026/10/04-06:42:58.918 987 Delete type=0 #34466
+2026/10/04-06:45:46.392 986 Level-0 table #34471: started
+2026/10/04-06:45:46.392 986 Level-0 table #34471: 18346 bytes OK
+2026/10/04-06:45:46.393 986 Delete type=0 #34468
