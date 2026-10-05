@@ -1,19 +1,15 @@
-2026/10/05-02:57:12.515 9a0 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-032397
-2026/10/05-02:59:17.499 9a4 Level-0 table #34781: started
-2026/10/05-02:59:17.500 9a4 Level-0 table #34781: 18269 bytes OK
-2026/10/05-02:59:17.500 9a4 Delete type=0 #34779
-2026/10/05-03:02:13.285 9a4 Level-0 table #34783: started
-2026/10/05-03:02:13.287 9a4 Level-0 table #34783: 18247 bytes OK
-2026/10/05-03:02:13.288 9a4 Delete type=0 #34780
-2026/10/05-03:03:17.499 9a4 Level-0 table #34785: started
-2026/10/05-03:03:17.501 9a4 Level-0 table #34785: 18245 bytes OK
-2026/10/05-03:03:17.502 9a4 Delete type=0 #34782
-2026/10/05-03:03:17.502 9a4 Compacting 4@0 + 1@1 files
-2026/10/05-03:03:17.505 9a4 Generated table #34786@0: 6672 keys, 158440 bytes
-2026/10/05-03:03:17.505 9a4 Compacted 4@0 + 1@1 files => 158440 bytes
-2026/10/05-03:03:17.506 9a4 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/10/05-03:03:17.506 9a4 Delete type=2 #34783
-2026/10/05-03:03:17.506 9a4 Delete type=2 #34775
-2026/10/05-03:03:17.506 9a4 Delete type=2 #34785
-2026/10/05-03:03:17.506 9a4 Delete type=2 #34781
-2026/10/05-03:03:17.506 9a4 Delete type=2 #34777
+2026/10/05-03:48:01.357 8be Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-032397
+2026/10/05-03:50:02.525 8c2 Level-0 table #34790: started
+2026/10/05-03:50:02.573 8c2 Level-0 table #34790: 18896 bytes OK
+2026/10/05-03:50:02.574 8c2 Delete type=0 #34788
+2026/10/05-03:52:02.526 8c2 Level-0 table #34792: started
+2026/10/05-03:52:02.541 8c2 Level-0 table #34792: 18840 bytes OK
+2026/10/05-03:52:02.546 8c2 Delete type=0 #34789
+2026/10/05-03:54:02.525 8c2 Level-0 table #34794: started
+2026/10/05-03:54:02.526 8c2 Level-0 table #34794: 18551 bytes OK
+2026/10/05-03:54:02.527 8c2 Delete type=0 #34791
+2026/10/05-03:55:47.270 8be Level-0 table #34796: started
+2026/10/05-03:55:47.272 8be Level-0 table #34796: 18247 bytes OK
+2026/10/05-03:55:47.272 8be Delete type=0 #34793
+2026/10/05-03:55:47.274 8c6 Compacting 4@0 + 1@1 files
+2026/10/05-03:55:47.297 8c6 compacted to: files[ 4 1 1 0 0 0 0 ]

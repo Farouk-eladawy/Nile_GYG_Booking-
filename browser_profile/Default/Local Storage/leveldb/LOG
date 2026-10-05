@@ -1,15 +1,20 @@
-2026/10/05-03:48:01.357 8be Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-032397
-2026/10/05-03:50:02.525 8c2 Level-0 table #34790: started
-2026/10/05-03:50:02.573 8c2 Level-0 table #34790: 18896 bytes OK
-2026/10/05-03:50:02.574 8c2 Delete type=0 #34788
-2026/10/05-03:52:02.526 8c2 Level-0 table #34792: started
-2026/10/05-03:52:02.541 8c2 Level-0 table #34792: 18840 bytes OK
-2026/10/05-03:52:02.546 8c2 Delete type=0 #34789
-2026/10/05-03:54:02.525 8c2 Level-0 table #34794: started
-2026/10/05-03:54:02.526 8c2 Level-0 table #34794: 18551 bytes OK
-2026/10/05-03:54:02.527 8c2 Delete type=0 #34791
-2026/10/05-03:55:47.270 8be Level-0 table #34796: started
-2026/10/05-03:55:47.272 8be Level-0 table #34796: 18247 bytes OK
-2026/10/05-03:55:47.272 8be Delete type=0 #34793
-2026/10/05-03:55:47.274 8c6 Compacting 4@0 + 1@1 files
-2026/10/05-03:55:47.297 8c6 compacted to: files[ 4 1 1 0 0 0 0 ]
+2026/10/05-04:38:52.980 996 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-032397
+2026/10/05-04:38:52.981 996 Delete type=2 #34797
+2026/10/05-04:38:52.981 99a Compacting 4@0 + 1@1 files
+2026/10/05-04:38:52.993 99a Generated table #34799@0: 6674 keys, 158194 bytes
+2026/10/05-04:38:52.993 99a Compacted 4@0 + 1@1 files => 158194 bytes
+2026/10/05-04:38:52.993 99a compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/05-04:38:52.994 99a Delete type=2 #34786
+2026/10/05-04:38:52.994 99a Delete type=2 #34792
+2026/10/05-04:38:52.994 99a Delete type=2 #34794
+2026/10/05-04:38:52.994 99a Delete type=2 #34796
+2026/10/05-04:38:52.994 99a Delete type=2 #34790
+2026/10/05-04:40:58.990 99a Level-0 table #34801: started
+2026/10/05-04:40:58.991 99a Level-0 table #34801: 18312 bytes OK
+2026/10/05-04:40:58.991 99a Delete type=0 #34798
+2026/10/05-04:43:54.159 99a Level-0 table #34803: started
+2026/10/05-04:43:54.161 99a Level-0 table #34803: 18274 bytes OK
+2026/10/05-04:43:54.162 99a Delete type=0 #34800
+2026/10/05-04:45:54.159 99a Level-0 table #34805: started
+2026/10/05-04:45:54.161 99a Level-0 table #34805: 18258 bytes OK
+2026/10/05-04:45:54.161 99a Delete type=0 #34802
