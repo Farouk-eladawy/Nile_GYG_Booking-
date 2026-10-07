@@ -1,10 +1,29 @@
-2026/10/07-00:44:15.025 8b3 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-096814
-2026/10/07-00:46:32.775 8b7 Level-0 table #103055: started
-2026/10/07-00:46:32.777 8b7 Level-0 table #103055: 17223 bytes OK
-2026/10/07-00:46:32.780 8b7 Delete type=0 #103053
-2026/10/07-00:48:28.638 8b3 Level-0 table #103057: started
-2026/10/07-00:48:28.640 8b3 Level-0 table #103057: 16289 bytes OK
-2026/10/07-00:48:28.643 8b3 Delete type=0 #103054
-2026/10/07-00:50:27.589 8b7 Level-0 table #103059: started
-2026/10/07-00:50:27.591 8b7 Level-0 table #103059: 16093 bytes OK
-2026/10/07-00:50:27.594 8b7 Delete type=0 #103056
+2026/10/07-01:35:18.118 8d2 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-096814
+2026/10/07-01:37:36.979 8d6 Level-0 table #103063: started
+2026/10/07-01:37:36.985 8d6 Level-0 table #103063: 16236 bytes OK
+2026/10/07-01:37:36.990 8d6 Delete type=0 #103061
+2026/10/07-01:37:36.990 8d6 Compacting 4@0 + 6@1 files
+2026/10/07-01:37:37.043 8d6 Generated table #103064@0: 74039 keys, 2145410 bytes
+2026/10/07-01:37:37.081 8d6 Generated table #103065@0: 73887 keys, 2145591 bytes
+2026/10/07-01:37:37.086 8d6 Generated table #103066@0: 9137 keys, 265419 bytes
+2026/10/07-01:37:37.086 8d6 Compacted 4@0 + 6@1 files => 4556420 bytes
+2026/10/07-01:37:37.086 8d6 compacted to: files[ 0 5 44 227 0 0 0 ]
+2026/10/07-01:37:37.089 8d6 Delete type=2 #102901
+2026/10/07-01:37:37.089 8d6 Delete type=2 #103055
+2026/10/07-01:37:37.089 8d6 Delete type=2 #103063
+2026/10/07-01:37:37.089 8d6 Delete type=2 #103051
+2026/10/07-01:37:37.089 8d6 Delete type=2 #103057
+2026/10/07-01:37:37.089 8d6 Delete type=2 #103028
+2026/10/07-01:37:37.089 8d6 Delete type=2 #102950
+2026/10/07-01:37:37.089 8d6 Delete type=2 #103050
+2026/10/07-01:37:37.089 8d6 Delete type=2 #103059
+2026/10/07-01:37:37.089 8d6 Delete type=2 #103040
+2026/10/07-01:39:10.108 8d6 Level-0 table #103068: started
+2026/10/07-01:39:10.129 8d6 Level-0 table #103068: 616669 bytes OK
+2026/10/07-01:39:10.132 8d6 Delete type=0 #103062
+2026/10/07-01:41:04.589 8d6 Level-0 table #103070: started
+2026/10/07-01:41:04.607 8d6 Level-0 table #103070: 15256 bytes OK
+2026/10/07-01:41:04.615 8d6 Delete type=0 #103067
+2026/10/07-01:42:37.350 8d6 Level-0 table #103072: started
+2026/10/07-01:42:37.427 8d6 Level-0 table #103072: 617557 bytes OK
+2026/10/07-01:42:37.430 8d6 Delete type=0 #103069
