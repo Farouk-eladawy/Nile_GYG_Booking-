@@ -1,12 +1,20 @@
-2026/10/08-08:07:43.087 8b4 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-032397
-2026/10/08-08:09:44.802 8b8 Level-0 table #35948: started
-2026/10/08-08:09:44.804 8b8 Level-0 table #35948: 23978 bytes OK
-2026/10/08-08:09:44.805 8b8 Delete type=0 #35946
-2026/10/08-08:12:44.803 8b8 Level-0 table #35950: started
-2026/10/08-08:12:44.842 8b8 Level-0 table #35950: 18406 bytes OK
-2026/10/08-08:12:44.843 8b8 Delete type=0 #35947
-2026/10/08-08:15:44.241 8b8 Level-0 table #35952: started
-2026/10/08-08:15:44.245 8b8 Level-0 table #35952: 18422 bytes OK
-2026/10/08-08:15:44.245 8b8 Delete type=0 #35949
-2026/10/08-08:15:44.246 8b8 Compacting 4@0 + 1@1 files
-2026/10/08-08:15:44.249 8b8 compacted to: files[ 4 1 1 0 0 0 0 ]
+2026/10/08-08:58:51.824 9a7 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-032397
+2026/10/08-08:58:51.829 9a7 Delete type=2 #35953
+2026/10/08-08:58:51.833 9ac Compacting 4@0 + 1@1 files
+2026/10/08-08:58:51.851 9ac Generated table #35955@0: 6819 keys, 160511 bytes
+2026/10/08-08:58:51.851 9ac Compacted 4@0 + 1@1 files => 160511 bytes
+2026/10/08-08:58:51.853 9ac compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/08-08:58:51.853 9ac Delete type=2 #35952
+2026/10/08-08:58:51.853 9ac Delete type=2 #35944
+2026/10/08-08:58:51.853 9ac Delete type=2 #35948
+2026/10/08-08:58:51.853 9ac Delete type=2 #35942
+2026/10/08-08:58:51.853 9ac Delete type=2 #35950
+2026/10/08-09:00:52.443 9ab Level-0 table #35957: started
+2026/10/08-09:00:52.445 9ab Level-0 table #35957: 18635 bytes OK
+2026/10/08-09:00:52.446 9ab Delete type=0 #35954
+2026/10/08-09:03:52.444 9ab Level-0 table #35959: started
+2026/10/08-09:03:52.446 9ab Level-0 table #35959: 18418 bytes OK
+2026/10/08-09:03:52.446 9ab Delete type=0 #35956
+2026/10/08-09:05:54.130 9a7 Level-0 table #35961: started
+2026/10/08-09:05:54.134 9a7 Level-0 table #35961: 18764 bytes OK
+2026/10/08-09:05:54.135 9a7 Delete type=0 #35958
