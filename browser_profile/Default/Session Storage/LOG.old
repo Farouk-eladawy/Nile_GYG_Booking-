@@ -1,10 +1,23 @@
-2026/10/08-16:37:22.741 8b5 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-096814
-2026/10/08-16:39:31.269 8b9 Level-0 table #103632: started
-2026/10/08-16:39:31.270 8b9 Level-0 table #103632: 16248 bytes OK
-2026/10/08-16:39:31.273 8b9 Delete type=0 #103630
-2026/10/08-16:41:01.070 8b9 Level-0 table #103634: started
-2026/10/08-16:41:01.081 8b9 Level-0 table #103634: 624992 bytes OK
-2026/10/08-16:41:01.087 8b9 Delete type=0 #103631
-2026/10/08-16:43:00.251 8b9 Level-0 table #103636: started
-2026/10/08-16:43:00.252 8b9 Level-0 table #103636: 16810 bytes OK
-2026/10/08-16:43:00.255 8b9 Delete type=0 #103633
+2026/10/08-17:28:23.200 8bb Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-096814
+2026/10/08-17:30:40.856 8bb Level-0 table #103640: started
+2026/10/08-17:30:40.868 8bb Level-0 table #103640: 16582 bytes OK
+2026/10/08-17:30:40.870 8bb Delete type=0 #103638
+2026/10/08-17:30:40.871 8bb Compacting 4@0 + 3@1 files
+2026/10/08-17:30:40.968 8bb Generated table #103641@0: 31757 keys, 2118273 bytes
+2026/10/08-17:30:41.013 8bb Generated table #103642@0: 74039 keys, 2144798 bytes
+2026/10/08-17:30:41.045 8bb Generated table #103643@0: 56604 keys, 1644725 bytes
+2026/10/08-17:30:41.045 8bb Compacted 4@0 + 3@1 files => 5907796 bytes
+2026/10/08-17:30:41.046 8bb compacted to: files[ 0 4 44 232 0 0 0 ]
+2026/10/08-17:30:41.047 8bb Delete type=2 #103636
+2026/10/08-17:30:41.047 8bb Delete type=2 #103640
+2026/10/08-17:30:41.047 8bb Delete type=2 #103625
+2026/10/08-17:30:41.047 8bb Delete type=2 #103634
+2026/10/08-17:30:41.047 8bb Delete type=2 #103626
+2026/10/08-17:30:41.047 8bb Delete type=2 #103632
+2026/10/08-17:30:41.047 8bb Delete type=2 #103624
+2026/10/08-17:32:05.388 8c0 Level-0 table #103645: started
+2026/10/08-17:32:05.402 8c0 Level-0 table #103645: 625007 bytes OK
+2026/10/08-17:32:05.405 8c0 Delete type=0 #103639
+2026/10/08-17:34:00.327 8bb Level-0 table #103647: started
+2026/10/08-17:34:00.335 8bb Level-0 table #103647: 15405 bytes OK
+2026/10/08-17:34:00.339 8bb Delete type=0 #103644
