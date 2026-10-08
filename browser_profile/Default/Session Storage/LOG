@@ -1,25 +1,10 @@
-2026/10/08-07:16:43.841 8b8 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-096814
-2026/10/08-07:18:58.486 8b8 Level-0 table #103520: started
-2026/10/08-07:18:58.488 8b8 Level-0 table #103520: 15355 bytes OK
-2026/10/08-07:18:58.491 8b8 Delete type=0 #103518
-2026/10/08-07:20:36.190 8bc Level-0 table #103522: started
-2026/10/08-07:20:36.193 8bc Level-0 table #103522: 16280 bytes OK
-2026/10/08-07:20:36.196 8bc Delete type=0 #103519
-2026/10/08-07:22:20.066 8b8 Level-0 table #103524: started
-2026/10/08-07:22:20.068 8b8 Level-0 table #103524: 16496 bytes OK
-2026/10/08-07:22:20.073 8b8 Delete type=0 #103521
-2026/10/08-07:22:20.074 8b8 Compacting 4@0 + 4@1 files
-2026/10/08-07:22:20.118 8b8 Generated table #103525@0: 11218 keys, 2104632 bytes
-2026/10/08-07:22:20.140 8b8 Generated table #103526@0: 73997 keys, 2147257 bytes
-2026/10/08-07:22:20.169 8b8 Generated table #103527@0: 73965 keys, 2147231 bytes
-2026/10/08-07:22:20.170 8b8 Generated table #103528@0: 2042 keys, 59204 bytes
-2026/10/08-07:22:20.171 8b8 Compacted 4@0 + 4@1 files => 6458324 bytes
-2026/10/08-07:22:20.171 8b8 compacted to: files[ 0 5 44 231 0 0 0 ]
-2026/10/08-07:22:20.173 8b8 Delete type=2 #103524
-2026/10/08-07:22:20.173 8b8 Delete type=2 #103520
-2026/10/08-07:22:20.173 8b8 Delete type=2 #103512
-2026/10/08-07:22:20.173 8b8 Delete type=2 #103511
-2026/10/08-07:22:20.173 8b8 Delete type=2 #103514
-2026/10/08-07:22:20.173 8b8 Delete type=2 #103522
-2026/10/08-07:22:20.173 8b8 Delete type=2 #103513
-2026/10/08-07:22:20.173 8b8 Delete type=2 #103516
+2026/10/08-08:07:44.867 8b4 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-096814
+2026/10/08-08:10:07.516 8b8 Level-0 table #103532: started
+2026/10/08-08:10:07.518 8b8 Level-0 table #103532: 15194 bytes OK
+2026/10/08-08:10:07.524 8b8 Delete type=0 #103530
+2026/10/08-08:12:05.707 8b4 Level-0 table #103534: started
+2026/10/08-08:12:05.806 8b4 Level-0 table #103534: 15407 bytes OK
+2026/10/08-08:12:05.809 8b4 Delete type=0 #103531
+2026/10/08-08:14:06.406 8b4 Level-0 table #103536: started
+2026/10/08-08:14:06.536 8b4 Level-0 table #103536: 15270 bytes OK
+2026/10/08-08:14:06.539 8b4 Delete type=0 #103533
