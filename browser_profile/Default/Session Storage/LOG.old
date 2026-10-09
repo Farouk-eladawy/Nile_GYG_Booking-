@@ -1,4 +1,26 @@
-2026/10/09-08:44:21.740 987 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-096814
-2026/10/09-08:48:07.005 98b Level-0 table #103814: started
-2026/10/09-08:48:07.015 98b Level-0 table #103814: 616567 bytes OK
-2026/10/09-08:48:07.019 98b Delete type=0 #103812
+2026/10/09-09:35:17.396 8df Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-096814
+2026/10/09-09:39:01.665 8e4 Level-0 table #103818: started
+2026/10/09-09:39:01.682 8e4 Level-0 table #103818: 616500 bytes OK
+2026/10/09-09:39:01.685 8e4 Delete type=0 #103816
+2026/10/09-09:39:01.686 8e4 Compacting 4@0 + 4@1 files
+2026/10/09-09:39:01.726 8e4 Generated table #103819@0: 31201 keys, 2118415 bytes
+2026/10/09-09:39:01.765 8e4 Generated table #103820@0: 73986 keys, 2147773 bytes
+2026/10/09-09:39:01.792 8e4 Generated table #103821@0: 57626 keys, 1672724 bytes
+2026/10/09-09:39:01.792 8e4 Compacted 4@0 + 4@1 files => 5938912 bytes
+2026/10/09-09:39:01.792 8e4 compacted to: files[ 0 5 44 232 0 0 0 ]
+2026/10/09-09:39:01.794 8e4 Delete type=2 #103808
+2026/10/09-09:39:01.794 8e4 Delete type=2 #103810
+2026/10/09-09:39:01.794 8e4 Delete type=2 #103814
+2026/10/09-09:39:01.794 8e4 Delete type=2 #103805
+2026/10/09-09:39:01.794 8e4 Delete type=2 #103804
+2026/10/09-09:39:01.794 8e4 Delete type=2 #103806
+2026/10/09-09:39:01.794 8e4 Delete type=2 #103792
+2026/10/09-09:39:01.794 8e4 Delete type=2 #103818
+2026/10/09-09:39:01.796 8e4 Compacting 1@1 + 1@2 files
+2026/10/09-09:39:01.829 8e4 Generated table #103822@1: 55 keys, 2437596 bytes
+2026/10/09-09:39:01.861 8e4 Generated table #103823@1: 70 keys, 2351473 bytes
+2026/10/09-09:39:01.862 8e4 Compacted 1@1 + 1@2 files => 4789069 bytes
+2026/10/09-09:39:01.862 8e4 compacted to: files[ 0 4 45 232 0 0 0 ]
+2026/10/09-09:39:01.864 8e4 Delete type=2 #103571
+2026/10/09-09:39:01.864 8e4 Delete type=2 #103628
+2026/10/09-09:39:01.865 8e4 Moved #99208 to level-3 2405521 bytes OK: files[ 0 4 44 233 0 0 0 ]

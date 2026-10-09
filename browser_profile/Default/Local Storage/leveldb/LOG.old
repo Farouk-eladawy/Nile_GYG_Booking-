@@ -1,12 +1,20 @@
-2026/10/09-08:44:20.850 98b Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-032397
-2026/10/09-08:46:21.730 98b Level-0 table #36347: started
-2026/10/09-08:46:21.732 98b Level-0 table #36347: 18504 bytes OK
-2026/10/09-08:46:21.733 98b Delete type=0 #36345
-2026/10/09-08:49:21.730 98b Level-0 table #36349: started
-2026/10/09-08:49:21.732 98b Level-0 table #36349: 18616 bytes OK
-2026/10/09-08:49:21.733 98b Delete type=0 #36346
-2026/10/09-08:51:43.468 987 Level-0 table #36351: started
-2026/10/09-08:51:43.469 987 Level-0 table #36351: 18602 bytes OK
-2026/10/09-08:51:43.470 987 Delete type=0 #36348
-2026/10/09-08:51:43.471 98c Compacting 4@0 + 1@1 files
-2026/10/09-08:51:43.483 98c compacted to: files[ 4 1 1 0 0 0 0 ]
+2026/10/09-09:35:16.181 8df Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-032397
+2026/10/09-09:35:16.182 8df Delete type=2 #36352
+2026/10/09-09:35:16.188 8e3 Compacting 4@0 + 1@1 files
+2026/10/09-09:35:16.379 8e3 Generated table #36354@0: 6867 keys, 161737 bytes
+2026/10/09-09:35:16.379 8e3 Compacted 4@0 + 1@1 files => 161737 bytes
+2026/10/09-09:35:16.383 8e3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/09-09:35:16.383 8e3 Delete type=2 #36347
+2026/10/09-09:35:16.383 8e3 Delete type=2 #36343
+2026/10/09-09:35:16.383 8e3 Delete type=2 #36351
+2026/10/09-09:35:16.383 8e3 Delete type=2 #36341
+2026/10/09-09:35:16.383 8e3 Delete type=2 #36349
+2026/10/09-09:37:17.296 8e3 Level-0 table #36356: started
+2026/10/09-09:37:17.303 8e3 Level-0 table #36356: 18901 bytes OK
+2026/10/09-09:37:17.304 8e3 Delete type=0 #36353
+2026/10/09-09:39:17.296 8e3 Level-0 table #36358: started
+2026/10/09-09:39:17.327 8e3 Level-0 table #36358: 19195 bytes OK
+2026/10/09-09:39:17.327 8e3 Delete type=0 #36355
+2026/10/09-09:42:17.296 8e3 Level-0 table #36360: started
+2026/10/09-09:42:17.303 8e3 Level-0 table #36360: 19004 bytes OK
+2026/10/09-09:42:17.303 8e3 Delete type=0 #36357
