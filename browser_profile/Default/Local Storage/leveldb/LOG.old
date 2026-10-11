@@ -1,22 +1,12 @@
-2026/10/11-01:23:23.511 89f Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-032397
-2026/10/11-01:24:25.764 8a3 Level-0 table #36971: started
-2026/10/11-01:24:25.765 8a3 Level-0 table #36971: 18826 bytes OK
-2026/10/11-01:24:25.765 8a3 Delete type=0 #36969
-2026/10/11-01:28:24.252 8a3 Level-0 table #36973: started
-2026/10/11-01:28:24.253 8a3 Level-0 table #36973: 19166 bytes OK
-2026/10/11-01:28:24.254 8a3 Delete type=0 #36970
-2026/10/11-01:29:24.251 8a3 Level-0 table #36975: started
-2026/10/11-01:29:24.252 8a3 Level-0 table #36975: 18654 bytes OK
-2026/10/11-01:29:24.253 8a3 Delete type=0 #36972
-2026/10/11-01:29:24.253 8a3 Compacting 4@0 + 1@1 files
-2026/10/11-01:29:24.256 8a3 Generated table #36976@0: 6951 keys, 163060 bytes
-2026/10/11-01:29:24.256 8a3 Compacted 4@0 + 1@1 files => 163060 bytes
-2026/10/11-01:29:24.256 8a3 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/10/11-01:29:24.257 8a3 Delete type=2 #36965
-2026/10/11-01:29:24.257 8a3 Delete type=2 #36971
-2026/10/11-01:29:24.257 8a3 Delete type=2 #36975
-2026/10/11-01:29:24.257 8a3 Delete type=2 #36967
-2026/10/11-01:29:24.257 8a3 Delete type=2 #36973
-2026/10/11-01:31:24.251 8a3 Level-0 table #36978: started
-2026/10/11-01:31:24.277 8a3 Level-0 table #36978: 23398 bytes OK
-2026/10/11-01:31:24.278 8a3 Delete type=0 #36974
+2026/10/11-02:14:09.805 998 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Local Storage/leveldb/MANIFEST-032397
+2026/10/11-02:16:10.373 99c Level-0 table #36982: started
+2026/10/11-02:16:10.379 99c Level-0 table #36982: 18294 bytes OK
+2026/10/11-02:16:10.380 99c Delete type=0 #36980
+2026/10/11-02:19:10.372 99c Level-0 table #36984: started
+2026/10/11-02:19:10.374 99c Level-0 table #36984: 19927 bytes OK
+2026/10/11-02:19:10.375 99c Delete type=0 #36981
+2026/10/11-02:22:10.030 998 Level-0 table #36986: started
+2026/10/11-02:22:10.032 998 Level-0 table #36986: 18652 bytes OK
+2026/10/11-02:22:10.033 998 Delete type=0 #36983
+2026/10/11-02:22:10.034 998 Compacting 4@0 + 1@1 files
+2026/10/11-02:22:10.037 998 compacted to: files[ 4 1 1 0 0 0 0 ]
