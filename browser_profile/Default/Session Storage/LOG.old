@@ -1,28 +1,12 @@
-2026/10/11-17:28:48.332 8aa Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-096814
-2026/10/11-17:32:26.760 8ae Level-0 table #104436: started
-2026/10/11-17:32:26.903 8ae Level-0 table #104436: 607194 bytes OK
-2026/10/11-17:32:26.906 8ae Delete type=0 #104434
-2026/10/11-17:36:21.885 8af Level-0 table #104438: started
-2026/10/11-17:36:21.900 8af Level-0 table #104438: 605717 bytes OK
-2026/10/11-17:36:21.903 8af Delete type=0 #104435
-2026/10/11-17:36:21.904 8af Compacting 4@0 + 3@1 files
-2026/10/11-17:36:21.945 8af Generated table #104439@0: 32204 keys, 2118849 bytes
-2026/10/11-17:36:21.987 8af Generated table #104440@0: 74074 keys, 2146817 bytes
-2026/10/11-17:36:22.014 8af Generated table #104441@0: 62957 keys, 1824923 bytes
-2026/10/11-17:36:22.014 8af Compacted 4@0 + 3@1 files => 6090589 bytes
-2026/10/11-17:36:22.015 8af compacted to: files[ 0 5 44 238 0 0 0 ]
-2026/10/11-17:36:22.017 8af Delete type=2 #104426
-2026/10/11-17:36:22.017 8af Delete type=2 #104427
-2026/10/11-17:36:22.017 8af Delete type=2 #104438
-2026/10/11-17:36:22.017 8af Delete type=2 #104432
-2026/10/11-17:36:22.017 8af Delete type=2 #104430
-2026/10/11-17:36:22.017 8af Delete type=2 #104428
-2026/10/11-17:36:22.017 8af Delete type=2 #104436
-2026/10/11-17:36:22.018 8af Compacting 1@1 + 1@2 files
-2026/10/11-17:36:22.050 8af Generated table #104442@1: 32 keys, 2411614 bytes
-2026/10/11-17:36:22.082 8af Generated table #104443@1: 65 keys, 2341341 bytes
-2026/10/11-17:36:22.082 8af Compacted 1@1 + 1@2 files => 4752955 bytes
-2026/10/11-17:36:22.083 8af compacted to: files[ 0 4 45 238 0 0 0 ]
-2026/10/11-17:36:22.085 8af Delete type=2 #104282
-2026/10/11-17:36:22.085 8af Delete type=2 #104330
-2026/10/11-17:36:22.086 8af Moved #99808 to level-3 2420395 bytes OK: files[ 0 4 44 239 0 0 0 ]
+2026/10/11-18:19:40.062 9aa Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-096814
+2026/10/11-18:23:22.043 9ae Level-0 table #104447: started
+2026/10/11-18:23:22.052 9ae Level-0 table #104447: 606224 bytes OK
+2026/10/11-18:23:22.056 9ae Delete type=0 #104445
+2026/10/11-19:06:42.956 9af Level-0 table #104449: started
+2026/10/11-19:06:42.967 9af Level-0 table #104449: 612206 bytes OK
+2026/10/11-19:06:42.972 9af Delete type=0 #104446
+2026/10/11-19:17:07.842 9aa Level-0 table #104451: started
+2026/10/11-19:17:07.852 9aa Level-0 table #104451: 611983 bytes OK
+2026/10/11-19:17:07.855 9aa Delete type=0 #104448
+2026/10/11-19:22:09.699 9aa Level-0 table #104453: started
+2026/10/11-19:22:09.703 9aa Level-0 table #104453: 11149 bytes OK
