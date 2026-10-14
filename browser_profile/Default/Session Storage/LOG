@@ -1,26 +1,10 @@
-2026/10/14-06:02:08.838 a97 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-096814
-2026/10/14-06:46:09.444 a9e Level-0 table #105218: started
-2026/10/14-06:46:09.446 a9e Level-0 table #105218: 11765 bytes OK
-2026/10/14-06:46:09.454 a9e Delete type=0 #105216
-2026/10/14-06:54:55.690 a97 Level-0 table #105220: started
-2026/10/14-06:54:55.695 a97 Level-0 table #105220: 14484 bytes OK
-2026/10/14-06:54:55.699 a97 Delete type=0 #105217
-2026/10/14-06:56:40.249 a9e Level-0 table #105222: started
-2026/10/14-06:56:40.254 a9e Level-0 table #105222: 15830 bytes OK
-2026/10/14-06:56:40.260 a9e Delete type=0 #105219
-2026/10/14-07:00:11.510 a9e Level-0 table #105224: started
-2026/10/14-07:00:11.512 a9e Level-0 table #105224: 15133 bytes OK
-2026/10/14-07:00:11.519 a9e Delete type=0 #105221
-2026/10/14-07:00:11.520 a9e Compacting 4@0 + 3@1 files
-2026/10/14-07:00:11.590 a9e Generated table #105225@0: 53140 keys, 2131479 bytes
-2026/10/14-07:00:11.632 a9e Generated table #105226@0: 74164 keys, 2147080 bytes
-2026/10/14-07:00:11.661 a9e Generated table #105227@0: 47215 keys, 1369669 bytes
-2026/10/14-07:00:11.661 a9e Compacted 4@0 + 3@1 files => 5648228 bytes
-2026/10/14-07:00:11.662 a9e compacted to: files[ 0 4 44 244 0 0 0 ]
-2026/10/14-07:00:11.665 a9e Delete type=2 #105220
-2026/10/14-07:00:11.665 a9e Delete type=2 #105218
-2026/10/14-07:00:11.665 a9e Delete type=2 #105214
-2026/10/14-07:00:11.665 a9e Delete type=2 #105212
-2026/10/14-07:00:11.665 a9e Delete type=2 #105222
-2026/10/14-07:00:11.665 a9e Delete type=2 #105213
-2026/10/14-07:00:11.665 a9e Delete type=2 #105224
+2026/10/14-08:02:14.965 9d7 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-096814
+2026/10/14-08:13:56.297 9d7 Level-0 table #105231: started
+2026/10/14-08:13:56.301 9d7 Level-0 table #105231: 13625 bytes OK
+2026/10/14-08:13:56.304 9d7 Delete type=0 #105229
+2026/10/14-08:15:50.634 9de Level-0 table #105233: started
+2026/10/14-08:15:50.637 9de Level-0 table #105233: 16156 bytes OK
+2026/10/14-08:15:50.644 9de Delete type=0 #105230
+2026/10/14-08:19:35.771 9dd Level-0 table #105235: started
+2026/10/14-08:19:35.773 9dd Level-0 table #105235: 15411 bytes OK
+2026/10/14-08:19:35.779 9dd Delete type=0 #105232
