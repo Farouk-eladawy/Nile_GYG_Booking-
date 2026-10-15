@@ -1,26 +1,20 @@
-2026/10/15-05:02:01.633 8e3 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-096814
-2026/10/15-05:04:07.514 8e3 Level-0 table #105445: started
-2026/10/15-05:04:07.516 8e3 Level-0 table #105445: 16012 bytes OK
-2026/10/15-05:04:07.519 8e3 Delete type=0 #105443
-2026/10/15-05:04:07.520 8e3 Compacting 4@0 + 3@1 files
-2026/10/15-05:04:07.580 8e3 Generated table #105446@0: 56170 keys, 2131956 bytes
-2026/10/15-05:04:07.622 8e3 Generated table #105447@0: 74180 keys, 2147704 bytes
-2026/10/15-05:04:07.648 8e3 Generated table #105448@0: 51696 keys, 1500922 bytes
-2026/10/15-05:04:07.648 8e3 Compacted 4@0 + 3@1 files => 5780582 bytes
-2026/10/15-05:04:07.649 8e3 compacted to: files[ 0 4 44 244 0 0 0 ]
-2026/10/15-05:04:07.651 8e3 Delete type=2 #105439
-2026/10/15-05:04:07.652 8e3 Delete type=2 #105435
-2026/10/15-05:04:07.652 8e3 Delete type=2 #105433
-2026/10/15-05:04:07.652 8e3 Delete type=2 #105434
-2026/10/15-05:04:07.652 8e3 Delete type=2 #105445
-2026/10/15-05:04:07.652 8e3 Delete type=2 #105437
-2026/10/15-05:04:07.652 8e3 Delete type=2 #105441
-2026/10/15-05:05:47.931 8e3 Level-0 table #105450: started
-2026/10/15-05:05:47.948 8e3 Level-0 table #105450: 16096 bytes OK
-2026/10/15-05:05:47.978 8e3 Delete type=0 #105444
-2026/10/15-05:07:27.295 8e3 Level-0 table #105452: started
-2026/10/15-05:07:27.342 8e3 Level-0 table #105452: 16003 bytes OK
-2026/10/15-05:07:27.345 8e3 Delete type=0 #105449
-2026/10/15-05:17:25.924 8e3 Level-0 table #105454: started
-2026/10/15-05:17:25.980 8e3 Level-0 table #105454: 13592 bytes OK
-2026/10/15-05:17:26.016 8e3 Delete type=0 #105451
+2026/10/15-06:02:06.771 8e2 Reusing MANIFEST /home/runner/work/Nile_GYG_Booking-/Nile_GYG_Booking-/browser_profile/Default/Session Storage/MANIFEST-096814
+2026/10/15-06:44:01.572 8e2 Level-0 table #105458: started
+2026/10/15-06:44:01.574 8e2 Level-0 table #105458: 11535 bytes OK
+2026/10/15-06:44:01.577 8e2 Delete type=0 #105456
+2026/10/15-06:44:01.581 8e8 Compacting 4@0 + 3@1 files
+2026/10/15-06:44:01.630 8e8 Generated table #105459@0: 56325 keys, 2132350 bytes
+2026/10/15-06:44:01.762 8e8 Generated table #105460@0: 74163 keys, 2146878 bytes
+2026/10/15-06:44:01.783 8e8 Generated table #105461@0: 51991 keys, 1508130 bytes
+2026/10/15-06:44:01.783 8e8 Compacted 4@0 + 3@1 files => 5787358 bytes
+2026/10/15-06:44:01.783 8e8 compacted to: files[ 0 4 44 244 0 0 0 ]
+2026/10/15-06:44:01.785 8e8 Delete type=2 #105448
+2026/10/15-06:44:01.785 8e8 Delete type=2 #105447
+2026/10/15-06:44:01.785 8e8 Delete type=2 #105454
+2026/10/15-06:44:01.785 8e8 Delete type=2 #105452
+2026/10/15-06:44:01.785 8e8 Delete type=2 #105450
+2026/10/15-06:44:01.785 8e8 Delete type=2 #105458
+2026/10/15-06:44:01.785 8e8 Delete type=2 #105446
+2026/10/15-06:47:44.396 8e2 Level-0 table #105463: started
+2026/10/15-06:47:44.401 8e2 Level-0 table #105463: 10298 bytes OK
+2026/10/15-06:47:44.405 8e2 Delete type=0 #105457
